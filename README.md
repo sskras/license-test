@@ -9,4 +9,4 @@ https://github.com/licensee/licensee/issues/379
 
 ## License
 
-This project is under the [Blue Oak](LICENSE.MD) license.
+This project is under the [Blue Oak Model License 1.0.0](LICENSE.md).
