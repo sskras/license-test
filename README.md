@@ -6,3 +6,7 @@ Here I intend to:
 
 2019-05-13 the list reported here:
 https://github.com/licensee/licensee/issues/379  
+
+## License
+
+This project is under the [Blue Oak](LICENSE.MD) license.
