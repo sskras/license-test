@@ -1,7 +1,11 @@
+(finished crawling at https://github.com/search?p=6&q=%22BlueOak-1.0.0%22&type=Code)
+
 https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md  
 https://github.com/AdrianKoshka/playbooks/blob/master/LICENSE.md  
 https://github.com/agentofuser/interplanetarygatsby.com/blob/master/LICENSE.md  
 https://github.com/agentofuser/ipfs-deploy/blob/master/LICENSE.md  
+https://github.com/argovaerts/FloreneB/blob/master/LICENSE.md  
+https://github.com/ALLATRA-IT/ephyr/blob/master/LICENSE.md  
 https://github.com/Ameobea/spotify-homepage/blob/master/LICENSE  
 https://github.com/anoxic/asana-lite/blob/master/LICENSE  
 https://github.com/anoxic/dot_bootstrap/blob/master/LICENSE  
@@ -13,6 +17,9 @@ https://github.com/anoxic/monoj/blob/mastro/LICENSE
 https://github.com/anoxic/omen/blob/master/LICENSE  
 https://github.com/anoxic/php-absent/blob/master/LICENSE  
 https://github.com/anoxic/postgressive/blob/mastro/LICENSE  
+https://github.com/ar-nelson/broadcast-interfaces/blob/master/LICENSE.md  
+https://github.com/Beanow/keyv-fs-sync/blob/master/LICENSE.md  
+https://github.com/Beanow/rsync-pair/blob/master/LICENSE.md  
 https://github.com/bencooper222/benc-coffee/blob/master/LICENSE.MD  
 https://github.com/bencooper222/firefox-address-bar-expression-parser/blob/master/LICENSE.MD  
 https://github.com/bencooper222/write-league-games-spreadsheet/blob/master/LICENSE.md  
@@ -22,14 +29,21 @@ https://github.com/bitsnap/sqwheel/blob/master/LICENSE.md
 https://github.com/bookiza/m2s/blob/master/LICENSE.md  
 https://github.com/bookiza/purell/blob/master/LICENSE.md  
 https://github.com/callumobrien-bluefruit/zorl/blob/master/LICENSE.md  
+https://github.com/commonform/commonform-markup-parse/blob/master/LICENSE.md  
+https://github.com/commonform/commonform-validate-directions/blob/main/LICENSE.md  
 https://github.com/commonform/commonmark-to-commonform/blob/master/LICENSE.md  
+https://github.com/compend/server/blob/main/LICENSE.md  
+https://github.com/conduitimpl/js-library-template/blob/master/LICENSE.BlueOak-1.0.0.md  
+https://github.com/conduitimpl/qxpath/blob/master/LICENSE.BlueOak-1.0.0.md  
 https://github.com/creditstxt/creditstxt.js/blob/master/LICENSE.md  
 https://github.com/creditstxt/git-creditstxt/blob/master/LICENSE.md  
 https://github.com/cronokirby/ripple/blob/master/LICENSE.md  
 https://github.com/drone/drone-gc/blob/master/LICENSE.md  
+https://github.com/drone/drone-hugo-theme/blob/master/LICENSE.md  
 https://github.com/drone/drone-migrate/blob/master/LICENSE.md  
 https://github.com/ericfitz/RemoteAccess/blob/master/LICENSE.md  
 https://github.com/ericfitz/unifi-controller/blob/master/LICENSE.md  
+https://github.com/Fishrock123/tide-compress/blob/main/LICENSE.md
 https://github.com/freman/putty_hosts/blob/master/LICENSE.md  
 https://github.com/freman/revssh/blob/master/LICENSE.md  
 https://github.com/freman/sshcode/blob/master/LICENSE.md  
@@ -37,16 +51,24 @@ https://github.com/gfabrizi/PlainSimpleFramework/blob/master/LICENSE.md
 https://github.com/hguiney/eslint-config-hughx/blob/master/LICENSE.md  
 https://github.com/hguiney/npm-minify/blob/master/LICENSE.md  
 https://github.com/instana/website-monitoring-examples/blob/master/LICENSE  
+https://github.com/instrumentisto/medea-jason/blob/master/flutter/LICENSE.md  
+https://github.com/instrumentisto/tracerr-rs/blob/master/LICENSE.md  
 https://github.com/ipelekhan/blog/blob/master/LICENSE.md  
 https://github.com/ipelekhan/boml/blob/master/LICENSE.md  
 https://github.com/ipelekhan/koabars/blob/master/LICENSE.md  
 https://github.com/ipelekhan/wowsuch.games/blob/master/LICENSE.md  
+https://github.com/isiahmeadows/mithril-helpers/blob/master/LICENSE.txt (dual licensed)  
+https://github.com/izik1/rasen/blob/main/LICENSE.md  
 https://github.com/jdoubleu/Silbentrenner/blob/master/LICENSE  
+https://github.com/jez/as-tree/blob/master/LICENSE.md  
 https://github.com/joehand/dat-folders/blob/master/LICENSE  
 https://github.com/jsiebern/bs-material-ui/blob/master/LICENSE  
+https://github.com/kemitchell/check-tls-configuration.rs/blob/main/Cargo.toml  
+https://github.com/kemitchell/list-new-rss-items.js/blob/main/package.json  
 https://github.com/kemitchell/sustainability-schema.json/blob/master/LICENSE.md  
 https://github.com/kieranpotts/rootfiles/blob/dev/LICENSE.md  
 https://github.com/kurtraschke/pvta-gtfsrealtime/blob/master/LICENSE.md  
+https://github.com/leebradley/zipstats/blob/bdb8379b0911d077ae2cc35ba9d441e402c31a4a/LICENSE.md  
 https://github.com/Magikcraft/scriptcraft-modular-arch/blob/master/license.md  
 https://github.com/martindzejky/dotfiles/blob/master/LICENSE.md  
 https://github.com/martindzejky/modify-element/blob/master/LICENSE.md  
@@ -54,6 +76,8 @@ https://github.com/martindzejky/self-surgeon/blob/master/LICENSE.md
 https://github.com/mcanalesmayo/dotfiles/blob/master/LICENSE  
 https://github.com/michaelbiven/TableOfContents/blob/master/LICENSE.md  
 https://github.com/michaelsmanley/twitclean/blob/master/LICENSE.md  
+https://github.com/mitchtys/sles-terraform/blob/master/license.spdx  
+https://github.com/mitchtys/stc/blob/master/license.spdx  
 https://github.com/moko256/b27s/blob/master/LICENSE.md  
 https://github.com/NathanFlurry/voxel-test/blob/master/LICENSE.md  
 https://github.com/naugtur/debugging-aid/blob/master/LICENSE.md  
@@ -68,10 +92,13 @@ https://github.com/passy/arduino-433mhz-mqtt-client/blob/master/LICENSE.md
 https://github.com/pricingmonkey/rxjs-redux/blob/master/LICENSE.md  
 https://github.com/prototypefund/ptf-ci/blob/master/LICENSE  
 https://github.com/prototypefund/ptf-code/blob/master/LICENSE  
+https://github.com/qrpnxz/wkdhash/blob/master/COPYRIGHT.md  
 https://github.com/resknow/boilerplate/blob/master/LICENSE.md  
+https://github.com/stickeritis/sticker2-python/blob/master/Cargo.toml  
 https://github.com/swinslow/tracker/blob/master/LICENSE.md  
 https://github.com/tartley/belter/blob/master/LICENSE.md  
 https://github.com/tasmo/mutt-and-gpg/blob/master/LICENSE  
+https://github.com/teamopen-dev/sourcecred-stack-lookup/blob/master/LICENSE.md
 https://github.com/tek/cornea/blob/master/LICENSE  
 https://github.com/tek/ribosome-hs/blob/master/LICENSE  
 https://github.com/thejpster/monotron-apps/blob/master/monotron-app/LICENCE.md  
@@ -90,3 +117,4 @@ https://github.com/WizardL/kyuu/blob/master/LICENSE.md
 https://github.com/wvansteen/scala_bootcamp/blob/master/LICENSE.md  
 https://github.com/zthurman/Arduino_Projects/blob/master/LICENSE.md  
 https://github.com/zthurman/Research/blob/master/LICENSE.md  
+
