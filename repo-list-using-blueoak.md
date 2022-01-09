@@ -1,5 +1,7 @@
-2019-05-13 Initial list, 92 items.
-2022-01-09 Updated, now 138 items.  Finished crawling at https://github.com/search?p=10&q=%22BlueOak-1.0.0%22&type=Code (of 100 pages, 3,907 code results)
+2019-05-13 Initial list, 92 items.  
+2022-01-09 Updated, now 138 items.  
+  
+Finished crawling at [page 10 of 100 pages](https://github.com/search?p=10&q=%22BlueOak-1.0.0%22&type=Code), 3,907 code results:
 
 https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md  
 https://github.com/AdrianKoshka/playbooks/blob/master/LICENSE.md  
