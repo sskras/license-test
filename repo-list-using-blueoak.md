@@ -92,6 +92,7 @@ https://github.com/martindzejky/modify-element/blob/master/LICENSE.md
 https://github.com/martindzejky/self-surgeon/blob/master/LICENSE.md  
 https://github.com/mavteam/commonform-grpc/blob/master/LICENSE.md  
 https://github.com/mcanalesmayo/dotfiles/blob/master/LICENSE  
+https://github.com/metta-systems/vesper/blob/develop/LICENSE.BlueOak-1.0.0.md  
 https://github.com/michaelbiven/TableOfContents/blob/master/LICENSE.md  
 https://github.com/michaelsmanley/twitclean/blob/master/LICENSE.md  
 https://github.com/Minoru/plentyfs/blob/main/LICENSE.md  
@@ -131,6 +132,7 @@ https://github.com/tmcw/big/blob/master/LICENSE.md
 https://github.com/tov/split_ext_rs/blob/master/LICENSE.md  
 https://github.com/twe4ked/diff-color/blob/master/LICENSE.md  
 https://github.com/unparalloser/bfpile/blob/main/bfpile.nimble  
+https://github.com/urschrei/minimal_cross_manylinux/blob/master/LICENSE.md  
 https://github.com/VandyHacks/awesome/blob/master/LICENSE.md  
 https://github.com/VandyHacks/vh-dev-training/blob/master/LICENSE.md  
 https://github.com/vazub/lbxtract-red/blob/master/LICENSE.md  
