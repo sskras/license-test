@@ -8,7 +8,6 @@ https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md
 https://github.com/AdrianKoshka/playbooks/blob/master/LICENSE.md  
 https://github.com/agentofuser/interplanetarygatsby.com/blob/master/LICENSE.md  
 https://github.com/agentofuser/ipfs-deploy/blob/master/LICENSE.md  
-https://github.com/argovaerts/FloreneB/blob/master/LICENSE.md  
 https://github.com/ALLATRA-IT/ephyr/blob/master/LICENSE.md  
 https://github.com/Ameobea/spotify-homepage/blob/master/LICENSE  
 https://github.com/AnimiVulpis/moonshot-2020/blob/main/LICENSE.md  
@@ -23,6 +22,7 @@ https://github.com/anoxic/omen/blob/master/LICENSE
 https://github.com/anoxic/php-absent/blob/master/LICENSE  
 https://github.com/anoxic/postgressive/blob/mastro/LICENSE  
 https://github.com/ar-nelson/broadcast-interfaces/blob/master/LICENSE.md  
+https://github.com/argovaerts/FloreneB/blob/master/LICENSE.md  
 https://github.com/Beanow/keyv-fs-sync/blob/master/LICENSE.md  
 https://github.com/Beanow/rsync-pair/blob/master/LICENSE.md  
 https://github.com/bencooper222/benc-coffee/blob/master/LICENSE.MD  
