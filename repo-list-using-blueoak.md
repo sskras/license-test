@@ -4,7 +4,7 @@
 Finished crawling at [page 10 of 100 pages](https://github.com/search?p=10&q=%22BlueOak-1.0.0%22&type=Code), 3,907 code results.  
 Another query to run: [84 pages](https://github.com/search?q=Blue+Oak+filename%3ALICENSE&type=Code), 831 code results.  
 
-2022-05-28 Updated, now 205 items.  
+2022-05-28 Updated, now 201 item.  
 
 Finished crawling at [page 10 of 84 pages](https://github.com/search?p=10&q=Blue+Oak+filename%3ALICENSE&type=Code), 834 code results.
 
@@ -107,10 +107,10 @@ https://github.com/instrumentisto/medea-jason/blob/master/flutter/LICENSE.md
 https://github.com/instrumentisto/phpdoc-docker-image/blob/master/LICENSE.md  
 https://github.com/instrumentisto/tracerr-rs/blob/master/LICENSE.md  
 https://github.com/ioistired/syncpg/blob/master/LICENSE.md  
-https://github.com/ipelekhan/blog/blob/master/LICENSE.md  
-https://github.com/ipelekhan/boml/blob/master/LICENSE.md  
-https://github.com/ipelekhan/koabars/blob/master/LICENSE.md  
-https://github.com/ipelekhan/wowsuch.games/blob/master/LICENSE.md  
+~https://github.com/ipelekhan/blog/blob/master/LICENSE.md~ (deleted user)  
+~https://github.com/ipelekhan/boml/blob/master/LICENSE.md~  (deleted user)  
+~https://github.com/ipelekhan/koabars/blob/master/LICENSE.md~  (deleted user)  
+~https://github.com/ipelekhan/wowsuch.games/blob/master/LICENSE.md~  (deleted user)  
 https://github.com/isiahmeadows/mithril-helpers/blob/master/LICENSE.txt (dual licensed)  
 https://github.com/izik1/rasen/blob/main/LICENSE.md  
 https://github.com/jdoubleu/Silbentrenner/blob/master/LICENSE  
