@@ -4,13 +4,19 @@
 Finished crawling at [page 10 of 100 pages](https://github.com/search?p=10&q=%22BlueOak-1.0.0%22&type=Code), 3,907 code results.  
 Another query to run: [84 pages](https://github.com/search?q=Blue+Oak+filename%3ALICENSE&type=Code), 831 code results.  
 
-2022-05-28 Updated, now 238 items.  
+2022-05-28 Updated, now 235 items.  
 
 Finished crawling at [page 17 of 92 pages](https://github.com/search?p=17&q=Blue+Oak+filename%3ALICENSE&type=Code), 915 code results.
 
+2022-05-29 Updated, now 292 items.  
+
+Finished crawling at [page 29 of 87 pages](https://github.com/search?p=29&q=Blue+Oak+filename%3ALICENSE&type=Code), 867 code results.
+
+https://github.com/7fffffff/jsf/blob/main/LICENSE.md  
 https://github.com/7fffffff/xspf/blob/main/LICENSE.md  
 https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md  
 https://github.com/AdrianKoshka/playbooks/blob/master/LICENSE.md  
+https://github.com/AdrianKoshka/pwsh-profile/blob/master/LICENSE.md  
 https://github.com/agentofuser/interplanetarygatsby.com/blob/master/LICENSE.md  
 https://github.com/agentofuser/ipfs-deploy/blob/master/LICENSE.md  
 https://github.com/ALLATRA-IT/ephyr/blob/master/LICENSE.md  
@@ -43,8 +49,11 @@ https://github.com/bencooper222/write-league-games-spreadsheet/blob/master/LICEN
 https://github.com/bitboxer/leandoo_menu_mailer/blob/master/LICENSE.md  
 https://github.com/bitsnap/pgvalidat/blob/master/LICENSE.md  
 https://github.com/bitsnap/sqwheel/blob/master/LICENSE.md  
+https://github.com/bookiza/h2s/blob/master/LICENSE.md  
 https://github.com/bookiza/m2s/blob/master/LICENSE.md  
 https://github.com/bookiza/purell/blob/master/LICENSE.md  
+https://github.com/bparsons/fastmail-css/blob/master/LICENSE.md  
+https://github.com/Cashmaney/tendermint-validator/blob/master/LICENSE.md  
 https://github.com/callumobrien-bluefruit/zorl/blob/master/LICENSE.md  
 https://github.com/ceejbot/cat-names/blob/latest/LICENSE  
 https://github.com/ceejbot/gsv-culture-ships/blob/latest/LICENSE  
@@ -54,10 +63,14 @@ https://github.com/certusone/terra-oracle/blob/master/LICENSE.md
 https://github.com/cmitsakis/angaros/blob/master/LICENSE-BlueOak.md  (half-licensed)
 https://github.com/cmitsakis/polysender/blob/master/LICENSE.md (half-licensed)  
 https://github.com/commonform/agreement-schedules-exhibits-numbering/blob/main/LICENSE.md
+https://github.com/commonform/commonform-analyze/blob/main/LICENSE.md  
+https://github.com/commonform/commonform-critique/blob/main/LICENSE.md  
+https://github.com/commonform/commonform-get-editions/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-get-form/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-hash/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-html/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-markup-parse/blob/master/LICENSE.md  
+https://github.com/commonform/commonform-predicate/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-regexp-annotator/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-validate-directions/blob/main/LICENSE.md  
 https://github.com/commonform/commonmark-to-commonform/blob/master/LICENSE.md  
@@ -69,64 +82,84 @@ https://github.com/compend/plugin-eslint/blob/main/LICENSE.md
 https://github.com/compend/server/blob/main/LICENSE.md  
 https://github.com/compend/standards/blob/main/LICENSE.md  
 https://github.com/conduitimpl/js-library-template/blob/master/LICENSE.BlueOak-1.0.0.md  
-https://github.com/conduitimpl/qxpath/blob/master/LICENSE.BlueOak-1.0.0.md  
+https://github.com/conduitimpl/qxpath/blob/master/LICENSE.BlueOak-1.0.0.md (dual licensed)  
 https://github.com/creditstxt/creditstxt.js/blob/master/LICENSE.md  
-https://github.com/creeder-uturn/craig.uturndata.com/ (page, two subdirs)  
 https://github.com/creditstxt/git-creditstxt/blob/master/LICENSE.md  
+https://github.com/creeder-uturn/craig.uturndata.com/ (page, two subdirs)  
 https://github.com/cronokirby/ripple/blob/master/LICENSE.md  
+https://github.com/dauTT/valink/blob/master/LICENSE.md  
 https://github.com/decred/dcrdex/blob/master/LICENSE.md  
 https://github.com/decred/release/blob/master/LICENSE.md  
+https://github.com/developdata/unit3_week_01/blob/master/LICENSE.md  
+https://github.com/dhimmel/pubmedpy/blob/main/license.md  
+https://github.com/DosAmp/dbaurshim/blob/danube/LICENSE.md  
 https://github.com/dotfilet/core/blob/main/LICENSE.md  
 https://github.com/dotfilet/developer/blob/main/LICENSE.md  
 https://github.com/dotfilet/shell/blob/main/LICENSE.md  
 https://github.com/dotfilet/utilities/blob/main/LICENSE.md  
+https://github.com/drone/boilr-convert/blob/master/LICENSE.md  
 https://github.com/drone/boilr-environ/blob/master/LICENSE.md  
+https://github.com/drone/boilr-plugin/blob/master/LICENSE.md  
 https://github.com/drone/docs/blob/master/LICENSE.md  
 https://github.com/drone/drone-gc/blob/master/LICENSE.md  
+https://github.com/drone/drone-gitleaks/blob/master/LICENSE.md  
 https://github.com/drone/drone-hugo-theme/blob/master/LICENSE.md  
 https://github.com/drone/drone-jira  
 https://github.com/drone/drone-migrate/blob/master/LICENSE.md  
+https://github.com/drone/drone-ui/blob/main/LICENSE.md  
 https://github.com/drone/hubot-drone/blob/master/LICENSE.md  
+https://github.com/drone-plugins/drone-harness-trigger/blob/main/LICENSE.md  
 https://github.com/Earnestly/webfeeds/blob/master/LICENSE  
 https://github.com/eaze/preroll/blob/latest/LICENSE.md  
 https://github.com/eigenfoo/cryptics/blob/main/LICENSE.pandoc-markdown-css-theme.txt (part-licensed)  
+https://github.com/eoinmcafee00/drone-container-scanner/blob/main/LICENSE.md  
 https://github.com/eoinmcafee00/drone-nuget/blob/main/LICENSE.md  
 https://github.com/ericfitz/RemoteAccess/blob/master/LICENSE.md  
 https://github.com/ericfitz/unifi-controller/blob/master/LICENSE.md  
+https://github.com/ErickEspinozaT/coturn/blob/master/LICENSE.md  
 https://github.com/eyeseast/nicar-2020-three-kinds-of-code/blob/master/LICENSE.md  
 https://github.com/filipekiss/nebula/blob/main/LICENSE.md  
 https://github.com/finalfusion/finalfusion-inspector/blob/master/LICENSE.md  
 https://github.com/Fishrock123/tide-compress/blob/main/LICENSE.md  
+https://github.com/Fishrock123/tide-lambda-listener/blob/main/LICENSE.md  
 https://github.com/freman/putty_hosts/blob/master/LICENSE.md  
 https://github.com/freman/revssh/blob/master/LICENSE.md  
 https://github.com/freman/sshcode/blob/master/LICENSE.md  
 https://github.com/gabriel-fallen/rendezvous/blob/main/LICENSE  
 https://github.com/gbirke/advent-of-code-2020/blob/main/LICENSE.md  
 https://github.com/gfabrizi/PlainSimpleFramework/blob/master/LICENSE.md  
+https://github.com/glebd/trkt/blob/master/LICENSE.md  
+https://github.com/git-learning-game/oh-my-git/blob/main/LICENSE.md  
 https://github.com/GoldsteinE/compe-latex-symbols/blob/master/LICENSE.md  
 https://github.com/harness/drone-artifactory/blob/main/LICENSE.md  
-https://github.com/hguiney/eslint-config-hughx/blob/master/LICENSE.md  
-https://github.com/hguiney/npm-minify/blob/master/LICENSE.md  
+https://github.com/HughxDev/eslint-config-hughx/blob/master/LICENSE.md  
+https://github.com/HughxDev/eslint-config-hughx-ts/blob/master/LICENSE.md  
+https://github.com/HughxDev/npm-minify/blob/master/LICENSE.md  
 https://github.com/i9or/asteroids.ts/blob/main/LICENSE.md  
+https://github.com/i9or/ignorethis.page/blob/main/LICENSE.md  
 https://github.com/imfht/flaskapp1/blob/master/flask-redis-master/LICENSE.md  
 https://github.com/instana/website-monitoring-examples/blob/master/LICENSE  
 https://github.com/instrumentisto/coturn-docker-image  
 https://github.com/instrumentisto/restic-docker-image/blob/master/LICENSE.md  
 https://github.com/instrumentisto/medea-jason/blob/master/flutter/LICENSE.md  
+https://github.com/instrumentisto/nmap-docker-image/blob/master/LICENSE.md  
 https://github.com/instrumentisto/opendkim-docker-image/blob/master/LICENSE.md  
 https://github.com/instrumentisto/phpdoc-docker-image/blob/master/LICENSE.md  
 https://github.com/instrumentisto/tracerr-rs/blob/master/LICENSE.md  
+https://github.com/ioistired/dirserver/blob/trunk/LICENSE.md  
 https://github.com/ioistired/syncpg/blob/master/LICENSE.md  
 ~https://github.com/ipelekhan/blog/blob/master/LICENSE.md~ (deleted user)  
 ~https://github.com/ipelekhan/boml/blob/master/LICENSE.md~  (deleted user)  
 ~https://github.com/ipelekhan/koabars/blob/master/LICENSE.md~  (deleted user)  
 ~https://github.com/ipelekhan/wowsuch.games/blob/master/LICENSE.md~  (deleted user)  
+https://github.com/iqlusioninc/tenderseed/blob/master/LICENSE.md  
 https://github.com/isiahmeadows/mithril-helpers/blob/master/LICENSE.txt (dual licensed)  
 https://github.com/izik1/rasen/blob/main/LICENSE.md  
 https://github.com/Jaxboards/jaxboards-install/blob/main/LICENSE  
 https://github.com/jdoubleu/Silbentrenner/blob/master/LICENSE  
 https://github.com/jeremyschlatter/chime/blob/master/LICENSE.md  
 https://github.com/jez/as-tree/blob/master/LICENSE.md  
+https://github.com/jez/ragel-bison-parser-sandbox/blob/master/LICENSE.md  
 https://github.com/JGL/CCIDiploma-AutumnWinter2020/blob/master/docs/slides/LICENSE.md (part-licensed repo, only docs)  
 https://github.com/JGL/IntroductionToCreativeComputing2022/blob/main/docs/LICENSE.md (part-licensed repo, only docs)  
 https://github.com/joehand/dat-folders/blob/master/LICENSE  
@@ -135,10 +168,12 @@ https://github.com/jrick/ss/blob/master/LICENSE.md
 https://github.com/jrick/winternitz/blob/master/LICENSE.md  
 https://github.com/jrick/wsrpc/blob/master/LICENSE.md  
 https://github.com/jsiebern/bs-material-ui/blob/master/LICENSE  
+https://github.com/judofyr/appy/blob/master/LICENSE.md  
 https://github.com/judofyr/ippon/blob/master/LICENSE.md  
 https://github.com/judofyr/tubby/blob/master/LICENSE.md  
 https://github.com/julian7/sensu-influx-shipper/blob/master/LICENSE.md  
 https://github.com/julian7/sensulib/blob/main/LICENSE.md  
+https://github.com/julian7/miller-playbook/blob/main/LICENSE.md  
 https://github.com/julian7/ops-tools/blob/main/LICENSE-BlueOak.md  (dual licensed)  
 https://github.com/kemitchell/check-tls-configuration.rs/blob/main/Cargo.toml  
 https://github.com/kemitchell/list-new-rss-items.js/blob/main/package.json  
@@ -147,12 +182,15 @@ https://github.com/kellyfelkins/tabular/blob/master/LICENSE.md
 https://github.com/kickscondor/duxtape/blob/master/LICENSE.md  
 https://github.com/kickscondor/fraidycat/blob/master/LICENSE.md  
 https://github.com/kieranpotts/rootfiles/blob/dev/LICENSE.md  
+https://github.com/kisom/proxima/blob/master/LICENSE.md  
 https://github.com/kt3k/localsd/blob/master/LICENSE  
+https://github.com/Kunde21/athens-plugin/blob/master/LICENSE.md  
 https://github.com/kurtraschke/pvta-gtfsrealtime/blob/master/LICENSE.md  
 https://github.com/Leafwing-Studios/bevy-momentum-platformer-template/blob/main/LICENSE.md  
 https://github.com/Leafwing-Studios/bevy-prototype-physics/blob/master/LICENSE.md  
 https://github.com/leebradley/precisebar/blob/master/LICENSE.md  
 https://github.com/leebradley/zipstats/blob/master/LICENSE.md  
+https://github.com/licensezero/cli/blob/main/LICENSE.md  
 https://github.com/Lisstem/cardmarket-cli/blob/main/LICENSE.md  
 https://github.com/lucaswerkmeister/advent-of-code-2020/blob/main/LICENSE.md  
 https://github.com/LutrisEng/datom-rs (multiple modules being dual licensed with "BSD-2-Clause-Patent")  
@@ -162,6 +200,7 @@ https://github.com/martindzejky/dotfiles/blob/master/LICENSE.md
 https://github.com/martindzejky/modify-element/blob/master/LICENSE.md  
 https://github.com/martindzejky/promise-mock/blob/master/LICENSE.md  
 https://github.com/martindzejky/self-surgeon/blob/master/LICENSE.md  
+https://github.com/martindzejky/tekwoo.sk/blob/master/LICENSE.md  
 https://github.com/mavteam/commonform-grpc/blob/master/LICENSE.md  
 https://github.com/mcanalesmayo/dotfiles/blob/master/LICENSE  
 https://github.com/metta-systems/vesper/blob/develop/LICENSE.BlueOak-1.0.0.md  
@@ -186,31 +225,45 @@ https://github.com/neumark/mini-iframe-rpc/blob/master/LICENSE.md
 https://github.com/nevir/home/blob/main/LICENSE.md  
 https://github.com/nothingnesses/CS50/blob/master/LICENSE (almost empty)  
 https://github.com/Omrigan/logbot/blob/master/LICENSE.md  
+https://github.com/otherjoel/cookbook-pollen/blob/master/LICENSE.md  
+https://github.com/otherjoel/tabloid/blob/main/LICENSE.md  
 https://github.com/ozonep/drone/blob/master/pkg/drone-ui/LICENSE.md (part-licensed)  
 https://github.com/passy/arduino-433mhz-mqtt-client/blob/master/LICENSE.md  
-https://github.com/pjohansson/inkling/blob/master/LICENSE.md (tripple licensed with MIT and Apache-2.0)  
+https://github.com/pigland/TrashKit/blob/master/LICENSE  
 https://github.com/Pivot-Studio/masterext/blob/master/LICENSE.md  
+https://github.com/pjohansson/inkling/blob/master/LICENSE.md (tripple licensed with MIT and Apache-2.0)  
 https://github.com/Pot-Twist/pot-twist.github.io/blob/main/LICENSE.md (page)  
 https://github.com/pricingmonkey/rxjs-redux/blob/master/LICENSE.md  
 https://github.com/pricingmonkey/tangi/blob/master/LICENSE.md  
+https://github.com/pricingmonkey/worker-bee/blob/master/LICENSE.md  
 https://github.com/prototypefund/ptf-ci/blob/master/LICENSE  
 https://github.com/prototypefund/ptf-code/blob/master/LICENSE  
 https://github.com/qrpnxz/wkdhash/blob/master/COPYRIGHT.md  
 https://github.com/qrpnxz/wkdserver/blob/master/COPYRIGHT.md  
+https://github.com/reserve-protocol/trezor/blob/master/LICENSE.md  
 https://github.com/resknow/boilerplate/blob/master/LICENSE.md  
 https://github.com/resknow/wp-starter-kit/blob/main/wp-content/themes/tashajacks/LICENSE.md  
 https://github.com/RossSmyth/auto_comm/blob/master/LICENSE.md  
 https://github.com/RossSmyth/RossSmyth.github.io/blob/main/LICENSE.md (page)  
+https://github.com/runxel/archicad-cornell-box/blob/master/LICENSE.md  
+https://github.com/runxel/dark-roam/blob/master/LICENSE.md  
 https://github.com/runxel/grasshopper-examples/blob/master/LICENSE.md  
 https://github.com/runxel/yamb-css/blob/master/LICENSE.md  
+https://github.com/sagehane/pomeg/blob/main/LICENSE.md  
 https://github.com/sargassum-world/fluitans/blob/main/LICENSE.BlueOak (dual licensed)    
+https://github.com/sargassum-world/latreutes/blob/main/LICENSE.BlueOak (dual licensed)  
 https://github.com/sargassum-world/pslive/blob/main/LICENSE.BlueOak  (dual licensed)  
+https://github.com/sloonz/drone-env-merge/blob/master/LICENSE.md  (part-licensed)
 https://github.com/sloonz/drone-env-signed/blob/master/LICENSE.md  
+https://github.com/sloonz/drone-ssh-ca/blob/master/LICENSE.md  
 https://github.com/sowelisuwi/pcg-go/blob/master/LICENSE-BlueOak-1.0.0.md  
+https://github.com/sowelisuwi/unrar-libre/blob/master/LICENSE-BlueOak-1.0.0.md  
 https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md (part-licensed)  
 https://github.com/stickeritis/sticker-python/blob/master/Cargo.toml  
+https://github.com/stickeritis/sticker-transformers/blob/master/LICENSE.md  
 https://github.com/stickeritis/sticker2-python/blob/master/Cargo.toml  
 https://github.com/stoicism-compendium/retext-spell-file/blob/main/license.md  
+https://github.com/strangelove-ventures/horcrux/blob/main/LICENSE.md  
 https://github.com/swinslow/tracker/blob/master/LICENSE.md  
 https://github.com/tangtaoshadow/tech-interview-handbook/blob/master/license.md  
 https://github.com/tartley/belter/blob/master/LICENSE.md  
@@ -227,6 +280,7 @@ https://github.com/teloxide/book/blob/master/LICENSE.md
 https://github.com/teryaev/drone-ecr-registry/blob/master/LICENSE.md  
 https://github.com/thejpster/monotron-apps/blob/master/monotron-app/LICENCE.md  
 https://github.com/thejpster/nrfxlib-sys/blob/master/LICENCE.md  
+https://github.com/themimixcompany/msl-engine/blob/main/LICENSE.md  
 https://github.com/themimixcompany/nebula/blob/main/LICENSE.md  
 https://github.com/themimixcompany/nebula-builder/blob/main/LICENSE.md  
 https://github.com/timClicks/bin2src/blob/master/LICENSE  
@@ -236,6 +290,8 @@ https://github.com/TimothyGu/json-parser-rust/blob/main/LICENSE.BlueOak.md (dual
 https://github.com/tov/split_ext_rs/blob/master/LICENSE.md  
 https://github.com/tphoney/drone-hue/blob/master/LICENSE.md  
 https://github.com/twe4ked/diff-color/blob/master/LICENSE.md  
+https://github.com/twuebi/edit_tree/blob/master/LICENSE.md  
+https://github.com/unit410/gcp-ssh-ca/blob/master/LICENSE  
 https://github.com/unit410/polyfile/blob/drew/bump_node/LICENSE.md  
 https://github.com/unparalloser/bfpile/blob/main/bfpile.nimble  
 https://github.com/urschrei/minimal_cross_manylinux/blob/master/LICENSE.md  
@@ -245,6 +301,8 @@ https://github.com/VandyHacks/vh-dev-training/blob/master/LICENSE.md
 https://github.com/vazub/lbxtract-red/blob/master/LICENSE.md  
 https://github.com/Venerons/quantum/blob/master/LICENSE.md  
 https://github.com/versvs/hsptt/blob/master/LICENSE.md  
+https://github.com/w6d-io/docker-nmap/blob/main/LICENSE.md  
+https://github.com/wingo/wassemble/blob/master/LICENSE.md  
 https://github.com/WizardL/kyuu/blob/master/LICENSE.md  
 https://github.com/wvansteen/scala_bootcamp/blob/master/LICENSE.md  
 https://github.com/xaviershay/vitamin-vcv-modules/blob/main/LICENSE.md  
@@ -253,6 +311,7 @@ https://github.com/zthurman/Research/blob/master/LICENSE.md
 
 Mirrored repos (indirectly):  
 https://github.com/Enekui/coturn/blob/master/LICENSE.md (mirror)
+https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 
 Subdir style repos:
 
@@ -274,6 +333,18 @@ Subdir style repos:
 * https://github.com/instrumentisto/medea/blob/master/proto/control-api/LICENSE.md  
 * https://github.com/instrumentisto/medea/blob/master/crates/medea-coturn-telnet-client/LICENSE.md  
 * https://github.com/instrumentisto/medea/blob/master/mock/control-api/LICENSE.md  
+
+  * 4
+* https://github.com/developdata/unit3_slides/blob/master/circuits/LICENSE.md
+* https://github.com/developdata/unit3_slides/blob/master/week_02/LICENSE.md
+* https://github.com/developdata/unit3_slides/blob/master/week_03/LICENSE.md
+* https://github.com/developdata/unit3_slides/blob/master/week_04/LICENSE.md
+* https://github.com/developdata/unit3_slides/blob/master/week_05/LICENSE.md
+* https://github.com/developdata/unit3_slides/blob/master/week_06/LICENSE.md
+* https://github.com/developdata/unit3_slides/blob/master/week_07/LICENSE.md
+* https://github.com/developdata/unit3_slides/blob/master/week_08/LICENSE.md
+* https://github.com/developdata/unit3_slides/blob/master/week_09/LICENSE.md
+
 
 Related exceptions:  
 https://github.com/nyarly/confit (directs derivatives to use BOML ir BSD-2+P; to investigate for possible forks)  
