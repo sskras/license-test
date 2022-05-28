@@ -4,9 +4,9 @@
 Finished crawling at [page 10 of 100 pages](https://github.com/search?p=10&q=%22BlueOak-1.0.0%22&type=Code), 3,907 code results.  
 Another query to run: [84 pages](https://github.com/search?q=Blue+Oak+filename%3ALICENSE&type=Code), 831 code results.  
 
-2022-05-28 Updated, now 235 item.  
+2022-05-28 Updated, now 238 items.  
 
-Finished crawling at [page 16 of 90 pages](https://github.com/search?p=16&q=Blue+Oak+filename%3ALICENSE&type=Code), 892 code results.
+Finished crawling at [page 17 of 92 pages](https://github.com/search?p=17&q=Blue+Oak+filename%3ALICENSE&type=Code), 915 code results.
 
 https://github.com/7fffffff/xspf/blob/main/LICENSE.md  
 https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md  
@@ -156,6 +156,7 @@ https://github.com/leebradley/zipstats/blob/master/LICENSE.md
 https://github.com/Lisstem/cardmarket-cli/blob/main/LICENSE.md  
 https://github.com/lucaswerkmeister/advent-of-code-2020/blob/main/LICENSE.md  
 https://github.com/LutrisEng/datom-rs (multiple modules being dual licensed with "BSD-2-Clause-Patent")  
+https://github.com/LyricLy/bottom-hs/blob/master/LICENSE  
 https://github.com/Magikcraft/scriptcraft-modular-arch/blob/master/license.md  
 https://github.com/martindzejky/dotfiles/blob/master/LICENSE.md  
 https://github.com/martindzejky/modify-element/blob/master/LICENSE.md  
@@ -183,6 +184,7 @@ https://github.com/nero-ui/nero-js/blob/init/LICENSE.md
 https://github.com/nero-ui/nero-play/blob/init/LICENSE.md  
 https://github.com/neumark/mini-iframe-rpc/blob/master/LICENSE.md  
 https://github.com/nevir/home/blob/main/LICENSE.md  
+https://github.com/nothingnesses/CS50/blob/master/LICENSE (almost empty)  
 https://github.com/Omrigan/logbot/blob/master/LICENSE.md  
 https://github.com/ozonep/drone/blob/master/pkg/drone-ui/LICENSE.md (part-licensed)  
 https://github.com/passy/arduino-433mhz-mqtt-client/blob/master/LICENSE.md  
@@ -221,6 +223,7 @@ https://github.com/teamopen-dev/sourcecred-stack-lookup/blob/master/LICENSE.md
 https://github.com/tek/cornea/blob/master/LICENSE  
 https://github.com/tek/ribosome-hs/blob/master/LICENSE  
 https://github.com/tek/static-mpv/blob/master/LICENSE  
+https://github.com/teloxide/book/blob/master/LICENSE.md  
 https://github.com/teryaev/drone-ecr-registry/blob/master/LICENSE.md  
 https://github.com/thejpster/monotron-apps/blob/master/monotron-app/LICENCE.md  
 https://github.com/thejpster/nrfxlib-sys/blob/master/LICENCE.md  
