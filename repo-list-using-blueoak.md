@@ -58,7 +58,7 @@ https://github.com/commonform/commonform-html/blob/main/LICENSE.md
 https://github.com/commonform/commonform-markup-parse/blob/master/LICENSE.md  
 https://github.com/commonform/commonform-validate-directions/blob/main/LICENSE.md  
 https://github.com/commonform/commonmark-to-commonform/blob/master/LICENSE.md  
-https://github.com/commonform/open.commonform.org/blob/master/LICENSE.md  
+https://github.com/commonform/open.commonform.org/blob/master/LICENSE.md (page)  
 https://github.com/commonform/ooxml-signature-pages/blob/main/LICENSE.md  
 https://github.com/commonform/make-master-attachments-numbering/blob/main/LICENSE.md  
 https://github.com/commonform/signature-page-schema/blob/main/LICENSE.md  
@@ -68,6 +68,7 @@ https://github.com/compend/standards/blob/main/LICENSE.md
 https://github.com/conduitimpl/js-library-template/blob/master/LICENSE.BlueOak-1.0.0.md  
 https://github.com/conduitimpl/qxpath/blob/master/LICENSE.BlueOak-1.0.0.md  
 https://github.com/creditstxt/creditstxt.js/blob/master/LICENSE.md  
+https://github.com/creeder-uturn/craig.uturndata.com/ (page, two subdirs)  
 https://github.com/creditstxt/git-creditstxt/blob/master/LICENSE.md  
 https://github.com/cronokirby/ripple/blob/master/LICENSE.md  
 https://github.com/dotfilet/shell/blob/main/LICENSE.md  
@@ -165,6 +166,7 @@ https://github.com/neumark/mini-iframe-rpc/blob/master/LICENSE.md
 https://github.com/Omrigan/logbot/blob/master/LICENSE.md  
 https://github.com/passy/arduino-433mhz-mqtt-client/blob/master/LICENSE.md  
 https://github.com/pjohansson/inkling/blob/master/LICENSE.md (tripple licensed with MIT and Apache-2.0)  
+https://github.com/Pot-Twist/pot-twist.github.io/blob/main/LICENSE.md (page)  
 https://github.com/pricingmonkey/rxjs-redux/blob/master/LICENSE.md  
 https://github.com/pricingmonkey/tangi/blob/master/LICENSE.md  
 https://github.com/prototypefund/ptf-ci/blob/master/LICENSE  
@@ -213,12 +215,6 @@ https://github.com/xaviershay/vitamin-vcv-modules/blob/main/LICENSE.md
 https://github.com/zthurman/Arduino_Projects/blob/master/LICENSE.md  
 https://github.com/zthurman/Research/blob/master/LICENSE.md  
 
-Pages:  
-https://github.com/Pot-Twist/pot-twist.github.io/blob/main/LICENSE.md  
-https://github.com/creeder-uturn/craig.uturndata.com/ (two subdirs)  
-* https://github.com/creeder-uturn/craig.uturndata.com/blob/main/git/LICENSE.md
-* https://github.com/creeder-uturn/craig.uturndata.com/blob/main/terraform/LICENSE.md
-
 Mirrored repos (indirectly):  
 https://github.com/Enekui/coturn/blob/master/LICENSE.md (mirror)
 
@@ -228,6 +224,9 @@ Subdir style repos:
 * https://github.com/LutrisEng/datom-rs/blob/main/datom-node/Cargo.toml
 * https://github.com/LutrisEng/datom-rs/blob/main/datom/Cargo.toml
 * https://github.com/LutrisEng/datom-rs/blob/main/website/index.html
+
+* https://github.com/creeder-uturn/craig.uturndata.com/blob/main/git/LICENSE.md
+* https://github.com/creeder-uturn/craig.uturndata.com/blob/main/terraform/LICENSE.md
 
 Related exceptions:  
 https://github.com/nyarly/confit (directs derivatives to use BOML ir BSD-2+P; to investigate for possible forks)  
