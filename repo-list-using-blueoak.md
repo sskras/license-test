@@ -18,7 +18,7 @@ https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md
 https://github.com/AdrianKoshka/playbooks/blob/master/LICENSE.md  
 https://github.com/AdrianKoshka/pwsh-profile/blob/master/LICENSE.md  
 https://github.com/agentofuser/interplanetarygatsby.com/blob/master/LICENSE.md  
-https://github.com/agentofuser/ipfs-deploy/blob/master/LICENSE.md  
+https://github.com/agentofuser/ipfs-deploy/blob/master/LICENSE.md (tripple licensed with "BSD-2-Clause Plus Patent" and MIT)  
 https://github.com/ALLATRA-IT/ephyr/blob/master/LICENSE.md  
 https://github.com/ALLATRA-IT/laravel-openapi/blob/main/LICENSE.md  
 https://github.com/ALLATRA-IT/srt-server/blob/master/LICENSE.md  
@@ -64,6 +64,7 @@ https://github.com/cmitsakis/angaros/blob/master/LICENSE-BlueOak.md  (half-licen
 https://github.com/cmitsakis/polysender/blob/master/LICENSE.md (half-licensed)  
 https://github.com/commonform/agreement-schedules-exhibits-numbering/blob/main/LICENSE.md
 https://github.com/commonform/commonform-analyze/blob/main/LICENSE.md  
+https://github.com/commonform/commonform-cli/blob/master/LICENSE.md  
 https://github.com/commonform/commonform-critique/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-get-editions/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-get-form/blob/main/LICENSE.md  
@@ -91,6 +92,7 @@ https://github.com/dauTT/valink/blob/master/LICENSE.md
 https://github.com/decred/dcrdex/blob/master/LICENSE.md  
 https://github.com/decred/release/blob/master/LICENSE.md  
 https://github.com/developdata/unit3_week_01/blob/master/LICENSE.md  
+https://github.com/dexbox-io/dexbox-cypherpunk/blob/main/LICENSE  
 https://github.com/dhimmel/pubmedpy/blob/main/license.md  
 https://github.com/DosAmp/dbaurshim/blob/danube/LICENSE.md  
 https://github.com/dotfilet/core/blob/main/LICENSE.md  
@@ -152,6 +154,7 @@ https://github.com/ioistired/syncpg/blob/master/LICENSE.md
 ~https://github.com/ipelekhan/boml/blob/master/LICENSE.md~  (deleted user)  
 ~https://github.com/ipelekhan/koabars/blob/master/LICENSE.md~  (deleted user)  
 ~https://github.com/ipelekhan/wowsuch.games/blob/master/LICENSE.md~  (deleted user)  
+https://github.com/ipfs-shipyard/ipfs-deploy/blob/master/LICENSE.md  
 https://github.com/iqlusioninc/tenderseed/blob/master/LICENSE.md  
 https://github.com/isiahmeadows/mithril-helpers/blob/master/LICENSE.txt (dual licensed)  
 https://github.com/izik1/rasen/blob/main/LICENSE.md  
@@ -231,7 +234,7 @@ https://github.com/ozonep/drone/blob/master/pkg/drone-ui/LICENSE.md (part-licens
 https://github.com/passy/arduino-433mhz-mqtt-client/blob/master/LICENSE.md  
 https://github.com/pigland/TrashKit/blob/master/LICENSE  
 https://github.com/Pivot-Studio/masterext/blob/master/LICENSE.md  
-https://github.com/pjohansson/inkling/blob/master/LICENSE.md (tripple licensed with MIT and Apache-2.0)  
+https://github.com/pjohansson/inkling/blob/master/LICENSE.md (triple licensed with MIT and Apache-2.0)  
 https://github.com/Pot-Twist/pot-twist.github.io/blob/main/LICENSE.md (page)  
 https://github.com/pricingmonkey/rxjs-redux/blob/master/LICENSE.md  
 https://github.com/pricingmonkey/tangi/blob/master/LICENSE.md  
@@ -275,6 +278,7 @@ https://github.com/tbrent/defi-hackathon-2019/blob/master/LICENSE
 https://github.com/teamopen-dev/sourcecred-stack-lookup/blob/master/LICENSE.md  
 https://github.com/tek/cornea/blob/master/LICENSE  
 https://github.com/tek/ribosome-hs/blob/master/LICENSE  
+https://github.com/tek/static-icu/blob/master/LICENSE  
 https://github.com/tek/static-mpv/blob/master/LICENSE  
 https://github.com/teloxide/book/blob/master/LICENSE.md  
 https://github.com/teryaev/drone-ecr-registry/blob/master/LICENSE.md  
