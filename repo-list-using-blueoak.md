@@ -514,9 +514,9 @@ https://github.com/zthurman/Arduino_Projects/blob/master/LICENSE.md
 https://github.com/zthurman/Research/blob/master/LICENSE.md  
 
 Mirrored repos (indirectly):  
-https://github.com/Enekui/coturn/blob/master/LICENSE.md (mirror)
-https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
-https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
+|https://github.com/Enekui/coturn/blob/master/LICENSE.md (mirror)
+|https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
+|https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
 
 Subdir style repos:
 
@@ -555,8 +555,8 @@ Subdir style repos:
 * https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md
 
 Related exceptions:  
-https://github.com/ml5js/Code-of-Conduct/blob/main/LICENSE.md (time-licensed past 3y since the last contribution)  
-https://github.com/ml5js/ml5-library/blob/main/LICENSE.md (time-licensed past 3y since the last contribution)  
-https://github.com/nyarly/confit (directs derivatives to use BOML ir BSD-2+P; to investigate for possible forks)  
-https://github.com/PAR-iTY/mariah-carey-neural-net/blob/main/LICENSE (time-licensed past 3y since the last contribution)  
+?https://github.com/ml5js/Code-of-Conduct/blob/main/LICENSE.md (time-licensed past 3y since the last contribution)  
+?https://github.com/ml5js/ml5-library/blob/main/LICENSE.md (time-licensed past 3y since the last contribution)  
+?https://github.com/nyarly/confit (directs derivatives to use BOML ir BSD-2+P; to investigate for possible forks)  
+?https://github.com/PAR-iTY/mariah-carey-neural-net/blob/main/LICENSE (time-licensed past 3y since the last contribution)  
 
