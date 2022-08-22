@@ -12,6 +12,8 @@ Finished crawling at [page 17 of 92 pages](https://github.com/search?p=17&q=Blue
 
 Finished crawling at [page 29 of 87 pages](https://github.com/search?p=29&q=Blue+Oak+filename%3ALICENSE&type=Code), 867 code results.
 
+2022-08-22 Bookmarking URL of additional source of repos [@ libraries.io](https://libraries.io/licenses/BlueOak-1.0.0)
+
 https://github.com/7fffffff/jsf/blob/main/LICENSE.md  
 https://github.com/7fffffff/xspf/blob/main/LICENSE.md  
 https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md  
