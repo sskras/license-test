@@ -16,7 +16,7 @@ Finished crawling at [page 29 of 87 pages](https://github.com/search?p=29&q=Blue
 
 2022-08-22 Bookmarking URL of additional source of repos [@ libraries.io](https://libraries.io/licenses/BlueOak-1.0.0)
 
-2022-08-22 Updated, now 493 items. ( cat ... | grep -e ^http -c )
+2022-08-22 Updated, now 492 items. ( cat ... | grep -e ^http -c )
 
 
 https://github.com/7fffffff/deferred/blob/main/LICENSE.md  
@@ -436,8 +436,7 @@ https://github.com/sloonz/drone-ssh-ca/blob/master/LICENSE.md
 https://github.com/sowelisuwi/ecdsa-rfc6979-go/blob/master/LICENSE-BlueOak-1.0.0.md  
 https://github.com/sowelisuwi/pcg-go/blob/master/LICENSE-BlueOak-1.0.0.md  
 https://github.com/sowelisuwi/unrar-libre/blob/master/LICENSE-BlueOak-1.0.0.md  
-https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md (part-licensed repo per sub-dir)  
-https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md (part-licensed)  
+https://github.com/spl/clear-sans-fonts (part-licensed repo per sub-dir; see at the bottom)  
 ~https://github.com/spl/feedflow~ (deleted repo)  
 https://github.com/squamishaccess/squamishaccess-functions/blob/main/LICENSE.md  
 https://github.com/sskras/dalykai/blob/main/LICENSE.md  
@@ -551,6 +550,9 @@ Subdir style repos:
 * https://github.com/developdata/unit3_slides/blob/master/week_08/LICENSE.md
 * https://github.com/developdata/unit3_slides/blob/master/week_09/LICENSE.md
 
+ * 5
+* https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md
+* https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md
 
 Related exceptions:  
 https://github.com/ml5js/Code-of-Conduct/blob/main/LICENSE.md (time-licensed past 3y since the last contribution)  
