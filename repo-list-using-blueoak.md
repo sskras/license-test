@@ -18,7 +18,7 @@ Finished crawling at [page 29 of 87 pages](https://github.com/search?p=29&q=Blue
 
 2022-08-22 Updated, now 492 items. ( `cat ... | grep -e ^http -c` )
 
-2022-05-29 Updated, now 521 items. ( `cat ... | grep -E ^(.)?https: -c` ) 
+2022-08-22 Updated, now 522 items. ( `cat ... | grep -E ^(.)?https: -c` ) 
 
 Finished crawling through all [57 pages](https://github.com/search?o=asc&p='$RESULT_PAGE'&q=%22Blue+Oak%22+permission+filename%3ALICENSE&s=indexed&type=Code)
 
@@ -338,6 +338,7 @@ https://github.com/Lisstem/whats-in-a-box/blob/main/LICENSE.md
 https://github.com/lucaswerkmeister/advent-of-code-2020/blob/main/LICENSE.md  
 https://github.com/lucaswerkmeister/preload-questionablecontent/blob/main/LICENSE.md  
 https://github.com/lucaswerkmeister/pygments-server/blob/main/LICENSE.md  
+https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates`)
 https://github.com/LutrisEng/datom-rs (multiple modules being dual licensed with "BSD-2-Clause-Patent")  
 https://github.com/lviana/drone-conversion-poc/blob/master/LICENSE.md  
 https://github.com/LyricLy/bottom-hs/blob/master/LICENSE  
