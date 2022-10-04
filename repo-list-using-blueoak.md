@@ -25,6 +25,10 @@ Finished crawling through all [57 pages](https://github.com/search?o=asc&p='$RES
 2022-08-23 Switched to the new query, TOTEST:
 ["https://blueoakcouncil.org/license/1.0.0." "30 days after the notice" filename:LICENSE -homepage_url -licenseId](https://github.com/search?o=desc&q=%22https%3A%2F%2Fblueoakcouncil.org%2Flicense%2F1.0.0.%22+%2230+days+after+the+notice%22+filename%3ALICENSE+-homepage_url+-licenseId&s=indexed&type=Code)
 
+2022-10-04 Updated, now 529 (+ 7) items.
+
+Added all repos from 58th page of [the aforementioned query](https://github.com/search?o=asc&p=58&q=%22Blue+Oak%22+permission+filename%3ALICENSE&s=indexed&type=Code).
+
 
 https://github.com/7fffffff/deferred/blob/main/LICENSE.md  
 https://github.com/7fffffff/emptydirs/blob/main/LICENSE.md  
@@ -34,6 +38,7 @@ https://github.com/adam-p/dndbeyond-printenhance/blob/master/LICENSE
 https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md  
 https://github.com/AdrianKoshka/playbooks/blob/master/LICENSE.md  
 https://github.com/AdrianKoshka/pwsh-profile/blob/master/LICENSE.md  
+https://github.com/aeldidi/threadpool/blob/master/README.md
 https://github.com/agentofuser/interplanetarygatsby.com/blob/master/LICENSE.md  
 https://github.com/agentofuser/interplanetary-gatsby-starter/blob/master/LICENSE.md  
 https://github.com/agentofuser/ipfs-deploy/blob/master/LICENSE.md (tripple licensed with "BSD-2-Clause Plus Patent" and MIT)  
@@ -148,6 +153,7 @@ https://github.com/creeder-uturn/craig.uturndata.com/ (page, two subdirs)
 https://github.com/cronokirby/ripple/blob/master/LICENSE.md  
 https://github.com/DanielKote/Foreman2/blob/Main/LICENSE.md  
 https://github.com/dauTT/valink/blob/master/LICENSE.md  
+https://github.com/davidhiendl/drone-gitea-extensions/blob/master/README.md  
 https://github.com/dead-claudia/mithril-helpers/blob/master/LICENSE.txt (part-licensed except `migrate`)  
 https://github.com/decred/dcrdex/blob/master/LICENSE.md  
 https://github.com/decred/release/blob/master/LICENSE.md  
@@ -186,6 +192,7 @@ https://github.com/drone/drone-netlify/blob/master/LICENSE.md
 https://github.com/drone/drone-ui/blob/main/LICENSE.md  
 https://github.com/drone/funcmap/blob/master/LICENSE.md  
 https://github.com/drone/hubot-drone/blob/master/LICENSE.md  
+https://github.com/drone-plugin/drone-webhook/blob/master/LICENSE.md  
 https://github.com/drone-plugins/drone-harness-trigger/blob/main/LICENSE.md  
 https://github.com/drone-plugins/drone-snyk/blob/main/LICENSE.md  
 https://github.com/drumhacker72/aoc2020/blob/master/LICENSE.md  
@@ -293,6 +300,7 @@ https://github.com/jrick/ss/blob/master/LICENSE.md
 https://github.com/jrick/winternitz/blob/master/LICENSE.md  
 https://github.com/jrick/wpakey/blob/master/LICENSE.md  
 https://github.com/jrick/wsrpc/blob/master/LICENSE.md  
+https://github.com/jschenke488/greatest-common-divisor/blob/main/LICENSE.md  
 https://github.com/jsiebern/bs-material-ui/blob/master/LICENSE  
 https://github.com/judofyr/appy/blob/master/LICENSE.md  
 https://github.com/judofyr/ippon/blob/master/LICENSE.md  
@@ -387,6 +395,7 @@ https://github.com/nero-ui/nero-js/blob/init/LICENSE.md
 https://github.com/nero-ui/nero-play/blob/init/LICENSE.md  
 https://github.com/neumark/mini-iframe-rpc/blob/master/LICENSE.md  
 https://github.com/nevir/home/blob/main/LICENSE.md  
+https://github.com/nevir/norms/blob/main/LICENSE.md  
 https://github.com/nevir/personal-capital/blob/main/LICENSE.md (! custom intro)  
 https://github.com/Niceboy0829/IPFS_Deploy/blob/main/LICENSE.md (dual licensed)  
 https://github.com/NisanthanNanthakumar/big/blob/master/LICENSE.md  
@@ -462,6 +471,7 @@ https://github.com/sloonz/drone-ssh-ca/blob/master/LICENSE.md
 https://github.com/sowelisuwi/ecdsa-rfc6979-go/blob/master/LICENSE-BlueOak-1.0.0.md  
 https://github.com/sowelisuwi/pcg-go/blob/master/LICENSE-BlueOak-1.0.0.md  
 https://github.com/sowelisuwi/unrar-libre/blob/master/LICENSE-BlueOak-1.0.0.md  
+https://github.com/spicylobstergames/shotcaller-minigene/blob/master/README.md  (nice intro)
 https://github.com/spl/clear-sans-fonts (part-licensed repo per sub-dir; see at the bottom)  
 ~https://github.com/spl/feedflow~ (deleted repo)  
 https://github.com/squamishaccess/squamishaccess-functions/blob/main/LICENSE.md  
@@ -532,6 +542,7 @@ https://github.com/Venerons/quantum/blob/master/LICENSE.md
 https://github.com/versvs/hsptt/blob/master/LICENSE.md  
 https://github.com/vunamhung/redis-redisjson-redisearch-docker/blob/master/LICENSE.md  
 https://github.com/w6d-io/docker-nmap/blob/main/LICENSE.md  
+https://github.com/WaffleLapkin/tping/blob/master/LICENSE.md  
 https://github.com/WernerCD/bitburner_scripts/blob/master/LICENSE (part-licensed with other licenses from imported components)  
 https://github.com/wingo/wassemble/blob/master/LICENSE.md  
 https://github.com/WizardL/kyuu/blob/master/LICENSE.md  
