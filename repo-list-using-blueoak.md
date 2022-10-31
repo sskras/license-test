@@ -465,7 +465,7 @@ https://github.com/saulius-krasuckas/VGTU-ELF-TETfm-20-magistro-darbas/blob/main
 https://github.com/Schnitzelbaer/VoiceControlledPresentation/tree/master/experimente/katja/big_%22echte%22_presentation (part-licensed repo per sub-dir)  
 https://github.com/serra-allgood/react-useintersection/blob/master/LICENSE (! nice intro)  
 https://github.com/sethwheway/Steam-Comment-Bot/blob/master/LICENSE.md  
-https://github.com/sloonz/drone-env-merge/blob/master/LICENSE.md  (part-licensed)
+https://github.com/sloonz/drone-env-merge/blob/master/LICENSE.md  (part-licensed)  
 https://github.com/sloonz/drone-env-signed/blob/master/LICENSE.md  
 https://github.com/sloonz/drone-ssh-ca/blob/master/LICENSE.md  
 https://github.com/sowelisuwi/ecdsa-rfc6979-go/blob/master/LICENSE-BlueOak-1.0.0.md  
@@ -554,7 +554,7 @@ https://github.com/zthurman/Arduino_Projects/blob/master/LICENSE.md
 https://github.com/zthurman/Research/blob/master/LICENSE.md  
 
 Mirrored repos (indirectly):  
-|https://github.com/Enekui/coturn/blob/master/LICENSE.md (mirror)
+|https://github.com/Enekui/coturn/blob/master/LICENSE.md (mirror)  
 |https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 |https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
 
@@ -590,7 +590,7 @@ Subdir style repos:
 * https://github.com/developdata/unit3_slides/blob/master/week_08/LICENSE.md
 * https://github.com/developdata/unit3_slides/blob/master/week_09/LICENSE.md
 
- * 5
+  * 5
 * https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md
 * https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md
 
