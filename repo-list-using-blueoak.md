@@ -23,6 +23,7 @@ Finished crawling at [page 29 of 87 pages](https://github.com/search?p=29&q=Blue
 Finished crawling through all [57 pages](https://github.com/search?o=asc&p='$RESULT_PAGE'&q=%22Blue+Oak%22+permission+filename%3ALICENSE&s=indexed&type=Code)
 
 2022-08-23 Switched to the new query, TOTEST:
+
 ["https://blueoakcouncil.org/license/1.0.0." "30 days after the notice" filename:LICENSE -homepage_url -licenseId](https://github.com/search?o=desc&q=%22https%3A%2F%2Fblueoakcouncil.org%2Flicense%2F1.0.0.%22+%2230+days+after+the+notice%22+filename%3ALICENSE+-homepage_url+-licenseId&s=indexed&type=Code)
 
 2022-10-04 Updated, now 529 (+ 7) items.
