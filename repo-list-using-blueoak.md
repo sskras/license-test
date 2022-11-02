@@ -37,6 +37,7 @@ Reran the .awk script using the new query
 Discovered and crawled through 54 pages.  
 34 new repos, 5 renamed users, 1 deleted repo.  
 Added a list of (maybe old) false positives, the blacklist. Just in case.  
+Added a list of licenses that are explicitly indicated as compatible with BOML.  
 
 
 https://github.com/7fffffff/deferred/blob/main/LICENSE.md  
@@ -673,4 +674,9 @@ Related exceptions:
 -https://github.com/TobyAndToby/License-Identifiers/blob/c7d68cc46e1931af347e14253f3f76030175e8e8/LicenseIdentifiers/LicenseIdentifier.Generated.cs  
 -https://github.com/toitlang/tpkg/blob/e0dfea186707f21cf127c9ec589dc1415af0ecc3/pkg/tpkg/license.go  
 -https://github.com/zhudanmeng/scratch-gui/blob/8ab6a3dff0a3d1123632d50354a285dc007d3ab1/ml5/LICENSE  
+
+
+### Compatibles:
+
+=https://github.com/Red-Goose/twa/blob/master/LICENSE.md (mentions BOML as compatible license; dual-licensed under MIT and "The-Parity-Public-License-7.0.0")  
 
