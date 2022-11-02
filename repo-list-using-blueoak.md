@@ -38,6 +38,7 @@ Discovered and crawled through 54 pages.
 34 new repos, 5 renamed users, 1 deleted repo.  
 Added a list of (maybe old) false positives, the blacklist. Just in case.  
 Added a list of licenses that are explicitly indicated as compatible with BOML.  
+Added a list of license conversions to BOML.
 
 
 https://github.com/7fffffff/deferred/blob/main/LICENSE.md  
@@ -679,4 +680,9 @@ Related exceptions:
 ### Compatibles:
 
 =https://github.com/Red-Goose/twa/blob/master/LICENSE.md (mentions BOML as compatible license; dual-licensed under MIT and "The-Parity-Public-License-7.0.0")  
+
+
+### Conversions:
+
+>https://github.com/davidism/flask-alembic/commit/92784e5d032bdd7af46d24367eff8e33900c81ba (from BSD-3)  
 
