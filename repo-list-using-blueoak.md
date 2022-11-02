@@ -36,6 +36,7 @@ Added all repos from 58th page of [the aforementioned query](https://github.com/
 Reran the .awk script using the new query  
 Discovered and crawled through 54 pages.  
 34 new repos, 5 renamed users, 1 deleted repo.  
+Added a list of (maybe old) false positives, the blacklist. Just in case.  
 
 
 https://github.com/7fffffff/deferred/blob/main/LICENSE.md  
@@ -634,4 +635,42 @@ Related exceptions:
 ?https://github.com/ml5js/ml5-library/blob/main/LICENSE.md (time-licensed past 3y since the last contribution)  
 ?https://github.com/nyarly/confit (directs derivatives to use BOML ir BSD-2+P; to investigate for possible forks)  
 ?https://github.com/PAR-iTY/mariah-carey-neural-net/blob/main/LICENSE (time-licensed past 3y since the last contribution)  
+
+---
+
+### Blacklisted:
+
+-https://github.com/altlinux/specs/blob/sisyphus/l/license-list-xml/license-list-xml.spec  
+-https://github.com/BlueOakJS/openapi-reference-compiler/blob/master/LICENSE  
+-https://github.com/craftslab/ossreport/blob/master/ossreport/data/license.json  
+-https://github.com/cran/cffr/blob/master/inst/extdata/SPDX_License_List.csv  
+-https://github.com/fasten-project/LCV-CM/blob/3fe9dc5f95d74f58e7243518a805f251b840c0a4/csv/SPDX_license_name.csv  
+-https://github.com/FHPythonUtils/LicenseMatrix/blob/16333287eb3f3800e402e92d9f598271d68d8a41/licensematrix/license_matrix.json  
+-https://github.com/flexera-public/sca-codeinsight-reports-spdx/blob/9b2d356dcaa83c1fe351d9028676b51086b434b4/SPDX_license_mappings.py  
+-https://github.com/ghc/packages-Cabal/blob/6f22f2a789fa23edb210a2591d74ea6a5f767872/Cabal/Distribution/SPDX/LicenseId.hs  
+-https://github.com/grin-compiler/ghc-8.11.0.20200222-src-git-fromSTG-Quickest/blob/764cb329e2374222812f8b595822c3db4bc1b39d/ghc-8.11.0.20200222-src/libraries/Cabal/Cabal/Distribution/SPDX/LicenseId.hs  
+-https://github.com/Halodi/halodi-unity-package-creator/blob/70516e29d2a0ddc77ce1125e2e8819a4e243f6ed/Packages/halodi-unity-package-creator/Resources/halodi-unity-package-creator/spdx-license-list.json  
+-https://github.com/haskell/cabal/blob/c21dbcd2a9d54962eb39f598dfce2d012ff7fd1c/license-list-data/licenses-3.9.json  
+-https://github.com/IaFP/Cabal/blob/6424beef3c40ae58318f348ec5c265db26ac42bc/license-list-data/licenses-3.9.json  
+-https://github.com/kemitchell/writing.kemitchell.com/blob/6b0a8af89c589038e6d0930098a5cbfa1e001f92/_posts/2019-03-09-Deprecation-Notice.md  
+<!-- ._ -->
+-https://github.com/lihop/the-guest/blob/3f9fa23823f88c7d81de2dfc83d373e7b2c0cf34/addons/glam/licenses/spdx_license_data.gd  
+-https://github.com/max0x4e/bytecode/blob/c45df8680b948cd355f967bc81349926fbe1997f/src/ghc-9.2.1/libraries/Cabal/license-list-data/licenses-3.9.json  
+-https://github.com/mikepenz/AboutLibraries/blob/91dbfec4b3c3521cfaf4644f759ae3a0894e4c93/aboutlibraries-core/src/commonMain/kotlin/com/mikepenz/aboutlibraries/entity/SpdxLicense.kt  
+-https://github.com/naba87/Naba-ORT/blob/1ca71eb3c2ab8b8379eb9f387b13d0b66e276b83/utils/spdx/src/main/resources/licenses/BlueOak-1.0.0  
+-https://github.com/opensourceways/sbom-tools/blob/f9f717574fccc686a5d97c8d05619d395783c87b/sbom-ort/utils/spdx/src/main/resources/licenses/BlueOak-1.0.0  
+-https://github.com/osrgroup/product-model-toolkit/blob/80e092f1aab5d9a9e31ccca0d109548c2a26fc80/model/license_SPDX.go  
+-https://github.com/oss-review-toolkit/ort/blob/a531ccb99e66d8bd035867524c52a5033a47b63c/utils/spdx/src/main/resources/licenses/BlueOak-1.0.0  
+-https://github.com/patriksvensson/spdx/blob/f981454e430db39561b51c6d49fa8c71b7ee9b04/src/Spdx/Generated/SpdxLicense.Generated.cs  
+-https://github.com/RiverSafeUK/eze-cli/blob/fa59d353b784a2fe0eebac49102a2aaab1fd6f91/eze/data/spdx-license-list-data-supplement.json  
+-https://github.com/ropensci/cffr/blob/066bb91dd1f87d7e7476f0082d51f08d7f4373bc/data-raw/SPDX_License_List.csv  
+-https://github.com/RyanBrewer317/Breeze/blob/ef3c718810cbf26c32c7f6ac63283450c95df85d/dist-newstyle/tmp/src-200748/Cabal-3.0.2.0/Distribution/SPDX/LicenseId.hs  
+-https://github.com/setrar/ghc/blob/b8e555a9ee31dd5057c363ecbd2b15d67ba84d61/libraries/Cabal/license-list-data/licenses-3.9.json  
+-https://github.com/spdx/spdx-spec/blob/aadf3b0b8dbbabdb4d880b0fc714255fea436ff7/chapters/SPDX-license-list.md  
+-https://github.com/SmartsYoung/FenixscanX/blob/fd46b546c66585e231509233691e3f9cda6bc918/scanengine/src/licensedcode/data/licenses/blueoak-1.0.0.yml
+-https://github.com/Th3Whit3Wolf/nxpkgr/blob/ae80c3ffbfa73305ab98c9319f61a123cf96e5f9/src/nix/license.rs  
+-https://github.com/TheXDS/MCART/blob/e891db811ad6be63b87c537dd74f523f5189e8b5/src/MCART/Resources/SpdxLicenseId.cs  
+-https://github.com/TobyAndToby/License-Identifiers/blob/c7d68cc46e1931af347e14253f3f76030175e8e8/LicenseIdentifiers/LicenseIdentifier.Generated.cs  
+-https://github.com/toitlang/tpkg/blob/e0dfea186707f21cf127c9ec589dc1415af0ecc3/pkg/tpkg/license.go  
+-https://github.com/zhudanmeng/scratch-gui/blob/8ab6a3dff0a3d1123632d50354a285dc007d3ab1/ml5/LICENSE  
 
