@@ -685,5 +685,5 @@ Related exceptions:
 
 ### Conversions:
 
->https://github.com/davidism/flask-alembic/commit/92784e5d032bdd7af46d24367eff8e33900c81ba (from BSD-3)  
+%https://github.com/davidism/flask-alembic/commit/92784e5d032bdd7af46d24367eff8e33900c81ba (from BSD-3)  
 
