@@ -116,14 +116,18 @@ https://github.com/callumobrien-bluefruit/zorl/blob/master/LICENSE.md
 https://github.com/Cashmaney/tendermint-validator/blob/master/LICENSE.md  
 https://github.com/ceejbot/cat-names/blob/latest/LICENSE  
 https://github.com/ceejbot/gsv-culture-ships/blob/latest/LICENSE  
+https://github.com/ceejbot/lightcycle/blob/latest/LICENSE.md  
 https://github.com/ceejbot/modcache/blob/latest/LICENSE.md  
 https://github.com/ceejbot/skyswitcher/blob/latest/LICENSE.md (! custom intro)  
 https://github.com/ceejbot/tomato/blob/latest/LICENSE.md (! nice intro)  
 https://github.com/certusone/tendermint-mpc-validator/blob/master/LICENSE.md  
 https://github.com/certusone/terra-oracle/blob/master/LICENSE.md  
+https://github.com/chainhackers/reserve-collateral-plugins/blob/master/LICENSE  
 https://github.com/chandrodaya-net/valink/blob/master/LICENSE.md  
 https://github.com/ChillBot-discord/Discord-Clusters/blob/master/LICENSE.md  
 https://github.com/choukh/literate-agda-to-modern-html/blob/main/LICENSE.md  
+https://github.com/chriskrycho/grdn/blob/main/LICENSE.md  
+https://github.com/chrismademe/fascio/blob/main/LICENSE.md  
 https://github.com/chrismademe/scooch/blob/master/LICENSE.md  
 https://github.com/chrismademe/wp-block-starter-kit/blob/main/LICENSE.md  
 https://github.com/chrismademe/wp-theme-starter-kit/blob/main/LICENSE.md  
@@ -154,6 +158,7 @@ https://github.com/commonform/commonform-predicate/blob/main/LICENSE.md
 https://github.com/commonform/commonform-prepare-blanks/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-regexp-annotator/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-resolve/blob/main/LICENSE.md  
+https://github.com/commonform/commonform-validate/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-validate-directions/blob/main/LICENSE.md  
 https://github.com/commonform/commonmark-to-commonform/blob/master/LICENSE.md  
 https://github.com/commonform/make-master-attachments-numbering/blob/main/LICENSE.md  
@@ -641,6 +646,7 @@ Related exceptions:
 -https://github.com/anonymous123rainy/LiResolver/blob/main/data/licenses/BlueOak-1.0.0.txt
 -https://github.com/altlinux/specs/blob/sisyphus/l/license-list-xml/license-list-xml.spec  
 -https://github.com/BlueOakJS/openapi-reference-compiler/blob/master/LICENSE  
+-https://github.com/chenyx2012/lvmen/blob/bf00aa5450f9c1963b1251575e10c684ff3fa2e9/src/licensedcode/data/licenses/blueoak-1.0.0.yml  
 -https://github.com/craftslab/ossreport/blob/master/ossreport/data/license.json  
 -https://github.com/cran/cffr/blob/master/inst/extdata/SPDX_License_List.csv  
 -https://github.com/fasten-project/LCV-CM/blob/3fe9dc5f95d74f58e7243518a805f251b840c0a4/csv/SPDX_license_name.csv  
