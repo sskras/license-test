@@ -51,7 +51,6 @@ https://github.com/adam-p/dndbeyond-printenhance/blob/master/LICENSE
 https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md  
 https://github.com/AdrianKoshka/playbooks/blob/master/LICENSE.md  
 https://github.com/AdrianKoshka/pwsh-profile/blob/master/LICENSE.md  
-https://github.com/aeldidi/threadpool/blob/master/README.md
 https://github.com/agentofuser/interplanetarygatsby.com/blob/master/LICENSE.md  
 https://github.com/agentofuser/interplanetary-gatsby-starter/blob/master/LICENSE.md  
 https://github.com/agentofuser/ipfs-deploy/blob/master/LICENSE.md (tripple licensed with "BSD-2-Clause Plus Patent" and MIT)  
