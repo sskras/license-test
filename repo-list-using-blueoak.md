@@ -440,8 +440,12 @@ https://github.com/neonquill/xmega_ws28xx/blob/master/LICENSE.md (! custom intro
 https://github.com/nevir/home/blob/main/LICENSE.md  
 https://github.com/nevir/norms/blob/main/LICENSE.md  
 https://github.com/nevir/personal-capital/blob/main/LICENSE.md (! custom intro)  
+https://github.com/NirmalManoj/protocol/blob/tfUSDC/LICENSE  
 https://github.com/NisanthanNanthakumar/big/blob/master/LICENSE.md  
+https://github.com/nobkd/advent-of-vscode/blob/main/LICENSE.md  
+https://github.com/nothingnesses/coffee-drop-web/blob/master/LICENSE  
 https://github.com/nothingnesses/CS50/blob/master/LICENSE (almost empty)  
+https://github.com/nothingnesses/TDM/blob/master/LICENSE  
 https://github.com/nrf-rs/nrfxlib-sys/blob/develop/LICENCE.md (moved from `thejpster/nrfxlib-sys` to an org)  
 https://github.com/nuuday/drone-azure-key-vault/blob/master/LICENSE.md  
 https://github.com/oars-sigs/drone/blob/main/ui/LICENSE.md (fork of `drone-ui`? Very diverged)  
