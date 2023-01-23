@@ -310,6 +310,8 @@ https://github.com/ioistired/syncpg/blob/master/LICENSE.md
 https://github.com/ipfs-shipyard/ipfs-deploy/blob/master/LICENSE.md  
 https://github.com/iqlusioninc/tenderseed/blob/master/LICENSE.md  
 https://github.com/IrtizaNasar/CCI-Diploma22-ComputationalFutures/blob/main/docs/slides/LICENSE.md (part-licensed repo, only slides)  
+https://github.com/isaacs/create-isaacs/blob/main/LICENSE.md  
+https://github.com/isaacs/good-dag/blob/main/LICENSE.md  
 ~https://github.com/isiahmeadows/mithril-helpers/blob/master/LICENSE.txt~ (merged repo)  
 https://github.com/izik1/rasen/blob/main/LICENSE.md  
 https://github.com/Jaxboards/jaxboards-install/blob/main/LICENSE  
