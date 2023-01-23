@@ -633,6 +633,7 @@ Imported repos:
 >https://github.com/imfht/flaskapps/blob/d6fc9b7e32d7dc6b493c269b8ccbaa6ee2d690c1/flask-redis-master/LICENSE.md (`underyx/flask-redis`)  
 >https://github.com/koralden/kdaemon-sdk/blob/main/libs/tomato/src/LICENSE.md (`ceejbot/tomato`)  
 >https://github.com/Layer3Software/ReserveProtocol/blob/main/LICENSE (`Heesho/ReserveProtocol`)  
+>https://github.com/unovor/frame/blob/146d85217ca95adb174bc2fe127ec1e340e70276/minicbor-0.5.1/LICENSE.md (`https://gitlab.com/twittner/minicbor`)  
 
 Subdir style repos:
 
