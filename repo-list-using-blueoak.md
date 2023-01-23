@@ -442,7 +442,6 @@ https://github.com/passy/arduino-433mhz-mqtt-client/blob/master/LICENSE.md
 https://github.com/pigland/TrashKit/blob/master/LICENSE  
 https://github.com/Pivot-Studio/masterext/blob/master/LICENSE.md  
 https://github.com/pjohansson/gmx_flow_utils/blob/main/LICENSE.md (! nice intro)  
-https://github.com/pjohansson/inkling/blob/master/LICENSE.md (triple licensed with MIT and Apache-2.0)  
 https://github.com/pjohansson/poisson_diskus/blob/main/LICENSE.md (! nice intro)  
 https://github.com/Pot-Twist/pot-twist.github.io/blob/main/LICENSE.md (page)  
 https://github.com/pricingmonkey/rxjs-redux/blob/master/LICENSE.md  
@@ -632,6 +631,7 @@ Related exceptions:
 ?https://github.com/ml5js/ml5-library/blob/main/LICENSE.md (time-licensed past 3y since the last contribution)  
 ?https://github.com/nyarly/confit (directs derivatives to use BOML ir BSD-2+P; to investigate for possible forks)  
 ?https://github.com/PAR-iTY/mariah-carey-neural-net/blob/main/LICENSE (time-licensed past 3y since the last contribution)  
+?https://github.com/pjohansson/inkling/blob/master/LICENSE.md (Parity-licensed repo with direction towards BOML, MIT and Apache-2.0)  
 
 ---
 
