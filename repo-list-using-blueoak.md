@@ -599,7 +599,7 @@ Mirrored repos (indirectly):
 Imported repos:
 >https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates` mirrors `jez/pandoc-markdown-css-theme`)  
 >https://github.com/bitsy-ai/printnanny-rs/tree/0bc3037f5c19f9c6144b94fb7607ce379ca21920/gst-client-rs (`ALLATRA-IT/gst-client-rs`)  
->https://github.com/digitalbitbox/bitbox02-firmware/blob/f4dd7ec08d4a991399b49b9aa0d735247cb7d4dd/src/rust/vendor/minicbor/LICENSE.md (`https://gitlab.com/twittner/minicbor`)
+>https://github.com/digitalbitbox/bitbox02-firmware/blob/f4dd7ec08d4a991399b49b9aa0d735247cb7d4dd/src/rust/vendor/minicbor/LICENSE.md (`https://gitlab.com/twittner/minicbor`)  
 >https://github.com/gallowayevan/gllwy/blob/7412ddf4c89e2115961d429af1d5c59183791336/public/vis_analytics/LICENSE.md (`tmcw/big`)  
 >https://github.com/amar-jay/presentation/blob/master/tmcw/LICENSE.md (`tmcw/big`)  
 
