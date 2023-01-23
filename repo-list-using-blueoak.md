@@ -683,16 +683,16 @@ Related exceptions:
 ### Conversions:
 
 %https://github.com/davidism/flask-alembic/commit/92784e5d032bdd7af46d24367eff8e33900c81ba (from BSD-3)  
-%https://github.com/neumark/mini-iframe-rpc/commit/2277bb149b0a5e5e87262c9a49e6d22dbb5c1321 (from Apache-2.0)
-%https://github.com/prototypefund/ptf-ci/commit/3580d331914af9c53f446508b0bff7e5f48e0bfc (from Apache-2.0)
-%https://github.com/Venerons/quantum/commit/697c9f8dd52205dead3c2ee5fb7f62e9fabe7278 (from MIT)
+%https://github.com/neumark/mini-iframe-rpc/commit/2277bb149b0a5e5e87262c9a49e6d22dbb5c1321 (from Apache-2.0)  
+%https://github.com/prototypefund/ptf-ci/commit/3580d331914af9c53f446508b0bff7e5f48e0bfc (from Apache-2.0)  
+%https://github.com/Venerons/quantum/commit/697c9f8dd52205dead3c2ee5fb7f62e9fabe7278 (from MIT)  
 
 %https://github.com/Ameobea/spotifytrack/commit/bab716c572c5d3fc32bda7976719648d65594b1e#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7 (changed to MIT)  
-%https://github.com/cca-io/rescript-material-ui/commit/2e87d1e2c6d925dc09024f8b02d5467e2fb6b70a (switched to MIT)
-%https://github.com/neumark/mini-iframe-rpc/commit/4c4746c5767ec75ae58514bcdb7b6543c6281160#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7 (back to Apache-2.0, TODO ask why)
-%https://github.com/strangelove-ventures/horcrux/commit/0ba5fda1d49ee18b2a452e94f8a9f29180776fd5 (deleted BOML, went single licensed)
-%https://github.com/Venerons/quantum/commit/04a7c3b5fe70c94fefec874335d314147d986a8b (back to MIT)
+%https://github.com/cca-io/rescript-material-ui/commit/2e87d1e2c6d925dc09024f8b02d5467e2fb6b70a (switched to MIT)  
+%https://github.com/neumark/mini-iframe-rpc/commit/4c4746c5767ec75ae58514bcdb7b6543c6281160#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7 (back to Apache-2.0, TODO ask why)  
+%https://github.com/strangelove-ventures/horcrux/commit/0ba5fda1d49ee18b2a452e94f8a9f29180776fd5 (deleted BOML, went single licensed)  
+%https://github.com/Venerons/quantum/commit/04a7c3b5fe70c94fefec874335d314147d986a8b (back to MIT)  
 %https://github.com/yanalunaterra/ecdsa-rfc6979-go/blob/master/LICENSE-BlueOak-1.0.0.md (rewritten the history, replaced with BSD-2 under new user?)  
 %https://github.com/yanalunaterra/pcg-go/blob/master/LICENSE-BlueOak-1.0.0.md (rewritten the history, replaced with BSD-2 under new user?)  
 
-%https://github.com/tek/ribosome/commit/cafd1c5027e20b95eb117794ff526eeb9c20c22d (just deleted)
+%https://github.com/tek/ribosome/commit/cafd1c5027e20b95eb117794ff526eeb9c20c22d (just deleted)  
