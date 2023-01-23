@@ -357,6 +357,7 @@ https://github.com/julian7/withenv/blob/master/LICENSE.md
 https://github.com/julianmrodri/hhreset-ci-issue/blob/master/LICENSE  
 https://github.com/jurb/haltebuddy-devdiaries/blob/master/LICENSE.md  
 https://github.com/jurica-zigic/scaredycat/blob/master/LICENSE.md  
+https://github.com/kameshsampath/drone-cosign-plugin/blob/main/LICENSE.md  
 https://github.com/kameshsampath/drone-image-registry-auth/blob/main/LICENSE.md  
 https://github.com/kellyfelkins/tabular/blob/master/LICENSE.md  
 https://github.com/kemitchell/check-tls-configuration.rs/blob/main/Cargo.toml  
@@ -370,6 +371,8 @@ https://github.com/kickscondor/fraidycat/blob/master/LICENSE.md
 ~https://github.com/kieranpotts/rootfiles/blob/dev/LICENSE.md~ (removed repo, TODO ask author why)  
 https://github.com/kisom/proxima/blob/master/LICENSE.md  
 https://github.com/kiwicom/kiwi-platform-py/blob/master/LICENSE.md  
+https://github.com/kjhoerr/pantry/blob/trunk/LICENSE.md  
+https://github.com/kjhoerr/submelon.dev/blob/trunk/LICENSE.md  
 https://github.com/kt3k/license_checker_github_action/blob/master/LICENSE (archived)  
 https://github.com/kt3k/localsd/blob/master/LICENSE  
 https://github.com/Kunde21/athens-plugin/blob/master/LICENSE.md  
@@ -598,6 +601,7 @@ https://github.com/zthurman/Research/blob/master/LICENSE.md
 Mirrored repos (indirectly):  
 |https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 |https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
+|TODO: https://github.com/krida2000/medea/search?q=blue+oak  
 
 Imported repos:
 >https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates` mirrors `jez/pandoc-markdown-css-theme`)  
@@ -607,6 +611,7 @@ Imported repos:
 >https://github.com/amar-jay/presentation/blob/master/tmcw/LICENSE.md (`tmcw/big`)  
 >https://github.com/imfht/flaskapp1/blob/master/flask-redis-master/LICENSE.md (`underyx/flask-redis`)  
 >https://github.com/imfht/flaskapps/blob/d6fc9b7e32d7dc6b493c269b8ccbaa6ee2d690c1/flask-redis-master/LICENSE.md (`underyx/flask-redis`)  
+>https://github.com/koralden/kdaemon-sdk/blob/main/libs/tomato/src/LICENSE.md (`ceejbot/tomato`)  
 
 Subdir style repos:
 
@@ -636,6 +641,7 @@ Subdir style repos:
 * https://github.com/instrumentisto/medea-jason/blob/master/demo/LICENSE.md  
 * TODO: https://github.com/instrumentisto/medea-jason/search?q=blue+oak  
 
+  * 5
 * https://github.com/developdata/unit3_slides/blob/master/circuits/LICENSE.md
 * https://github.com/developdata/unit3_slides/blob/master/week_02/LICENSE.md
 * https://github.com/developdata/unit3_slides/blob/master/week_03/LICENSE.md
@@ -646,7 +652,7 @@ Subdir style repos:
 * https://github.com/developdata/unit3_slides/blob/master/week_08/LICENSE.md
 * https://github.com/developdata/unit3_slides/blob/master/week_09/LICENSE.md
 
-  * 5
+  * 6
 * https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md
 * https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md
 
