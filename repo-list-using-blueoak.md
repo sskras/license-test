@@ -270,6 +270,7 @@ https://github.com/GoldsteinE/compe-latex-symbols/blob/master/LICENSE.md
 https://github.com/GoldsteinE/name-it/blob/master/LICENSE.md (! nice intro)  
 https://github.com/harness/drone-artifactory/blob/main/LICENSE.md  
 https://github.com/hauleth/vim-encpipe/blob/master/LICENSE.md  
+https://github.com/Heesho/ReserveProtocol/blob/main/LICENSE  
 https://github.com/HighStakesSwitzerland/seednode-test/blob/main/LICENSE.md  
 https://github.com/Hornwitser/fagc_integration/blob/master/LICENSE.md  
 https://github.com/HughxDev/component-cli/blob/master/LICENSE.md  
