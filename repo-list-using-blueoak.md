@@ -60,7 +60,6 @@ https://github.com/ALLATRA-IT/gst-client/blob/master/LICENSE.md
 https://github.com/ALLATRA-IT/ephyr/blob/master/LICENSE.md  
 https://github.com/ALLATRA-IT/laravel-openapi/blob/main/LICENSE.md  
 https://github.com/ALLATRA-IT/srt-server/blob/master/LICENSE.md  
-https://github.com/amar-jay/presentation/blob/master/tmcw/LICENSE.md  
 https://github.com/ameliabradley/precisebar/blob/master/LICENSE.md (migrated from `leebradley/precisebar` ! nice intro)  
 https://github.com/ameliabradley/zipstats/blob/master/LICENSE.md (migrated from `leebradley/zipstats` ! nice intro)  
 https://github.com/Ameobea/jantix/blob/master/LICENSE.md  
@@ -257,11 +256,14 @@ https://github.com/FransHeuvelmans/Exort/blob/master/LICENSE.md
 https://github.com/freman/putty_hosts/blob/master/LICENSE.md  
 https://github.com/freman/revssh/blob/master/LICENSE.md  
 https://github.com/freman/sshcode/blob/master/LICENSE.md  
+https://github.com/gabriel-fallen/attrition/blob/main/LICENSE.md  
+https://github.com/gabriel-fallen/gencv/blob/main/LICENSE.md  
 https://github.com/gabriel-fallen/rendezvous/blob/main/LICENSE  
 https://github.com/gbirke/advent-of-code-2020/blob/main/LICENSE.md  
 https://github.com/gfabrizi/PlainSimpleFramework/blob/master/LICENSE.md  
 ~https://github.com/gimbles/Rakh~ (deleted repo)  
 https://github.com/git-learning-game/oh-my-git/blob/main/LICENSE.md (nice intro)  
+https://github.com/gjaldon/reserve-audit/blob/master/LICENSE  
 https://github.com/glebd/trkt/blob/master/LICENSE.md  
 https://github.com/GoldsteinE/classified/blob/master/LICENSE.md  
 https://github.com/GoldsteinE/compe-latex-symbols/blob/master/LICENSE.md  
@@ -598,6 +600,8 @@ Imported repos:
 >https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates` mirrors `jez/pandoc-markdown-css-theme`)  
 >https://github.com/bitsy-ai/printnanny-rs/tree/0bc3037f5c19f9c6144b94fb7607ce379ca21920/gst-client-rs (`ALLATRA-IT/gst-client-rs`)  
 >https://github.com/digitalbitbox/bitbox02-firmware/blob/f4dd7ec08d4a991399b49b9aa0d735247cb7d4dd/src/rust/vendor/minicbor/LICENSE.md (`https://gitlab.com/twittner/minicbor`)
+>https://github.com/gallowayevan/gllwy/blob/7412ddf4c89e2115961d429af1d5c59183791336/public/vis_analytics/LICENSE.md (`tmcw/big`)  
+>https://github.com/amar-jay/presentation/blob/master/tmcw/LICENSE.md (`tmcw/big`)  
 
 Subdir style repos:
 
