@@ -99,14 +99,14 @@ https://github.com/bertrandkeller/conference-audit-rapide-agile-tour-montpellier
 https://github.com/bertrandkeller/frago-outil-de-suivi-de-conformite/blob/master/LICENSE.md  
 https://github.com/binaryholdings/tenderseed/blob/master/LICENSE.md (! nice intro)  
 https://github.com/bitboxer/leandoo_menu_mailer/blob/master/LICENSE.md  
-https://github.com/bitsnap/pgvalidat/blob/master/LICENSE.md  
-https://github.com/bitsnap/sqwheel/blob/master/LICENSE.md  
+~https://github.com/bitsnap/pgvalidat/blob/master/LICENSE.md~ (removed repo, TODO ask author why)  
+~https://github.com/bitsnap/sqwheel/blob/master/LICENSE.md~ (removed repo, TODO ask author why)  
 https://github.com/blinry/pomodoro-jukebox/blob/main/LICENSE.md (nice intro)  
 https://github.com/blinry/everything-exhibition/blob/main/LICENSE.md (! nice intro)  
 https://github.com/blinry/sliderland/blob/main/LICENSE.md (nice intro)  
 https://github.com/blinry/veganer-einkaufsguide/blob/main/LICENSE.md (nice intro)  
 https://github.com/bookiza/h2s/blob/master/LICENSE.md  
-https://github.com/bookiza/m2s/blob/master/LICENSE.md  
+~https://github.com/bookiza/m2s/blob/master/LICENSE.md~ (removed repo, redirects to `h2s`)  
 https://github.com/bookiza/purell/blob/master/LICENSE.md  
 https://github.com/bparsons/fastmail-css/blob/master/LICENSE.md  
 https://github.com/callumobrien-bluefruit/zorl/blob/master/LICENSE.md  
@@ -225,11 +225,10 @@ https://github.com/eaze/preroll/blob/latest/LICENSE.md
 https://github.com/eaze/tide-sqlx/blob/latest/LICENSE.md (! custom intro + DCO)  
 https://github.com/eigenfoo/cryptics/blob/main/LICENSE.pandoc-markdown-css-theme.txt (part-licensed)  
 https://github.com/emilianobonassi/threshold-ed25519/blob/master/LICENSE.md  
-https://github.com/Enekui/coturn/blob/master/LICENSE.md (mirror)
 https://github.com/eoinmcafee00/drone-container-scanner/blob/main/LICENSE.md  
 https://github.com/eoinmcafee00/drone-harness-trigger/blob/main/LICENSE.md  
 https://github.com/eoinmcafee00/drone-nuget/blob/main/LICENSE.md  
-https://github.com/ericfitz/RemoteAccess/blob/master/LICENSE.md  
+~https://github.com/ericfitz/RemoteAccess/blob/master/LICENSE.md~ (removed repo, TODO ask author why)  
 https://github.com/ericfitz/unifi-controller/blob/master/LICENSE.md  
 https://github.com/ErickEspinozaT/coturn/blob/master/LICENSE.md  
 https://github.com/erikrl2/Notes/blob/main/theme/LICENSE.md (part-licensed, sub-dir `theme`)  
@@ -590,7 +589,6 @@ https://github.com/zthurman/Arduino_Projects/blob/master/LICENSE.md
 https://github.com/zthurman/Research/blob/master/LICENSE.md  
 
 Mirrored repos (indirectly):  
-|https://github.com/Enekui/coturn/blob/master/LICENSE.md (mirror)  
 |https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 |https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
 
