@@ -413,6 +413,7 @@ https://github.com/mcanalesmayo/dotfiles/blob/master/LICENSE
 https://github.com/metta-systems/metta.systems/blob/master/content/misc/license.md  
 https://github.com/metta-systems/vesper/blob/develop/LICENSE.BlueOak-1.0.0.md  
 ~https://github.com/michaelbiven/TableOfContents/blob/master/LICENSE.md~ (removed repo, TODO ask author why)  
+https://github.com/michael-lazar/gemini-intellij-plugin/blob/main/LICENSE  
 https://github.com/michael-lazar/mozz-archiver/blob/master/LICENSE (! custom intro)  
 https://github.com/michaelsmanley/twitclean/blob/master/LICENSE.md  
 https://github.com/Minoru/plentyfs/blob/main/LICENSE.md  
@@ -601,6 +602,7 @@ https://github.com/zthurman/Arduino_Projects/blob/master/LICENSE.md
 https://github.com/zthurman/Research/blob/master/LICENSE.md  
 
 Mirrored repos (indirectly):  
+|https://github.com/must479/IPFSDEPLOY/blob/master/LICENSE.md (copy of `ipfs-shipyard/ipfs-deploy`?)
 |https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 |https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
 |TODO: https://github.com/krida2000/medea/search?q=blue+oak  
@@ -691,6 +693,7 @@ Related exceptions:
 -https://github.com/licensezero/blog.licensezero.com (matched via User text)  
 -https://github.com/lihop/the-guest/blob/3f9fa23823f88c7d81de2dfc83d373e7b2c0cf34/addons/glam/licenses/spdx_license_data.gd  
 -https://github.com/max0x4e/bytecode/blob/c45df8680b948cd355f967bc81349926fbe1997f/src/ghc-9.2.1/libraries/Cabal/license-list-data/licenses-3.9.json  
+-https://github.com/maxhbr/LDBcollector/blob/0edbb5495c71e91c4a54133f21631ddfbc7e893d/data/metaeffekt-universe/src/main/resources/ae-universe/%5Bb%5D/%5Bbl%5D/Blue-Oak-Model-License-1.0.0.yaml  
 -https://github.com/mikepenz/AboutLibraries/blob/91dbfec4b3c3521cfaf4644f759ae3a0894e4c93/aboutlibraries-core/src/commonMain/kotlin/com/mikepenz/aboutlibraries/entity/SpdxLicense.kt  
 -https://github.com/naba87/Naba-ORT/blob/1ca71eb3c2ab8b8379eb9f387b13d0b66e276b83/utils/spdx/src/main/resources/licenses/BlueOak-1.0.0  
 -https://github.com/opensourceways/sbom-tools/blob/f9f717574fccc686a5d97c8d05619d395783c87b/sbom-ort/utils/spdx/src/main/resources/licenses/BlueOak-1.0.0  
