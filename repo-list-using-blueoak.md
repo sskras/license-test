@@ -132,10 +132,10 @@ https://github.com/chrismademe/scooch/blob/master/LICENSE.md
 https://github.com/chrismademe/wp-block-starter-kit/blob/main/LICENSE.md  
 https://github.com/chrismademe/wp-theme-starter-kit/blob/main/LICENSE.md  
 https://github.com/clusterio/edge_transports/blob/master/LICENSE.md  
-https://github.com/cmitsakis/angaros/blob/master/LICENSE-BlueOak.md  (half-licensed)
+https://github.com/cmitsakis/angaros/blob/master/LICENSE-BlueOak.md  (half-licensed)  
 https://github.com/cmitsakis/polysender/blob/master/LICENSE.md (half-licensed)  
 https://github.com/commonform/abstract-numbering/blob/main/LICENSE.md  
-https://github.com/commonform/agreement-schedules-exhibits-numbering/blob/main/LICENSE.md
+https://github.com/commonform/agreement-schedules-exhibits-numbering/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-analyze/blob/main/LICENSE.md  
 https://github.com/commonform/commonform-cli/blob/master/LICENSE.md  
 https://github.com/commonform/commonform-commonmark/blob/main/LICENSE.md  
@@ -429,7 +429,7 @@ https://github.com/nevir/personal-capital/blob/main/LICENSE.md (! custom intro)
 https://github.com/Niceboy0829/IPFS_Deploy/blob/main/LICENSE.md (dual licensed)  
 https://github.com/NisanthanNanthakumar/big/blob/master/LICENSE.md  
 https://github.com/nothingnesses/CS50/blob/master/LICENSE (almost empty)  
-https://github.com/nrf-rs/nrfxlib-sys/blob/develop/LICENCE.md (moved from `thejpster/nrfxlib-sys` to an org)
+https://github.com/nrf-rs/nrfxlib-sys/blob/develop/LICENCE.md (moved from `thejpster/nrfxlib-sys` to an org)  
 https://github.com/nuuday/drone-azure-key-vault/blob/master/LICENSE.md  
 https://github.com/oars-sigs/drone/blob/main/ui/LICENSE.md (fork of `drone-ui`? Very diverged)  
 https://github.com/Omrigan/logbot/blob/master/LICENSE.md  
@@ -641,9 +641,9 @@ Related exceptions:
 
 ### Blacklisted:
 
--https://github.com/alec-z/license/blob/e9db4d0db2e1f05712f559a245fdf83a9c5fe0d5/scancode-toolkit/src/licensedcode/data/licenses/blueoak-1.0.0.yml
--https://github.com/alec-z/zhangfei/blob/032afbebcf9100f3dc22e09ff819fe7cb5ded011/src/licensedcode/data/licenses/blueoak-1.0.0.yml
--https://github.com/anonymous123rainy/LiResolver/blob/main/data/licenses/BlueOak-1.0.0.txt
+-https://github.com/alec-z/license/blob/e9db4d0db2e1f05712f559a245fdf83a9c5fe0d5/scancode-toolkit/src/licensedcode/data/licenses/blueoak-1.0.0.yml  
+-https://github.com/alec-z/zhangfei/blob/032afbebcf9100f3dc22e09ff819fe7cb5ded011/src/licensedcode/data/licenses/blueoak-1.0.0.yml  
+-https://github.com/anonymous123rainy/LiResolver/blob/main/data/licenses/BlueOak-1.0.0.txt  
 -https://github.com/altlinux/specs/blob/sisyphus/l/license-list-xml/license-list-xml.spec  
 -https://github.com/BlueOakJS/openapi-reference-compiler/blob/master/LICENSE  
 -https://github.com/chenyx2012/lvmen/blob/bf00aa5450f9c1963b1251575e10c684ff3fa2e9/src/licensedcode/data/licenses/blueoak-1.0.0.yml  
@@ -673,7 +673,7 @@ Related exceptions:
 -https://github.com/RyanBrewer317/Breeze/blob/ef3c718810cbf26c32c7f6ac63283450c95df85d/dist-newstyle/tmp/src-200748/Cabal-3.0.2.0/Distribution/SPDX/LicenseId.hs  
 -https://github.com/setrar/ghc/blob/b8e555a9ee31dd5057c363ecbd2b15d67ba84d61/libraries/Cabal/license-list-data/licenses-3.9.json  
 -https://github.com/spdx/spdx-spec/blob/aadf3b0b8dbbabdb4d880b0fc714255fea436ff7/chapters/SPDX-license-list.md  
--https://github.com/SmartsYoung/FenixscanX/blob/fd46b546c66585e231509233691e3f9cda6bc918/scanengine/src/licensedcode/data/licenses/blueoak-1.0.0.yml
+-https://github.com/SmartsYoung/FenixscanX/blob/fd46b546c66585e231509233691e3f9cda6bc918/scanengine/src/licensedcode/data/licenses/blueoak-1.0.0.yml  
 -https://github.com/Th3Whit3Wolf/nxpkgr/blob/ae80c3ffbfa73305ab98c9319f61a123cf96e5f9/src/nix/license.rs  
 -https://github.com/TheXDS/MCART/blob/e891db811ad6be63b87c537dd74f523f5189e8b5/src/MCART/Resources/SpdxLicenseId.cs  
 -https://github.com/TobyAndToby/License-Identifiers/blob/c7d68cc46e1931af347e14253f3f76030175e8e8/LicenseIdentifiers/LicenseIdentifier.Generated.cs  
