@@ -371,7 +371,6 @@ https://github.com/Lisstem/whats-in-a-box/blob/main/LICENSE.md
 https://github.com/lucaswerkmeister/advent-of-code-2020/blob/main/LICENSE.md  
 https://github.com/lucaswerkmeister/preload-questionablecontent/blob/main/LICENSE.md  
 https://github.com/lucaswerkmeister/pygments-server/blob/main/LICENSE.md  
-https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates`)
 https://github.com/LutrisEng/datom-rs (multiple modules being dual licensed with "BSD-2-Clause-Patent")  
 https://github.com/lviana/drone-conversion-poc/blob/master/LICENSE.md  
 https://github.com/LyricLy/bottom-hs/blob/master/LICENSE  
@@ -588,6 +587,9 @@ https://github.com/zthurman/Research/blob/master/LICENSE.md
 Mirrored repos (indirectly):  
 |https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 |https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
+
+Imported repos:
+>https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates` mirrors `jez/pandoc-markdown-css-theme`)  
 
 Subdir style repos:
 
