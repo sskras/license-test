@@ -331,6 +331,7 @@ https://github.com/JGL/DiplomaInAppleDevelopment-AutumnWinter2022/blob/main/docs
 https://github.com/jimkang/email-talk/blob/master/LICENSE.md  
 https://github.com/jimsheldon/drone-convert-changeset/blob/master/LICENSE.md  
 https://github.com/joehand/dat-folders/blob/master/LICENSE  
+https://github.com/JorisL/blog/blob/main/LICENSE.md  
 https://github.com/jredrado/minicbor/blob/master/LICENSE.md  
 https://github.com/jrick/bin/blob/main/LICENSE.md  
 https://github.com/jrick/domain/blob/main/LICENSE.md  
