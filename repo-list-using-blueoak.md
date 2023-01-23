@@ -41,6 +41,10 @@ Added a list of (maybe old) false positives, the blacklist. Just in case.
 Added a list of licenses that are explicitly indicated as compatible with BOML.  
 Added a list of license conversions to BOML.
 
+Added seemingly all new repos from 61 pages of [the last updated query](https://github.com/search?o=asc&p=61&q=https%3A%2F%2Fblueoakcouncil.org%2Flicense%2F1.0.0."+"30+days+after+the+notice"+filename%3ALICENSE+-homepage_url+-licenseId&s=indexed&type=Code).
+
+2023-01-23 Updated, now 586 (+ 20 added) items.  A lot ones got removed/reorganized.
+
 
 https://github.com/7fffffff/deferred/blob/main/LICENSE.md  
 https://github.com/7fffffff/emptydirs/blob/main/LICENSE.md  
