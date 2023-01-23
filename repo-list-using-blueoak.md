@@ -612,6 +612,7 @@ https://github.com/wingo/wassemble/blob/master/LICENSE.md
 https://github.com/wvansteen/scala_bootcamp/blob/master/LICENSE.md  
 https://github.com/xaviershay/vitamin-vcv-modules/blob/main/LICENSE.md  
 https://github.com/yanalunaterra-wip/unrar-libre/blob/master/LICENSE-BlueOak-1.0.0.md (user renamed, was `yanalunaterra/unrar-libre`)  
+https://github.com/yanalunaterra-wip/correct-horse/blob/master/LICENSE-BlueOak-1.0.0.md  
 https://github.com/YoitoFes/drone-runner-buildah/blob/main/LICENSE.md (! nice intro)  
 https://github.com/YoitoFes/drone-runner-podman/blob/main/LICENSE.md  
 https://github.com/zthurman/Arduino_Projects/blob/master/LICENSE.md  
@@ -623,6 +624,7 @@ Mirrored repos (indirectly):
 |https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 |https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
 |TODO: https://github.com/krida2000/medea/search?q=blue+oak  
+|https://github.com/YendorEngine/atrl/blob/ecs/LICENSE (copy of `Laocoon7/atrl`)  
 
 Imported repos:
 >https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates` mirrors `jez/pandoc-markdown-css-theme`)  
