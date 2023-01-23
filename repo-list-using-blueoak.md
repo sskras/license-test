@@ -101,6 +101,9 @@ https://github.com/binaryholdings/tenderseed/blob/master/LICENSE.md (! nice intr
 https://github.com/bitboxer/leandoo_menu_mailer/blob/master/LICENSE.md  
 ~https://github.com/bitsnap/pgvalidat/blob/master/LICENSE.md~ (removed repo, TODO ask author why)  
 ~https://github.com/bitsnap/sqwheel/blob/master/LICENSE.md~ (removed repo, TODO ask author why)  
+https://github.com/bleeptrack/fr0zen-system-laser/blob/main/LICENSE.md  
+https://github.com/blinry/compass-in-the-sky/blob/main/LICENSE.md  
+https://github.com/blinry/etherwiki/blob/main/LICENSE.md  
 https://github.com/blinry/pomodoro-jukebox/blob/main/LICENSE.md (nice intro)  
 https://github.com/blinry/everything-exhibition/blob/main/LICENSE.md (! nice intro)  
 https://github.com/blinry/sliderland/blob/main/LICENSE.md (nice intro)  
@@ -584,6 +587,7 @@ Mirrored repos (indirectly):
 
 Imported repos:
 >https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates` mirrors `jez/pandoc-markdown-css-theme`)  
+>https://github.com/bitsy-ai/printnanny-rs/tree/0bc3037f5c19f9c6144b94fb7607ce379ca21920/gst-client-rs (`ALLATRA-IT/gst-client-rs`)  
 
 Subdir style repos:
 
