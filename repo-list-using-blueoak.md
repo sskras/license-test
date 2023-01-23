@@ -670,6 +670,7 @@ Related exceptions:
 ?https://github.com/nyarly/confit (directs derivatives to use BOML ir BSD-2+P; to investigate for possible forks)  
 ?https://github.com/PAR-iTY/mariah-carey-neural-net/blob/main/LICENSE (time-licensed past 3y since the last contribution)  
 ?https://github.com/pjohansson/inkling/blob/master/LICENSE.md (Parity-licensed repo with direction towards BOML, MIT and Apache-2.0)  
+?https://github.com/QuinnHe/ml5plus_3000 (time-licensed past 3y since the last contribution)  
 
 ---
 
