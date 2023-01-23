@@ -489,10 +489,13 @@ https://github.com/resknow/boilerplate/blob/master/LICENSE.md
 https://github.com/resknow/wp-starter-kit/blob/main/wp-content/themes/tashajacks/LICENSE.md  
 https://github.com/riiswa/rapport-innovation-technologique/blob/main/LICENSE.md (part-licensed, except text and images)  
 https://github.com/riiswa/scala2haskell/blob/main/LICENSE.md  
+https://github.com/rohit-gohri/drone-junit/blob/main/LICENSE.md  
 https://github.com/RossSmyth/auto_comm/blob/master/LICENSE.md  
 https://github.com/RossSmyth/mesowest.rs/blob/main/LICENSE.md  
 https://github.com/RossSmyth/RossSmyth.github.io/blob/main/LICENSE.md (page)  
+https://github.com/RossSmyth/resume/blob/main/LICENSE.md  
 https://github.com/RossSmyth/spectrum.py/blob/master/LICENSE.md (! relicensed from MIT)  
+https://github.com/rssnyder/drone-github-app/blob/main/LICENSE.md  
 https://github.com/runxel/archicad-cornell-box/blob/master/LICENSE.md  
 https://github.com/runxel/archicad-python/blob/master/LICENSE.md (! nice intro)  
 https://github.com/runxel/computational-design/blob/main/LICENSE.md (! nice intro)  
