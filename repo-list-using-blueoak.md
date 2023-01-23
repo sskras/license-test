@@ -493,7 +493,7 @@ https://github.com/sloonz/drone-env-merge/blob/master/LICENSE.md  (part-licensed
 https://github.com/sloonz/drone-env-signed/blob/master/LICENSE.md  
 https://github.com/sloonz/drone-ssh-ca/blob/master/LICENSE.md  
 https://github.com/spicylobstergames/shotcaller-minigene/blob/master/README.md  (nice intro; old repo `amethyst/shotcaller` migrated and archived)  
-https://github.com/spl/clear-sans-fonts (part-licensed repo per sub-dir; see at the bottom)  
+https://github.com/spl/clear-sans-fonts/blob/main/scripts/license.md (part-licensed repo per sub-dir; see at the bottom)  
 ~https://github.com/spl/feedflow~ (deleted repo)  
 https://github.com/squamishaccess/squamishaccess-functions/blob/main/LICENSE.md  
 https://github.com/sskras/ahk-tool-set/blob/main/LICENSE.md  
