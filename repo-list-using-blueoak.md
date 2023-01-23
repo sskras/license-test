@@ -699,9 +699,13 @@ Related exceptions:
 -https://github.com/maxhbr/LDBcollector/blob/0edbb5495c71e91c4a54133f21631ddfbc7e893d/data/metaeffekt-universe/src/main/resources/ae-universe/%5Bb%5D/%5Bbl%5D/Blue-Oak-Model-License-1.0.0.yaml  
 -https://github.com/mikepenz/AboutLibraries/blob/91dbfec4b3c3521cfaf4644f759ae3a0894e4c93/aboutlibraries-core/src/commonMain/kotlin/com/mikepenz/aboutlibraries/entity/SpdxLicense.kt  
 -https://github.com/naba87/Naba-ORT/blob/1ca71eb3c2ab8b8379eb9f387b13d0b66e276b83/utils/spdx/src/main/resources/licenses/BlueOak-1.0.0  
+-https://github.com/openComplianceCode/lvmeng/blob/3dafd26f475bf870f49755e392ce9494d07f353a/src/licensedcode/data/licenses/blueoak-1.0.0.yml  
+-https://github.com/openComplianceCode/scancode-toolkit/blob/2013993671eba1200a65cebcacf978507f127fce/src/licensedcode/data/licenses/blueoak-1.0.0.yml  
 -https://github.com/opensourceways/sbom-tools/blob/f9f717574fccc686a5d97c8d05619d395783c87b/sbom-ort/utils/spdx/src/main/resources/licenses/BlueOak-1.0.0  
+-https://github.com/Optum/barista/blob/79e92be720199c7e2d160f1a4d43745a18f6a4dd/barista-scan/tools/scancode-toolkit/src/licensedcode/data/licenses/blueoak-1.0.0.yml  
 -https://github.com/osrgroup/product-model-toolkit/blob/80e092f1aab5d9a9e31ccca0d109548c2a26fc80/model/license_SPDX.go  
 -https://github.com/oss-review-toolkit/ort/blob/a531ccb99e66d8bd035867524c52a5033a47b63c/utils/spdx/src/main/resources/licenses/BlueOak-1.0.0  
+-https://github.com/osslab-pku/RecLicense/blob/1ffe1ff82be684e14ed848c14774cfd9d634bf91/scancode-toolkit/src/licensedcode/data/licenses/blueoak-1.0.0.yml  
 -https://github.com/patriksvensson/spdx/blob/f981454e430db39561b51c6d49fa8c71b7ee9b04/src/Spdx/Generated/SpdxLicense.Generated.cs  
 -https://github.com/RiverSafeUK/eze-cli/blob/fa59d353b784a2fe0eebac49102a2aaab1fd6f91/eze/data/spdx-license-list-data-supplement.json  
 -https://github.com/ropensci/cffr/blob/066bb91dd1f87d7e7476f0082d51f08d7f4373bc/data-raw/SPDX_License_List.csv  
