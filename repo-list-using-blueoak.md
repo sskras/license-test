@@ -53,7 +53,6 @@ https://github.com/AdrianKoshka/playbooks/blob/master/LICENSE.md
 https://github.com/AdrianKoshka/pwsh-profile/blob/master/LICENSE.md  
 https://github.com/agentofuser/interplanetarygatsby.com/blob/master/LICENSE.md  
 https://github.com/agentofuser/interplanetary-gatsby-starter/blob/master/LICENSE.md  
-https://github.com/agentofuser/ipfs-deploy/blob/master/LICENSE.md (tripple licensed with "BSD-2-Clause Plus Patent" and MIT)  
 https://github.com/alchemydc/celo-network-monitor/blob/master/LICENSE.md  
 https://github.com/ale-ben/bitburner-scripts/blob/master/bitburner_scripts/LICENSE  
 https://github.com/ALLATRA-IT/gst-client/blob/master/LICENSE.md  
@@ -307,7 +306,7 @@ https://github.com/ioistired/syncpg/blob/master/LICENSE.md
 ~https://github.com/ipelekhan/boml/blob/master/LICENSE.md~  (deleted user)  
 ~https://github.com/ipelekhan/koabars/blob/master/LICENSE.md~  (deleted user)  
 ~https://github.com/ipelekhan/wowsuch.games/blob/master/LICENSE.md~  (deleted user)  
-https://github.com/ipfs-shipyard/ipfs-deploy/blob/master/LICENSE.md  
+https://github.com/ipfs-shipyard/ipfs-deploy/blob/master/LICENSE.md (tripple licensed with "BSD-2-Clause Plus Patent" and MIT; moved from `agentofuser/ipfs-deploy`)  
 https://github.com/iqlusioninc/tenderseed/blob/master/LICENSE.md  
 https://github.com/IrtizaNasar/CCI-Diploma22-ComputationalFutures/blob/main/docs/slides/LICENSE.md (part-licensed repo, only slides)  
 https://github.com/isaacs/create-isaacs/blob/main/LICENSE.md  
@@ -441,7 +440,6 @@ https://github.com/neonquill/xmega_ws28xx/blob/master/LICENSE.md (! custom intro
 https://github.com/nevir/home/blob/main/LICENSE.md  
 https://github.com/nevir/norms/blob/main/LICENSE.md  
 https://github.com/nevir/personal-capital/blob/main/LICENSE.md (! custom intro)  
-https://github.com/Niceboy0829/IPFS_Deploy/blob/main/LICENSE.md (dual licensed)  
 https://github.com/NisanthanNanthakumar/big/blob/master/LICENSE.md  
 https://github.com/nothingnesses/CS50/blob/master/LICENSE (almost empty)  
 https://github.com/nrf-rs/nrfxlib-sys/blob/develop/LICENCE.md (moved from `thejpster/nrfxlib-sys` to an org)  
@@ -602,7 +600,8 @@ https://github.com/zthurman/Arduino_Projects/blob/master/LICENSE.md
 https://github.com/zthurman/Research/blob/master/LICENSE.md  
 
 Mirrored repos (indirectly):  
-|https://github.com/must479/IPFSDEPLOY/blob/master/LICENSE.md (copy of `ipfs-shipyard/ipfs-deploy`?)
+|https://github.com/must479/IPFSDEPLOY/blob/master/LICENSE.md (copy of `ipfs-shipyard/ipfs-deploy`?)  
+|https://github.com/Niceboy0829/IPFS_Deploy/blob/main/LICENSE.md (copy of `ipfs-shipyard/ipfs-deploy`?)  
 |https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 |https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
 |TODO: https://github.com/krida2000/medea/search?q=blue+oak  
