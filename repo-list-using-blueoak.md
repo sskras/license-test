@@ -506,6 +506,7 @@ https://github.com/rust-lang-ua/ukrustacean/blob/main/LICENSE.md (! nice intro)
 https://github.com/Rybadour/Foreman/blob/master/LICENSE.md  
 https://github.com/sagehane/fence/blob/main/LICENSE.md  
 https://github.com/sagehane/pomeg/blob/main/LICENSE.md  
+https://github.com/sambacha/ibp-spec/blob/master/LICENSE.md  
 https://github.com/sargassum-world/docker-zerotier-controller/blob/main/LICENSE.BlueOak (dual-licensed with Apache License 2.0)  
 https://github.com/sargassum-world/fluitans/blob/main/LICENSE.BlueOak (dual licensed)    
 https://github.com/sargassum-world/godest/blob/main/LICENSE.BlueOak (dual-licensed with Apache License 2.0; nice intro)  
@@ -513,11 +514,15 @@ https://github.com/sargassum-world/latreutes/blob/main/LICENSE.BlueOak (dual lic
 https://github.com/sargassum-world/pslive/blob/main/LICENSE.BlueOak  (dual licensed)  
 https://github.com/sargassum-world/stimulated/blob/main/LICENSE.BlueOak (dual-licensed with Apache License 2.0)  
 https://github.com/sargassum-world/styles/blob/main/LICENSE.BlueOak (dual-licensed with Apache License 2.0)  
+https://github.com/saukrs/elastic-search-demo/blob/main/LICENSE.asciidoc
+https://github.com/saukrs/docker-edit-file-CLI/blob/main/LICENSE.asciidoc  
 https://github.com/saulius-krasuckas/VGTU-ELF-TETfm-20-magistro-darbas/blob/main/LICENSE.md  
 https://github.com/Schnitzelbaer/VoiceControlledPresentation/tree/master/experimente/katja/big_%22echte%22_presentation (part-licensed repo per sub-dir)  
 https://github.com/serra-allgood/react-useintersection/blob/master/LICENSE (! nice intro)  
+https://github.com/setamies/iceth-plugin/blob/master/LICENSE  
 https://github.com/sethwheway/QuickTok/blob/main/LICENSE.md  
 https://github.com/sethwheway/Steam-Comment-Bot/blob/master/LICENSE.md  
+https://github.com/sgustafsson/lelb/blob/main/LICENSE  
 https://github.com/sloonz/drone-env-merge/blob/master/LICENSE.md  (part-licensed)  
 https://github.com/sloonz/drone-env-signed/blob/master/LICENSE.md  
 https://github.com/sloonz/drone-ssh-ca/blob/master/LICENSE.md  
@@ -528,7 +533,10 @@ https://github.com/squamishaccess/squamishaccess-functions/blob/main/LICENSE.md
 https://github.com/sskras/ahk-tool-set/blob/main/LICENSE.md  
 https://github.com/sskras/dalykai/blob/main/LICENSE.md  
 https://github.com/sskras/license-test/blob/master/LICENSE.md  
+https://github.com/sskras/reactos/blob/main/LICENSE.asciidoc  
 https://github.com/steewbsd/rpncalc/blob/master/LICENSE  
+https://github.com/stickeritis/sticker/blob/master/LICENSE.md  
+https://github.com/stickeritis/sticker2/blob/master/LICENSE.md
 https://github.com/stickeritis/sticker2-python/blob/master/Cargo.toml  
 https://github.com/stickeritis/sticker-python/blob/master/Cargo.toml  
 https://github.com/stickeritis/sticker-transformers/blob/master/LICENSE.md  
