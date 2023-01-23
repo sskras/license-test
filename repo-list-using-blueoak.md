@@ -81,7 +81,7 @@ https://github.com/anoxic/postgressive/blob/mastro/LICENSE
 https://github.com/anoxic/rc/blob/master/LICENSE  
 https://github.com/arcana-rs/synthez/blob/main/LICENSE.md (! custom intro)  
 https://github.com/argovaerts/bonsai-php/blob/main/LICENSE.md  
-https://github.com/argovaerts/FloreneB/blob/master/LICENSE.md  
+https://github.com/argovaerts/FloreneB/blob/master/LICENSE.md (part-licensed repo, only src)  
 https://github.com/ar-nelson/broadcast-interfaces/blob/master/LICENSE.md  
 https://github.com/ar-nelson/osmosis-js/blob/master/LICENSE  
 https://github.com/ar-nelson/schemepunk/blob/master/LICENSE.md (with MIT/BSD-licensed contributions)  
