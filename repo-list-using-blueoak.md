@@ -447,7 +447,7 @@ https://github.com/pricingmonkey/rxjs-redux/blob/master/LICENSE.md
 https://github.com/pricingmonkey/tangi/blob/master/LICENSE.md  
 https://github.com/pricingmonkey/worker-bee/blob/master/LICENSE.md  
 https://github.com/prototypefund/ptf-ci/blob/master/LICENSE  
-https://github.com/prototypefund/ptf-code/blob/master/LICENSE  
+~https://github.com/prototypefund/ptf-code/blob/master/LICENSE~ (removed repo, TODO ask author why)  
 https://github.com/qrpnxz/wkdhash/blob/master/COPYRIGHT.md  
 https://github.com/qrpnxz/wkdserver/blob/master/COPYRIGHT.md  
 https://github.com/ratanvarghese/mon13/blob/master/LICENSE.md  
