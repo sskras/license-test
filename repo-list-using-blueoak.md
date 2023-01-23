@@ -281,7 +281,6 @@ https://github.com/i9or/asteroids.ts/blob/main/LICENSE.md
 https://github.com/i9or/boml/blob/main/LICENSE.md  
 https://github.com/i9or/dungeon.ts/blob/main/LICENSE.md  
 https://github.com/i9or/ignorethis.page/blob/main/LICENSE.md  
-https://github.com/imfht/flaskapp1/blob/master/flask-redis-master/LICENSE.md  
 https://github.com/instana/website-monitoring-examples/blob/master/LICENSE  
 https://github.com/instrumentisto/baza/blob/main/LICENSE.md (! nice intro)  
 https://github.com/instrumentisto/cargo-ndk-docker-image/blob/main/LICENSE.md  
@@ -603,6 +602,8 @@ Imported repos:
 >https://github.com/digitalbitbox/bitbox02-firmware/blob/f4dd7ec08d4a991399b49b9aa0d735247cb7d4dd/src/rust/vendor/minicbor/LICENSE.md (`https://gitlab.com/twittner/minicbor`)  
 >https://github.com/gallowayevan/gllwy/blob/7412ddf4c89e2115961d429af1d5c59183791336/public/vis_analytics/LICENSE.md (`tmcw/big`)  
 >https://github.com/amar-jay/presentation/blob/master/tmcw/LICENSE.md (`tmcw/big`)  
+>https://github.com/imfht/flaskapp1/blob/master/flask-redis-master/LICENSE.md (`underyx/flask-redis`)  
+>https://github.com/imfht/flaskapps/blob/d6fc9b7e32d7dc6b493c269b8ccbaa6ee2d690c1/flask-redis-master/LICENSE.md (`underyx/flask-redis`)  
 
 Subdir style repos:
 
