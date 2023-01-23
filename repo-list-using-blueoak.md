@@ -61,8 +61,8 @@ https://github.com/ALLATRA-IT/ephyr/blob/master/LICENSE.md
 https://github.com/ALLATRA-IT/laravel-openapi/blob/main/LICENSE.md  
 https://github.com/ALLATRA-IT/srt-server/blob/master/LICENSE.md  
 https://github.com/amar-jay/presentation/blob/master/tmcw/LICENSE.md  
-https://github.com/ameliabradley/precisebar/blob/master/LICENSE.md (! nice intro)  
-https://github.com/ameliabradley/zipstats/blob/master/LICENSE.md (! nice intro)  
+https://github.com/ameliabradley/precisebar/blob/master/LICENSE.md (migrated from `leebradley/precisebar` ! nice intro)  
+https://github.com/ameliabradley/zipstats/blob/master/LICENSE.md (migrated from `leebradley/zipstats` ! nice intro)  
 https://github.com/Ameobea/jantix/blob/master/LICENSE.md  
 https://github.com/Ameobea/js-utils/blob/master/LICENSE  
 https://github.com/amethyst/dwarf_seeks_fortune/blob/master/LICENSE.md  
@@ -361,8 +361,6 @@ https://github.com/kurtraschke/pvta-gtfsrealtime/blob/master/LICENSE.md
 https://github.com/lc-labs/register/blob/master/LICENSE.md  
 https://github.com/Leafwing-Studios/bevy-momentum-platformer-template/blob/main/LICENSE.md  
 https://github.com/Leafwing-Studios/bevy-prototype-physics/blob/master/LICENSE.md  
-https://github.com/leebradley/precisebar/blob/master/LICENSE.md  
-https://github.com/leebradley/zipstats/blob/master/LICENSE.md  
 https://github.com/leha-bot/std_version/blob/master/LICENSE.md (dual-licensed with "Boost-Software-License-1.0")  
 https://github.com/licensezero/blog.licensezero.com (matched via User text)  
 https://github.com/licensezero/cli/blob/main/LICENSE.md  
