@@ -569,7 +569,7 @@ https://github.com/w6d-io/docker-nmap/blob/main/LICENSE.md
 https://github.com/WaffleLapkin/tping/blob/master/LICENSE.md  
 https://github.com/WernerCD/bitburner_scripts/blob/master/LICENSE (part-licensed with other licenses from imported components)  
 https://github.com/wingo/wassemble/blob/master/LICENSE.md  
-https://github.com/WizardL/kyuu/blob/master/LICENSE.md  
+~https://github.com/WizardL/kyuu/blob/master/LICENSE.md~ (repo removed, TODO ask owner why)  
 https://github.com/wvansteen/scala_bootcamp/blob/master/LICENSE.md  
 https://github.com/xaviershay/vitamin-vcv-modules/blob/main/LICENSE.md  
 https://github.com/yanalunaterra/ecdsa-rfc6979-go/blob/master/LICENSE-BlueOak-1.0.0.md  
