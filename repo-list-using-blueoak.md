@@ -362,7 +362,6 @@ https://github.com/lc-labs/register/blob/master/LICENSE.md
 https://github.com/Leafwing-Studios/bevy-momentum-platformer-template/blob/main/LICENSE.md  
 https://github.com/Leafwing-Studios/bevy-prototype-physics/blob/master/LICENSE.md  
 https://github.com/leha-bot/std_version/blob/master/LICENSE.md (dual-licensed with "Boost-Software-License-1.0")  
-https://github.com/licensezero/blog.licensezero.com (matched via User text)  
 https://github.com/licensezero/cli/blob/main/LICENSE.md  
 https://github.com/lintpipe/standards/blob/main/LICENSE.md (! custom intro)  
 https://github.com/Lisstem/cardmarket-cli/blob/main/LICENSE.md  
@@ -650,6 +649,7 @@ Related exceptions:
 -https://github.com/IaFP/Cabal/blob/6424beef3c40ae58318f348ec5c265db26ac42bc/license-list-data/licenses-3.9.json  
 -https://github.com/kemitchell/writing.kemitchell.com/blob/6b0a8af89c589038e6d0930098a5cbfa1e001f92/_posts/2019-03-09-Deprecation-Notice.md  
 <!-- ._ -->
+-https://github.com/licensezero/blog.licensezero.com (matched via User text)  
 -https://github.com/lihop/the-guest/blob/3f9fa23823f88c7d81de2dfc83d373e7b2c0cf34/addons/glam/licenses/spdx_license_data.gd  
 -https://github.com/max0x4e/bytecode/blob/c45df8680b948cd355f967bc81349926fbe1997f/src/ghc-9.2.1/libraries/Cabal/license-list-data/licenses-3.9.json  
 -https://github.com/mikepenz/AboutLibraries/blob/91dbfec4b3c3521cfaf4644f759ae3a0894e4c93/aboutlibraries-core/src/commonMain/kotlin/com/mikepenz/aboutlibraries/entity/SpdxLicense.kt  
