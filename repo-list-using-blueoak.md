@@ -177,10 +177,12 @@ https://github.com/creditstxt/creditstxt.js/blob/master/LICENSE.md
 https://github.com/creditstxt/git-creditstxt/blob/master/LICENSE.md  
 https://github.com/creeder-uturn/craig.uturndata.com/ (page, two subdirs)  
 https://github.com/cronokirby/ripple/blob/master/LICENSE.md  
+https://github.com/danhorst/learning-ruby/blob/main/LICENSE.md  
 https://github.com/DanielKote/Foreman2/blob/Main/LICENSE.md  
 https://github.com/dauTT/valink/blob/master/LICENSE.md  
 https://github.com/davidhiendl/drone-gitea-extensions/blob/master/LICENSE.md  
 https://github.com/davidhiendl/drone-github-extensions/blob/master/LICENSE.md  
+https://github.com/davidism/advent/blob/main/LICENSE.md  
 https://github.com/davidism/flask-alembic/blob/main/LICENSE.rst  
 https://github.com/dead-claudia/mithril-helpers/blob/master/LICENSE.txt (dual licensed; BOML everything except `migrate/`)    
 https://github.com/decred/dcrdex/blob/master/LICENSE.md  
@@ -189,6 +191,7 @@ https://github.com/degeri/DownloadHawk/blob/master/LICENSE.md
 https://github.com/depsterr/httpserver/blob/master/LICENSE.md  
 https://github.com/developdata/unit3_week_01/blob/master/LICENSE.md  
 https://github.com/dev-norms/core/blob/main/LICENSE.md  
+https://github.com/dev-norms/toolchain/blob/main/LICENSE.md  
 https://github.com/dev-norms/vscode/blob/main/LICENSE.md  
 https://github.com/dexbox-io/dexbox-cypherpunk/blob/main/LICENSE  
 https://github.com/dhimmel/pubmedpy/blob/main/license.md  
@@ -215,7 +218,7 @@ https://github.com/drone/docs/blob/master/LICENSE.md
 https://github.com/drone/drone-gc/blob/master/LICENSE.md  
 https://github.com/drone/drone-gitleaks/blob/master/LICENSE.md  
 https://github.com/drone/drone-hugo-theme/blob/master/LICENSE.md  
-https://github.com/drone/drone-jira  
+https://github.com/drone/drone-jira/blob/master/LICENSE.md  
 https://github.com/drone/drone-migrate/blob/master/LICENSE.md  
 https://github.com/drone/drone-netlify/blob/master/LICENSE.md  
 https://github.com/drone/drone-ui/blob/main/LICENSE.md  
@@ -225,6 +228,7 @@ https://github.com/drone-plugin/drone-webhook/blob/master/LICENSE.md
 https://github.com/drone-plugins/drone-harness-trigger/blob/main/LICENSE.md  
 https://github.com/drone-plugins/drone-snyk/blob/main/LICENSE.md  
 https://github.com/drumhacker72/aoc2020/blob/master/LICENSE.md  
+https://github.com/drumhacker72/aoc2022/blob/master/day1/LICENSE  
 https://github.com/dykatz/yahtzee-svelte/blob/master/LICENSE.md  
 https://github.com/DysphoricUnicorn/dysphoricParkingPage/blob/main/LICENSE.md  
 https://github.com/Earnestly/pkgbuilds/blob/master/LICENSE  
@@ -593,6 +597,7 @@ Mirrored repos (indirectly):
 Imported repos:
 >https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates` mirrors `jez/pandoc-markdown-css-theme`)  
 >https://github.com/bitsy-ai/printnanny-rs/tree/0bc3037f5c19f9c6144b94fb7607ce379ca21920/gst-client-rs (`ALLATRA-IT/gst-client-rs`)  
+>https://github.com/digitalbitbox/bitbox02-firmware/blob/f4dd7ec08d4a991399b49b9aa0d735247cb7d4dd/src/rust/vendor/minicbor/LICENSE.md (`https://gitlab.com/twittner/minicbor`)
 
 Subdir style repos:
 
