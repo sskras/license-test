@@ -572,8 +572,6 @@ https://github.com/wingo/wassemble/blob/master/LICENSE.md
 ~https://github.com/WizardL/kyuu/blob/master/LICENSE.md~ (repo removed, TODO ask owner why)  
 https://github.com/wvansteen/scala_bootcamp/blob/master/LICENSE.md  
 https://github.com/xaviershay/vitamin-vcv-modules/blob/main/LICENSE.md  
-https://github.com/yanalunaterra/ecdsa-rfc6979-go/blob/master/LICENSE-BlueOak-1.0.0.md  
-https://github.com/yanalunaterra/pcg-go/blob/master/LICENSE-BlueOak-1.0.0.md  
 https://github.com/yanalunaterra/unrar-libre/blob/master/LICENSE-BlueOak-1.0.0.md  
 https://github.com/YoitoFes/drone-runner-buildah/blob/main/LICENSE.md (! nice intro)  
 https://github.com/YoitoFes/drone-runner-podman/blob/main/LICENSE.md  
@@ -687,5 +685,7 @@ Related exceptions:
 %https://github.com/neumark/mini-iframe-rpc/commit/4c4746c5767ec75ae58514bcdb7b6543c6281160#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7 (back to Apache-2.0, TODO ask why)
 %https://github.com/strangelove-ventures/horcrux/commit/0ba5fda1d49ee18b2a452e94f8a9f29180776fd5 (deleted BOML, went single licensed)
 %https://github.com/Venerons/quantum/commit/04a7c3b5fe70c94fefec874335d314147d986a8b (back to MIT)
+%https://github.com/yanalunaterra/ecdsa-rfc6979-go/blob/master/LICENSE-BlueOak-1.0.0.md (rewritten the history, replaced with BSD-2 under new user?)  
+%https://github.com/yanalunaterra/pcg-go/blob/master/LICENSE-BlueOak-1.0.0.md (rewritten the history, replaced with BSD-2 under new user?)  
 
 %https://github.com/tek/ribosome/commit/cafd1c5027e20b95eb117794ff526eeb9c20c22d (just deleted)
