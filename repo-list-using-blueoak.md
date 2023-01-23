@@ -602,6 +602,7 @@ https://github.com/VandyHacks/awesome/blob/master/LICENSE.md
 https://github.com/VandyHacks/vh-dev-training/blob/master/LICENSE.md  
 ~https://github.com/vazub/lbxtract-red/blob/master/LICENSE.md~ (repo removed; https://codeberg.org/vazub/lbxtract-red/src/branch/master/lbxtract.red, TODO ask owner why)  
 https://github.com/versvs/hsptt/blob/master/LICENSE.md  
+https://github.com/vpodaruev/yt-cut/blob/main/LICENSE.md  
 https://github.com/vunamhung/redis-redisjson-redisearch-docker/blob/master/LICENSE.md  
 https://github.com/w6d-io/docker-nmap/blob/main/LICENSE.md  
 https://github.com/WaffleLapkin/tping/blob/master/LICENSE.md  
