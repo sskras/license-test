@@ -576,6 +576,8 @@ https://github.com/timClicks/dataclerk#copyright
 https://github.com/TimothyGu/json-parser-rust/blob/main/LICENSE.BlueOak.md (dual license with MIT)  
 https://github.com/tmcw/big/blob/master/LICENSE.md  
 https://github.com/tmcw/make-relative/blob/master/LICENSE.md  
+https://github.com/tiborpilz/tiborpilz/blob/main/LICENSE.md  
+https://github.com/timClicks/thisthat/blob/main/LICENSE.md  
 https://github.com/tov/split_ext_rs/blob/master/LICENSE.md  
 https://github.com/tphoney/best_practice/blob/main/LICENSE.md  
 https://github.com/tphoney/drone-diagnostics/blob/main/LICENSE.md  
