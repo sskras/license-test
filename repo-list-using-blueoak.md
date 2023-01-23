@@ -174,7 +174,7 @@ https://github.com/dauTT/valink/blob/master/LICENSE.md
 https://github.com/davidhiendl/drone-gitea-extensions/blob/master/LICENSE.md  
 https://github.com/davidhiendl/drone-github-extensions/blob/master/LICENSE.md  
 https://github.com/davidism/flask-alembic/blob/main/LICENSE.rst  
-https://github.com/dead-claudia/mithril-helpers/blob/master/LICENSE.txt (part-licensed except `migrate`)  
+https://github.com/dead-claudia/mithril-helpers/blob/master/LICENSE.txt (dual licensed; BOML everything except `migrate/`)    
 https://github.com/decred/dcrdex/blob/master/LICENSE.md  
 https://github.com/decred/release/blob/master/LICENSE.md  
 https://github.com/degeri/DownloadHawk/blob/master/LICENSE.md  
@@ -296,7 +296,7 @@ https://github.com/ioistired/syncpg/blob/master/LICENSE.md
 https://github.com/ipfs-shipyard/ipfs-deploy/blob/master/LICENSE.md  
 https://github.com/iqlusioninc/tenderseed/blob/master/LICENSE.md  
 https://github.com/IrtizaNasar/CCI-Diploma22-ComputationalFutures/blob/main/docs/slides/LICENSE.md (part-licensed repo, only slides)  
-https://github.com/isiahmeadows/mithril-helpers/blob/master/LICENSE.txt (dual licensed)  
+~https://github.com/isiahmeadows/mithril-helpers/blob/master/LICENSE.txt~ (merged repo)  
 https://github.com/izik1/rasen/blob/main/LICENSE.md  
 https://github.com/Jaxboards/jaxboards-install/blob/main/LICENSE  
 https://github.com/jdoubleu/Silbentrenner/blob/master/LICENSE  
