@@ -324,7 +324,7 @@ https://github.com/jrick/winternitz/blob/master/LICENSE.md
 https://github.com/jrick/wpakey/blob/master/LICENSE.md  
 https://github.com/jrick/wsrpc/blob/master/LICENSE.md  
 https://github.com/jschenke488/greatest-common-divisor/blob/main/LICENSE.md  
-https://github.com/jsiebern/bs-material-ui/blob/master/LICENSE (migrated repo to `cca-io/rescript-material-ui`)  
+~https://github.com/jsiebern/bs-material-ui/blob/master/LICENSE~ (migrated repo to `cca-io/rescript-material-ui`)  
 https://github.com/judofyr/appy/blob/master/LICENSE.md  
 https://github.com/judofyr/ippon/blob/master/LICENSE.md  
 https://github.com/judofyr/tubby/blob/master/LICENSE.md  
