@@ -66,9 +66,7 @@ https://github.com/ameliabradley/precisebar/blob/master/LICENSE.md (! nice intro
 https://github.com/ameliabradley/zipstats/blob/master/LICENSE.md (! nice intro)  
 https://github.com/Ameobea/jantix/blob/master/LICENSE.md  
 https://github.com/Ameobea/js-utils/blob/master/LICENSE  
-https://github.com/Ameobea/spotify-homepage/blob/master/LICENSE  
 https://github.com/amethyst/dwarf_seeks_fortune/blob/master/LICENSE.md  
-https://github.com/amethyst/shotcaller/blob/master/LICENSE  
 https://github.com/AnimiVulpis/moonshot-2020/blob/main/LICENSE.md  
 https://github.com/Anneeeeee6/CCIDiploma-AutumnWinter2021/blob/main/docs/slides/LICENSE.md (part-licensed repo, only docs)  
 https://github.com/anoxic/asana-lite/blob/master/LICENSE  
@@ -502,7 +500,7 @@ https://github.com/sethwheway/Steam-Comment-Bot/blob/master/LICENSE.md
 https://github.com/sloonz/drone-env-merge/blob/master/LICENSE.md  (part-licensed)  
 https://github.com/sloonz/drone-env-signed/blob/master/LICENSE.md  
 https://github.com/sloonz/drone-ssh-ca/blob/master/LICENSE.md  
-https://github.com/spicylobstergames/shotcaller-minigene/blob/master/README.md  (nice intro)
+https://github.com/spicylobstergames/shotcaller-minigene/blob/master/README.md  (nice intro; old repo `amethyst/shotcaller` migrated and archived)  
 https://github.com/spl/clear-sans-fonts (part-licensed repo per sub-dir; see at the bottom)  
 ~https://github.com/spl/feedflow~ (deleted repo)  
 https://github.com/squamishaccess/squamishaccess-functions/blob/main/LICENSE.md  
@@ -687,3 +685,4 @@ Related exceptions:
 
 %https://github.com/davidism/flask-alembic/commit/92784e5d032bdd7af46d24367eff8e33900c81ba (from BSD-3)  
 
+%https://github.com/Ameobea/spotifytrack/commit/bab716c572c5d3fc32bda7976719648d65594b1e#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7 (changed to MIT)  
