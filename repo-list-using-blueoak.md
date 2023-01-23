@@ -350,10 +350,10 @@ https://github.com/kergoth/beets-kergoth/blob/master/LICENSE.md
 https://github.com/kergoth/system-setup/blob/main/LICENSE.md (! custom intro)  
 https://github.com/kickscondor/duxtape/blob/master/LICENSE.md  
 https://github.com/kickscondor/fraidycat/blob/master/LICENSE.md  
-https://github.com/kieranpotts/rootfiles/blob/dev/LICENSE.md  
+~https://github.com/kieranpotts/rootfiles/blob/dev/LICENSE.md~ (removed repo, TODO ask author why)  
 https://github.com/kisom/proxima/blob/master/LICENSE.md  
 https://github.com/kiwicom/kiwi-platform-py/blob/master/LICENSE.md  
-https://github.com/kt3k/license_checker_github_action/blob/master/LICENSE  
+https://github.com/kt3k/license_checker_github_action/blob/master/LICENSE (archived)  
 https://github.com/kt3k/localsd/blob/master/LICENSE  
 https://github.com/Kunde21/athens-plugin/blob/master/LICENSE.md  
 https://github.com/kurtraschke/GtfsRtDump/blob/main/LICENSE.md  
