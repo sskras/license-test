@@ -378,6 +378,7 @@ https://github.com/kt3k/localsd/blob/master/LICENSE
 https://github.com/Kunde21/athens-plugin/blob/master/LICENSE.md  
 https://github.com/kurtraschke/GtfsRtDump/blob/main/LICENSE.md  
 https://github.com/kurtraschke/pvta-gtfsrealtime/blob/master/LICENSE.md  
+https://github.com/Laocoon7/atrl/blob/master/LICENSE  
 https://github.com/lc-labs/register/blob/master/LICENSE.md  
 https://github.com/Leafwing-Studios/bevy-momentum-platformer-template/blob/main/LICENSE.md  
 https://github.com/Leafwing-Studios/bevy-prototype-physics/blob/master/LICENSE.md  
@@ -385,6 +386,7 @@ https://github.com/leha-bot/std_version/blob/master/LICENSE.md (dual-licensed wi
 https://github.com/licensezero/cli/blob/main/LICENSE.md  
 https://github.com/lintpipe/standards/blob/main/LICENSE.md (! custom intro)  
 https://github.com/Lisstem/cardmarket-cli/blob/main/LICENSE.md  
+https://github.com/Lisstem/mail-tools/blob/main/LICENSE  
 https://github.com/Lisstem/rails-examples/blob/main/LICENSE.md  
 https://github.com/Lisstem/whats-in-a-box/blob/main/LICENSE.md  
 ~https://github.com/LivnyJS/Livny~ (deleted user)  
@@ -612,6 +614,7 @@ Imported repos:
 >https://github.com/imfht/flaskapp1/blob/master/flask-redis-master/LICENSE.md (`underyx/flask-redis`)  
 >https://github.com/imfht/flaskapps/blob/d6fc9b7e32d7dc6b493c269b8ccbaa6ee2d690c1/flask-redis-master/LICENSE.md (`underyx/flask-redis`)  
 >https://github.com/koralden/kdaemon-sdk/blob/main/libs/tomato/src/LICENSE.md (`ceejbot/tomato`)  
+>https://github.com/Layer3Software/ReserveProtocol/blob/main/LICENSE (`Heesho/ReserveProtocol`)  
 
 Subdir style repos:
 
