@@ -397,7 +397,7 @@ https://github.com/Minoru/plentyfs/blob/main/LICENSE.md
 https://github.com/mitchty/nix/blob/master/license.spdx  
 https://github.com/mitchtys/sles-terraform/blob/master/license.spdx  
 https://github.com/mitchtys/stc/blob/master/license.spdx  
-https://github.com/moko256/b27s/blob/master/LICENSE.md  
+~https://github.com/moko256/b27s/blob/master/LICENSE.md~ (removed repo, TODO ask author why)  
 https://github.com/mongodb-labs/drone-validation/blob/master/LICENSE.md  
 https://github.com/Mr-DecodeBlock/rsv-Reserve-Stablecoin/blob/fuzzing/LICENSE (! nice intro)  
 https://github.com/msmprojects/msmprojects.com/blob/main/LICENSE.md  
@@ -409,12 +409,12 @@ https://github.com/neonquill/cargo-saml10/blob/main/LICENSE-BLUE-OAK.md (triple 
 https://github.com/neonquill/saml10-test-rs/blob/main/LICENSE-BLUE-OAK.md (triple licensed with MIT and Apache-2.0)  
 https://github.com/neonquill/scampish/blob/master/LICENSE.md  
 https://github.com/neonquill/xmega_ws28xx/blob/master/LICENSE.md (! custom intro + possibility of other licenses)  
-https://github.com/nero-ui/nero-bin/blob/init/LICENSE.md  
-https://github.com/nero-ui/nero-css/blob/init/LICENSE.md  
-https://github.com/nero-ui/nero-fonts/blob/init/LICENSE.md  
-https://github.com/nero-ui/nero-icons/blob/init/LICENSE.md  
-https://github.com/nero-ui/nero-js/blob/init/LICENSE.md  
-https://github.com/nero-ui/nero-play/blob/init/LICENSE.md  
+~https://github.com/nero-ui/nero-bin/blob/init/LICENSE.md~ (removed repo, TODO ask author why: "Nero-ui doesn't have any public repositories yet.")  
+~https://github.com/nero-ui/nero-css/blob/init/LICENSE.md~ (removed repo, TODO ask author why)  
+~https://github.com/nero-ui/nero-fonts/blob/init/LICENSE.md~ (removed repo, TODO ask author why)  
+~https://github.com/nero-ui/nero-icons/blob/init/LICENSE.md~ (removed repo, TODO ask author why)  
+~https://github.com/nero-ui/nero-js/blob/init/LICENSE.md~ (removed repo, TODO ask author why)  
+~https://github.com/nero-ui/nero-play/blob/init/LICENSE.md~ (removed repo, TODO ask author why)  
 https://github.com/neumark/mini-iframe-rpc/blob/master/LICENSE.md  
 https://github.com/nevir/home/blob/main/LICENSE.md  
 https://github.com/nevir/norms/blob/main/LICENSE.md  
