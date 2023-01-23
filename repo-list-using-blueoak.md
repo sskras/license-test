@@ -79,7 +79,7 @@ https://github.com/anoxic/omen/blob/master/LICENSE
 https://github.com/anoxic/php-absent/blob/master/LICENSE  
 https://github.com/anoxic/postgressive/blob/mastro/LICENSE  
 https://github.com/anoxic/rc/blob/master/LICENSE  
-https://github.com/arcana-rs/synthez/blob/main/LICENSE.md (! custom intro)  
+https://github.com/arcane-rs/synthez/blob/main/LICENSE.md (renamed owner ! custom intro)  
 https://github.com/argovaerts/bonsai-php/blob/main/LICENSE.md  
 https://github.com/argovaerts/FloreneB/blob/master/LICENSE.md (part-licensed repo, only src)  
 https://github.com/ar-nelson/broadcast-interfaces/blob/master/LICENSE.md  
@@ -632,6 +632,9 @@ Related exceptions:
 
 ### Blacklisted:
 
+-https://github.com/alec-z/license/blob/e9db4d0db2e1f05712f559a245fdf83a9c5fe0d5/scancode-toolkit/src/licensedcode/data/licenses/blueoak-1.0.0.yml
+-https://github.com/alec-z/zhangfei/blob/032afbebcf9100f3dc22e09ff819fe7cb5ded011/src/licensedcode/data/licenses/blueoak-1.0.0.yml
+-https://github.com/anonymous123rainy/LiResolver/blob/main/data/licenses/BlueOak-1.0.0.txt
 -https://github.com/altlinux/specs/blob/sisyphus/l/license-list-xml/license-list-xml.spec  
 -https://github.com/BlueOakJS/openapi-reference-compiler/blob/master/LICENSE  
 -https://github.com/craftslab/ossreport/blob/master/ossreport/data/license.json  
