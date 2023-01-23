@@ -384,14 +384,14 @@ https://github.com/MarinX/droneservo/blob/main/LICENSE.md
 https://github.com/martindzejky/dotfiles/blob/master/LICENSE.md  
 https://github.com/martindzejky/modify-element/blob/master/LICENSE.md  
 https://github.com/martindzejky/promise-mock/blob/master/LICENSE.md  
-https://github.com/martindzejky/self-surgeon/blob/master/LICENSE.md  
+https://github.com/martindzejky/self-surgeon/blob/master/LICENSE.md (archived)  
 https://github.com/martindzejky/tekwoo.sk/blob/master/LICENSE.md  
 https://github.com/marvindanig/superbook-tech-interview-handbook/blob/master/license.md (part-licensed, except manuscript files)  
 https://github.com/mavteam/commonform-grpc/blob/master/LICENSE.md  
 https://github.com/mcanalesmayo/dotfiles/blob/master/LICENSE  
 https://github.com/metta-systems/metta.systems/blob/master/content/misc/license.md  
 https://github.com/metta-systems/vesper/blob/develop/LICENSE.BlueOak-1.0.0.md  
-https://github.com/michaelbiven/TableOfContents/blob/master/LICENSE.md  
+~https://github.com/michaelbiven/TableOfContents/blob/master/LICENSE.md~ (removed repo, TODO ask author why)  
 https://github.com/michael-lazar/mozz-archiver/blob/master/LICENSE (! custom intro)  
 https://github.com/michaelsmanley/twitclean/blob/master/LICENSE.md  
 https://github.com/Minoru/plentyfs/blob/main/LICENSE.md  
