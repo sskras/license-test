@@ -421,6 +421,7 @@ https://github.com/nevir/personal-capital/blob/main/LICENSE.md (! custom intro)
 https://github.com/Niceboy0829/IPFS_Deploy/blob/main/LICENSE.md (dual licensed)  
 https://github.com/NisanthanNanthakumar/big/blob/master/LICENSE.md  
 https://github.com/nothingnesses/CS50/blob/master/LICENSE (almost empty)  
+https://github.com/nrf-rs/nrfxlib-sys/blob/develop/LICENCE.md (moved from `thejpster/nrfxlib-sys` to an org)
 https://github.com/nuuday/drone-azure-key-vault/blob/master/LICENSE.md  
 https://github.com/oars-sigs/drone/blob/main/ui/LICENSE.md (fork of `drone-ui`? Very diverged)  
 https://github.com/Omrigan/logbot/blob/master/LICENSE.md  
@@ -528,7 +529,6 @@ https://github.com/teloxide/book/blob/master/LICENSE.md
 https://github.com/teryaev/drone-ecr-registry/blob/master/LICENSE.md  
 https://github.com/teryaev/drone-promote-auth/blob/master/LICENSE.md  
 https://github.com/thejpster/monotron-apps/blob/master/monotron-app/LICENCE.md  
-https://github.com/thejpster/nrfxlib-sys/blob/master/LICENCE.md  
 https://github.com/themimixcompany/msl-engine/blob/main/LICENSE.md  
 https://github.com/themimixcompany/nebula/blob/main/LICENSE.md  
 https://github.com/themimixcompany/nebula-builder/blob/main/LICENSE.md  
