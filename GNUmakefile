@@ -5,5 +5,5 @@ diff:
 	    | awk '/^.?https/ { NO_PREFIX = gensub(/^(.?)https:..github.com.|~/, "", "g", $$1); print gensub( /([^/]+\/[^/]+).*/, "\\1", 1, NO_PREFIX ) }' \
 	    | sort -u \
 	  ) \
-	  ../run-11/repos.txt
+	  ../run-11/repos.txt \
 	|| true
