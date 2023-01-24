@@ -299,6 +299,7 @@ https://github.com/instrumentisto/flutter-docker-image/blob/main/LICENSE.md
 https://github.com/instrumentisto/geckodriver-docker-image/blob/main/LICENSE.md  
 https://github.com/instrumentisto/gitlab-builder-docker-image/blob/main/LICENSE.md  
 https://github.com/instrumentisto/haraka-docker-image/blob/master/LICENSE.md  
+https://github.com/instrumentisto/medea-jason/blob/master/crates/medea-macro/LICENSE.md (multi-repo; see other subdirs below)  
 https://github.com/instrumentisto/metrics-prometheus-rs/blob/main/LICENSE.md  
 https://github.com/instrumentisto/nmap-docker-image/blob/master/LICENSE.md  
 https://github.com/instrumentisto/opendkim-docker-image/blob/master/LICENSE.md  
@@ -673,10 +674,10 @@ Subdir style repos:
 * https://github.com/instrumentisto/medea/blob/master/mock/control-api/LICENSE.md  
 
   * 4
-* https://github.com/instrumentisto/medea-jason/blob/master/flutter/LICENSE  
 * https://github.com/instrumentisto/medea-jason/blob/master/crates/medea-macro/LICENSE.md  
 * https://github.com/instrumentisto/medea-jason/blob/master/crates/medea-reactive/README.md  
 * https://github.com/instrumentisto/medea-jason/blob/master/demo/LICENSE.md  
+* https://github.com/instrumentisto/medea-jason/blob/master/flutter/LICENSE  
 * TODO: https://github.com/instrumentisto/medea-jason/search?q=blue+oak  
 
   * 5
