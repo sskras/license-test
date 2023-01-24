@@ -634,7 +634,7 @@ Mirrored repos (indirectly):
 |https://github.com/Niceboy0829/IPFS_Deploy/blob/main/LICENSE.md (copy of `ipfs-shipyard/ipfs-deploy`?)  
 |https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 |https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
-|TODO: https://github.com/krida2000/medea/search?q=blue+oak  
+|https://github.com/krida2000/medea/search?q=blue+oak TODO!  
 |https://github.com/YendorEngine/atrl/blob/ecs/LICENSE (copy of `Laocoon7/atrl`)  
 
 Imported repos:
