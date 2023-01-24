@@ -43,7 +43,7 @@ Added a list of license conversions to BOML.
 
 Added seemingly all new repos from 61 pages of [the last updated query](https://github.com/search?o=asc&p=61&q=https%3A%2F%2Fblueoakcouncil.org%2Flicense%2F1.0.0."+"30+days+after+the+notice"+filename%3ALICENSE+-homepage_url+-licenseId&s=indexed&type=Code).
 
-2023-01-23 Updated, now 586 (+ 20 added) items.
+2023-01-23 Updated, now 586 (+ 30) items.
 
 A lot repos got removed/reorganized.
 
