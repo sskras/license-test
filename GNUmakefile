@@ -15,7 +15,7 @@ diff:
 
 htmlize:
 	@awk '                                                                         \
-	    {                                                                          \
+	    !/^make\[/{                                                                \
 	        sub(".", "");                                                          \
 	        print "<a href=\"https://github.com/"$$1"\">"$$0"</a><br/>"            \
 	    }                                                                          \
@@ -33,8 +33,12 @@ added:
 
 miss-html:
 	@$(MAKE) miss                                                                  \
-	  | $(MAKE) htmlize
+	  | $(MAKE) htmlize                                                            \
+	  | grep -v ^make                                                              \
+	 || true
 
 added-html:
 	@$(MAKE) added                                                                 \
-	  | $(MAKE) htmlize
+	  | $(MAKE) htmlize                                                            \
+	  | grep -v ^make                                                              \
+	 || true
