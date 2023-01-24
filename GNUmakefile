@@ -14,4 +14,10 @@ diff:
 	|| true
 
 miss:
-	$(MAKE) diff | awk '/^-[^-][^-]/ {sub(".", ""); print "<a href=\"https://github.com/"$$1"\">"$$0"</a><br/>"}'
+	$(MAKE) diff                                                                   \
+	      | awk '                                                                  \
+	            /^-[^-][^-]/ {                                                     \
+	                sub(".", "");                                                  \
+	                print "<a href=\"https://github.com/"$$1"\">"$$0"</a><br/>"    \
+	            }                                                                  \
+	        '
