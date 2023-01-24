@@ -312,7 +312,7 @@ https://github.com/ioistired/syncpg/blob/master/LICENSE.md
 ~https://github.com/ipelekhan/boml/blob/master/LICENSE.md~  (deleted user)  
 ~https://github.com/ipelekhan/koabars/blob/master/LICENSE.md~  (deleted user)  
 ~https://github.com/ipelekhan/wowsuch.games/blob/master/LICENSE.md~  (deleted user)  
-https://github.com/ipfs-shipyard/ipfs-deploy/blob/master/LICENSE.md (tripple licensed with "BSD-2-Clause Plus Patent" and MIT; moved from `agentofuser/ipfs-deploy`)  
+https://github.com/ipfs-shipyard/ipfs-deploy/blob/master/LICENSE.md (triple licensed with "BSD-2-Clause Plus Patent" and MIT; moved from `agentofuser/ipfs-deploy`)  
 https://github.com/iqlusioninc/tenderseed/blob/master/LICENSE.md  
 https://github.com/IrtizaNasar/CCI-Diploma22-ComputationalFutures/blob/main/docs/slides/LICENSE.md (part-licensed repo, only slides)  
 https://github.com/isaacs/create-isaacs/blob/main/LICENSE.md  
