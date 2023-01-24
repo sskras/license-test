@@ -13,7 +13,7 @@ diff:
 	  ../run-11/repos.txt                                                          \
 	|| true
 
-urlize:
+htmlize:
 	awk '                                                                          \
 	    {                                                                          \
 	        sub(".", "");                                                          \
@@ -27,4 +27,4 @@ miss:
 
 miss-html:
 	$(MAKE) miss                                                                   \
-	  | $(MAKE) urlize
+	  | $(MAKE) htmlize
