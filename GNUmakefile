@@ -34,3 +34,7 @@ added:
 miss-html:
 	@$(MAKE) miss                                                                   \
 	  | $(MAKE) htmlize
+
+added-html:
+	@$(MAKE) added                                                                  \
+	  | $(MAKE) htmlize
