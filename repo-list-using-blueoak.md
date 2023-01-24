@@ -43,7 +43,7 @@ Added a list of license conversions to BOML.
 
 Added seemingly all new repos from 61 pages of [the last updated query](https://github.com/search?o=asc&p=61&q=https%3A%2F%2Fblueoakcouncil.org%2Flicense%2F1.0.0."+"30+days+after+the+notice"+filename%3ALICENSE+-homepage_url+-licenseId&s=indexed&type=Code).
 
-2023-01-23 Updated, now 587 (+ 30) items.
+2023-01-23 Updated, now 588 (+ 30) items.
 
 A lot repos got removed/reorganized.
 
@@ -173,6 +173,7 @@ https://github.com/commonform/make-master-attachments-numbering/blob/main/LICENS
 https://github.com/commonform/ooxml-signature-pages/blob/main/LICENSE.md  
 https://github.com/commonform/open.commonform.org/blob/master/LICENSE.md (page)  
 https://github.com/commonform/outline-numbering/blob/main/LICENSE.md  
+https://github.com/commonform/plan-addenda-exhibits-numbering/blob/main/LICENSE.md  
 https://github.com/commonform/signature-page-schema/blob/main/LICENSE.md  
 https://github.com/commune-org/linksapp-fresh/blob/main/LICENSE.md  
 https://github.com/compend/compiler/blob/main/LICENSE.md  
@@ -637,6 +638,7 @@ Mirrored repos (indirectly):
 |https://github.com/YendorEngine/atrl/blob/ecs/LICENSE (copy of `Laocoon7/atrl`)  
 
 Imported repos:
+
 >https://github.com/luchak/rp8/blob/main/docs/templates/LICENSE.md (part-licensed, sub-dir `docs/templates` mirrors `jez/pandoc-markdown-css-theme`)  
 >https://github.com/bitsy-ai/printnanny-rs/tree/0bc3037f5c19f9c6144b94fb7607ce379ca21920/gst-client-rs (`ALLATRA-IT/gst-client-rs`)  
 >https://github.com/digitalbitbox/bitbox02-firmware/blob/f4dd7ec08d4a991399b49b9aa0d735247cb7d4dd/src/rust/vendor/minicbor/LICENSE.md (`https://gitlab.com/twittner/minicbor`)  
@@ -647,6 +649,7 @@ Imported repos:
 >https://github.com/koralden/kdaemon-sdk/blob/main/libs/tomato/src/LICENSE.md (`ceejbot/tomato`)  
 >https://github.com/Layer3Software/ReserveProtocol/blob/main/LICENSE (`Heesho/ReserveProtocol`)  
 >https://github.com/unovor/frame/blob/146d85217ca95adb174bc2fe127ec1e340e70276/minicbor-0.5.1/LICENSE.md (`https://gitlab.com/twittner/minicbor`)  
+>https://github.com/pombredanne/license-detection-test-data/blob/654c396e4feb37463c47f659d2114c2b97b917a2/licenses/javascript/commonform/plan-addenda-exhibits-numbering/LICENSE.md (`commonform/plan-addenda-exhibits-numbering`)
 
 Subdir style repos:
 
