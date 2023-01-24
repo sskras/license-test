@@ -43,7 +43,7 @@ Added a list of license conversions to BOML.
 
 Added seemingly all new repos from 61 pages of [the last updated query](https://github.com/search?o=asc&p=61&q=https%3A%2F%2Fblueoakcouncil.org%2Flicense%2F1.0.0."+"30+days+after+the+notice"+filename%3ALICENSE+-homepage_url+-licenseId&s=indexed&type=Code).
 
-2023-01-23 Updated, now 586 (+ 30) items.
+2023-01-23 Updated, now 587 (+ 30) items.
 
 A lot repos got removed/reorganized.
 
@@ -55,6 +55,7 @@ https://github.com/7fffffff/deferred/blob/main/LICENSE.md
 https://github.com/7fffffff/emptydirs/blob/main/LICENSE.md  
 https://github.com/7fffffff/jsf/blob/main/LICENSE.md  
 https://github.com/7fffffff/xspf/blob/main/LICENSE.md  
+https://github.com/actions-marketplace-validations/kt3k_license_checker_github_action/blob/master/LICENSE (deprecated repo)  
 https://github.com/aeldidi/threadpool/blob/master/LICENSE  
 https://github.com/adam-p/dndbeyond-printenhance/blob/master/LICENSE  
 https://github.com/AdrianKoshka/ansible-lint-container/blob/master/LICENSE.md  
