@@ -299,6 +299,7 @@ https://github.com/instrumentisto/flutter-docker-image/blob/main/LICENSE.md
 https://github.com/instrumentisto/geckodriver-docker-image/blob/main/LICENSE.md  
 https://github.com/instrumentisto/gitlab-builder-docker-image/blob/main/LICENSE.md  
 https://github.com/instrumentisto/haraka-docker-image/blob/master/LICENSE.md  
+https://github.com/instrumentisto/medea/blob/master/crates/medea-coturn-telnet-client/LICENSE.md (multi-repo; see other subdirs below)  
 https://github.com/instrumentisto/medea-jason/blob/master/crates/medea-macro/LICENSE.md (multi-repo; see other subdirs below)  
 https://github.com/instrumentisto/metrics-prometheus-rs/blob/main/LICENSE.md  
 https://github.com/instrumentisto/nmap-docker-image/blob/master/LICENSE.md  
@@ -667,11 +668,11 @@ Subdir style repos:
 * https://github.com/creeder-uturn/craig.uturndata.com/blob/main/terraform/LICENSE.md
 
   * 3
+* https://github.com/instrumentisto/medea/blob/master/crates/medea-coturn-telnet-client/LICENSE.md  
 * https://github.com/instrumentisto/medea/blob/master/crates/medea-reactive/LICENSE.md  
 * https://github.com/instrumentisto/medea/blob/master/jason/flutter/LICENSE.md  
-* https://github.com/instrumentisto/medea/blob/master/proto/control-api/LICENSE.md  
-* https://github.com/instrumentisto/medea/blob/master/crates/medea-coturn-telnet-client/LICENSE.md  
 * https://github.com/instrumentisto/medea/blob/master/mock/control-api/LICENSE.md  
+* https://github.com/instrumentisto/medea/blob/master/proto/control-api/LICENSE.md  
 
   * 4
 * https://github.com/instrumentisto/medea-jason/blob/master/crates/medea-macro/LICENSE.md  
