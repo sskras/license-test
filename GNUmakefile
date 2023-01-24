@@ -1,3 +1,6 @@
+all:
+	@echo "TODO: merge Git repos with the parent dir (../fetch-Blue-Oak-model-license-from-GitHub.sh)"
+
 count:
 	@cat repo-list-using-blueoak.md                                                \
 	  | grep -E '^[~|?]?https:' -c
