@@ -13,11 +13,14 @@ diff:
 	  ../run-11/repos.txt                                                          \
 	|| true
 
+urlize:
+	awk '                                                                          \
+	    /^-[^-][^-]/ {                                                             \
+	        sub(".", "");                                                          \
+	        print "<a href=\"https://github.com/"$$1"\">"$$0"</a><br/>"            \
+	    }                                                                          \
+	'
+
 miss:
 	$(MAKE) diff                                                                   \
-	      | awk '                                                                  \
-	            /^-[^-][^-]/ {                                                     \
-	                sub(".", "");                                                  \
-	                print "<a href=\"https://github.com/"$$1"\">"$$0"</a><br/>"    \
-	            }                                                                  \
-	        '
+	  | $(MAKE) urlize
