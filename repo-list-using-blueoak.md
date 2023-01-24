@@ -599,8 +599,8 @@ https://github.com/twuebi/edit_tree/blob/master/LICENSE.md
 https://github.com/underyx/flask-redis/blob/main/LICENSE.md  
 https://github.com/ungtb10d/holdfast-ui/blob/main/LICENSE.md  
 https://github.com/unit410/gcp-ssh-ca/blob/master/LICENSE  
-https://github.com/unit410/horcrux/blob/grant/table-driven-test/LICENSE.md  
-https://github.com/unit410/polyfile/blob/drew/bump_node/LICENSE.md  
+https://github.com/unit410/horcrux/blob/main/LICENSE.md  
+https://github.com/unit410/polyfile/blob/main/LICENSE.md  
 https://github.com/unit410/tendermint-validator/blob/master/LICENSE.md  
 https://github.com/unit410/threshold-ed25519/blob/master/LICENSE.md  
 https://github.com/unparalloser/bfpile/blob/main/bfpile.nimble  
