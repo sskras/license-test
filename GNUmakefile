@@ -1,5 +1,5 @@
 diff:
-	@diff -u                                                                        \
+	@diff -u                                                                       \
 	  <(                                                                           \
 	      cat repo-list-using-blueoak.md                                           \
 	    | awk '                                                                    \
@@ -22,19 +22,19 @@ htmlize:
 	'
 
 miss:
-	@$(MAKE) diff                                                                   \
+	@$(MAKE) diff                                                                  \
 	  | grep '^-[^-][^-]'                                                          \
 	 || true
 
 added:
-	@$(MAKE) diff                                                                   \
+	@$(MAKE) diff                                                                  \
 	  | grep '^+[^+][^+]'                                                          \
 	 || true
 
 miss-html:
-	@$(MAKE) miss                                                                   \
+	@$(MAKE) miss                                                                  \
 	  | $(MAKE) htmlize
 
 added-html:
-	@$(MAKE) added                                                                  \
+	@$(MAKE) added                                                                 \
 	  | $(MAKE) htmlize
