@@ -6,3 +6,4 @@ diff:
 	    | sort -u \
 	  ) \
 	  ../run-11/repos.txt
+	|| true
