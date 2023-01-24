@@ -198,6 +198,7 @@ https://github.com/decred/dcrdex/blob/master/LICENSE.md
 https://github.com/decred/release/blob/master/LICENSE.md  
 https://github.com/degeri/DownloadHawk/blob/master/LICENSE.md  
 https://github.com/depsterr/httpserver/blob/master/LICENSE.md  
+https://github.com/developdata/unit3_slides/blob/master/circuits/LICENSE.md (multi-repo; see other subdirs below)  
 https://github.com/developdata/unit3_week_01/blob/master/LICENSE.md  
 https://github.com/dev-norms/core/blob/main/LICENSE.md  
 https://github.com/dev-norms/toolchain/blob/main/LICENSE.md  
