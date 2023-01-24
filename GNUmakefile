@@ -1,5 +1,5 @@
 diff:
-	diff -u                                                                        \
+	@diff -u                                                                        \
 	  <(                                                                           \
 	      cat repo-list-using-blueoak.md                                           \
 	    | awk '                                                                    \
@@ -14,7 +14,7 @@ diff:
 	|| true
 
 htmlize:
-	awk '                                                                          \
+	@awk '                                                                         \
 	    {                                                                          \
 	        sub(".", "");                                                          \
 	        print "<a href=\"https://github.com/"$$1"\">"$$0"</a><br/>"            \
@@ -22,15 +22,15 @@ htmlize:
 	'
 
 miss:
-	$(MAKE) diff                                                                   \
+	@$(MAKE) diff                                                                   \
 	  | grep '^-[^-][^-]'                                                          \
 	 || true
 
 added:
-	$(MAKE) diff                                                                   \
+	@$(MAKE) diff                                                                   \
 	  | grep '^+[^+][^+]'                                                          \
 	 || true
 
 miss-html:
-	$(MAKE) miss                                                                   \
+	@$(MAKE) miss                                                                   \
 	  | $(MAKE) htmlize
