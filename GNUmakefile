@@ -15,7 +15,7 @@ diff:
 
 urlize:
 	awk '                                                                          \
-	    /^-[^-][^-]/ {                                                             \
+	    {                                                                          \
 	        sub(".", "");                                                          \
 	        print "<a href=\"https://github.com/"$$1"\">"$$0"</a><br/>"            \
 	    }                                                                          \
@@ -23,4 +23,8 @@ urlize:
 
 miss:
 	$(MAKE) diff                                                                   \
+	  | grep '^-[^-][^-]'                                                          \
+
+miss-html:
+	$(MAKE) miss                                                                   \
 	  | $(MAKE) urlize
