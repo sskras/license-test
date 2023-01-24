@@ -1,3 +1,7 @@
+count:
+	@cat repo-list-using-blueoak.md                                                \
+	  | grep -E '^[~|?]?https:' -c
+
 diff:
 	@diff -u                                                                       \
 	  <(                                                                           \
