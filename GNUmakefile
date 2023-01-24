@@ -24,6 +24,12 @@ htmlize:
 miss:
 	$(MAKE) diff                                                                   \
 	  | grep '^-[^-][^-]'                                                          \
+	 || true
+
+added:
+	$(MAKE) diff                                                                   \
+	  | grep '^+[^+][^+]'                                                          \
+	 || true
 
 miss-html:
 	$(MAKE) miss                                                                   \
