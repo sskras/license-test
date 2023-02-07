@@ -575,7 +575,7 @@ https://github.com/tatecarson/wac-2021-immaterial-cloud/blob/main/LICENSE.md
 https://github.com/tbrent/cancer-nft/blob/main/LICENSE  
 https://github.com/tbrent/defi-hackathon-2019/blob/master/LICENSE  
 https://github.com/teamopen-dev/sourcecred-stack-lookup/blob/master/LICENSE.md  
-https://github.com/tek/cornea/blob/master/LICENSE  
+~https://github.com/tek/cornea/blob/master/LICENSE~ (`LICENSE` deleted, asked owner why: https://github.com/tek/cornea/issues/1)  
 ~https://github.com/tek/ribosome-hs/blob/master/LICENSE~ (license deleted, TODO ask owner why)  
 https://github.com/tek/static-icu/blob/master/LICENSE  
 https://github.com/tek/static-mpv/blob/master/LICENSE  
@@ -642,7 +642,7 @@ Mirrored repos (indirectly):
 |https://github.com/ovrclk/tenderseed/blob/master/LICENSE.md (fork)  
 |https://github.com/pandocOne/drone-ui1/blob/master/LICENSE.md (fork of `drone-ui`?)  
 |https://github.com/krida2000/medea/search?q=blue+oak TODO!  
-|https://github.com/YendorEngine/atrl/blob/ecs/LICENSE (copy of `Laocoon7/atrl`)  
+|~https://github.com/YendorEngine/atrl/blob/ecs/LICENSE~ (copy of `Laocoon7/atrl`, deleted as of 2023-02-07)  
 
 Imported repos:
 
