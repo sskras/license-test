@@ -51,6 +51,8 @@ A lot repos got removed/reorganized.
 
 Fixed homogenity of the structure of the URL list.
 
+2023-02-07 Updated, now 616 (+ 24) items.
+
 ---
 
 ### The main list
@@ -99,6 +101,8 @@ https://github.com/ar-nelson/osmosis-js/blob/master/LICENSE
 https://github.com/ar-nelson/schemepunk/blob/master/LICENSE.md (with MIT/BSD-licensed contributions)  
 https://github.com/ar-nelson/spartan-schema/blob/master/LICENSE.md (! nice intro)  
 https://github.com/ArturAmpilogov/node-dbmate/blob/main/LICENSE.md (! custom intro)  
+https://github.com/arzg/dotfiles/blob/master/LICENSE.md  
+https://github.com/arzg/minic/blob/main/LICENSE.md  
 https://github.com/autoinvent/autoinvent-schema/blob/main/LICENSE.rst  
 https://github.com/Basil-Mori/obsidian-edit-gemini/blob/master/LICENSE.md  
 https://github.com/Beanow/keyv-fs-sync/blob/master/LICENSE.md  
@@ -116,6 +120,7 @@ https://github.com/bitboxer/leandoo_menu_mailer/blob/master/LICENSE.md
 https://github.com/bleeptrack/fr0zen-system-laser/blob/main/LICENSE.md  
 https://github.com/blinry/compass-in-the-sky/blob/main/LICENSE.md  
 https://github.com/blinry/etherwiki/blob/main/LICENSE.md  
+https://github.com/blinry/json-explorer/blob/main/LICENSE.md  
 https://github.com/blinry/pomodoro-jukebox/blob/main/LICENSE.md (nice intro)  
 https://github.com/blinry/everything-exhibition/blob/main/LICENSE.md (! nice intro)  
 https://github.com/blinry/sliderland/blob/main/LICENSE.md (nice intro)  
@@ -124,6 +129,7 @@ https://github.com/bookiza/h2s/blob/master/LICENSE.md
 ~https://github.com/bookiza/m2s/blob/master/LICENSE.md~ (removed repo, redirects to `h2s`)  
 https://github.com/bookiza/purell/blob/master/LICENSE.md  
 https://github.com/bparsons/fastmail-css/blob/master/LICENSE.md  
+https://github.com/caleblent/2023-01-reserve/blob/master/LICENSE  
 https://github.com/callumobrien-bluefruit/zorl/blob/master/LICENSE.md  
 https://github.com/Cashmaney/tendermint-validator/blob/master/LICENSE.md  
 https://github.com/ceejbot/cat-names/blob/latest/LICENSE  
@@ -329,6 +335,8 @@ https://github.com/iqlusioninc/tenderseed/blob/master/LICENSE.md
 https://github.com/IrtizaNasar/CCI-Diploma22-ComputationalFutures/blob/main/docs/slides/LICENSE.md (part-licensed repo, only slides)  
 https://github.com/isaacs/create-isaacs/blob/main/LICENSE.md  
 https://github.com/isaacs/good-dag/blob/main/LICENSE.md  
+https://github.com/isaacs/path-scurry/blob/main/LICENSE.md  
+https://github.com/isaacs/pointer-set/blob/main/LICENSE.md  
 ~https://github.com/isiahmeadows/mithril-helpers/blob/master/LICENSE.txt~ (merged repo)  
 https://github.com/izik1/rasen/blob/main/LICENSE.md  
 https://github.com/Jaxboards/jaxboards-install/blob/main/LICENSE  
@@ -345,6 +353,7 @@ https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/slides/LICENSE
 https://github.com/JGL/CCIDiploma-SpringSummer2022/blob/main/docs/slides/LICENSE.md (part-licensed, only `docs` sub-dir)  
 https://github.com/JGL/IntroductionToCreativeComputing2022/blob/main/docs/LICENSE.md (part-licensed repo, only docs)  
 https://github.com/JGL/DiplomaInAppleDevelopment-AutumnWinter2022/blob/main/docs/big/LICENSE.md (part-licensed repo, only `docs/big`)  
+https://github.com/JGL/DiplomaInAppleDevelopment-SpringSummer2023/blob/main/docs/big/LICENSE.md (part-licensed repo, only `docs/big`)  
 https://github.com/jimkang/email-talk/blob/master/LICENSE.md  
 https://github.com/jimsheldon/drone-convert-changeset/blob/master/LICENSE.md  
 https://github.com/joehand/dat-folders/blob/master/LICENSE  
@@ -408,6 +417,7 @@ https://github.com/Lisstem/rails-examples/blob/main/LICENSE.md
 https://github.com/Lisstem/whats-in-a-box/blob/main/LICENSE.md  
 ~https://github.com/LivnyJS/Livny~ (deleted user)  
 https://github.com/lucaswerkmeister/advent-of-code-2020/blob/main/LICENSE.md  
+https://github.com/lucaswerkmeister/clean-recently-used/blob/main/LICENSE.md  
 https://github.com/lucaswerkmeister/preload-questionablecontent/blob/main/LICENSE.md  
 https://github.com/lucaswerkmeister/pygments-server/blob/main/LICENSE.md  
 https://github.com/LutrisEng/datom-rs (multiple modules being dual licensed with "BSD-2-Clause-Patent")  
@@ -437,6 +447,8 @@ https://github.com/Minoru/plentyfs/blob/main/LICENSE.md
 https://github.com/mitchty/nix/blob/master/license.spdx  
 https://github.com/mitchtys/sles-terraform/blob/master/license.spdx  
 https://github.com/mitchtys/stc/blob/master/license.spdx  
+https://github.com/MoebiusSolutions/inter-widget-communication/blob/main/LICENSE.md  
+https://github.com/MoebiusSolutions/widget-launch/blob/main/LICENSE.md  
 ~https://github.com/moko256/b27s/blob/master/LICENSE.md~ (removed repo, TODO ask author why)  
 https://github.com/mongodb-labs/drone-validation/blob/master/LICENSE.md  
 https://github.com/Mr-DecodeBlock/rsv-Reserve-Stablecoin/blob/fuzzing/LICENSE (! nice intro)  
@@ -509,6 +521,7 @@ https://github.com/riiswa/rapport-innovation-technologique/blob/main/LICENSE.md 
 https://github.com/riiswa/scala2haskell/blob/main/LICENSE.md  
 https://github.com/rohit-gohri/drone-junit/blob/main/LICENSE.md  
 https://github.com/RossSmyth/auto_comm/blob/master/LICENSE.md  
+https://github.com/RossSmyth/ferass/blob/main/LICENSE.md  
 https://github.com/RossSmyth/mesowest.rs/blob/main/LICENSE.md  
 https://github.com/RossSmyth/RossSmyth.github.io/blob/main/LICENSE.md (page)  
 https://github.com/RossSmyth/resume/blob/main/LICENSE.md  
@@ -558,6 +571,17 @@ https://github.com/stickeritis/sticker2/blob/master/LICENSE.md
 https://github.com/stickeritis/sticker2-python/blob/master/Cargo.toml  
 https://github.com/stickeritis/sticker-python/blob/master/Cargo.toml  
 https://github.com/stickeritis/sticker-transformers/blob/master/LICENSE.md  
+https://github.com/sts10/contract_score_card/blob/master/LICENSE  
+https://github.com/sts10/cyber-tack/blob/main/LICENSE  
+https://github.com/sts10/homophones/blob/main/LICENSE  
+https://github.com/sts10/lemire_nearly_divisionless_random/blob/main/LICENSE  
+https://github.com/sts10/passphrase-guesser/blob/main/LICENSE  
+https://github.com/sts10/rusty-tac/blob/main/LICENSE  
+https://github.com/sts10/samschlinkert_com/blob/master/LICENSE  
+https://github.com/sts10/strike-9/blob/master/LICENSE  
+https://github.com/sts10/switch/blob/main/LICENSE  
+https://github.com/sts10/tic-tac-go/blob/main/LICENSE  
+https://github.com/sts10/zig-zac-zoe/blob/main/LICENSE  
 https://github.com/stoicism-compendium/remark-preset-stoicism/blob/main/license.md (! custom intro)  
 https://github.com/stoicism-compendium/retext-preset-stoicism/blob/main/license.md (! custom intro)  
 https://github.com/stoicism-compendium/retext-spell-file/blob/main/license.md  
@@ -603,6 +627,8 @@ https://github.com/tphoney/drone-hue/blob/master/LICENSE.md
 https://github.com/ttldtor/x1/blob/default/LICENSE.md (dual-licensed with "Boost-Software-License-1.0"; short intro)  
 https://github.com/twe4ked/diff-color/blob/master/LICENSE.md  
 https://github.com/twuebi/edit_tree/blob/master/LICENSE.md  
+https://github.com/uncai/uncai.github.io/blob/main/LICENSE.md  
+https://github.com/uncmachinelearning/uncmachinelearning.github.io/blob/main/LICENSE.md  
 https://github.com/underyx/flask-redis/blob/main/LICENSE.md  
 https://github.com/ungtb10d/holdfast-ui/blob/main/LICENSE.md  
 https://github.com/unit410/gcp-ssh-ca/blob/master/LICENSE  
@@ -635,6 +661,7 @@ https://github.com/YoitoFes/drone-runner-buildah/blob/main/LICENSE.md (! nice in
 https://github.com/YoitoFes/drone-runner-podman/blob/main/LICENSE.md  
 https://github.com/zthurman/Arduino_Projects/blob/master/LICENSE.md  
 https://github.com/zthurman/Research/blob/master/LICENSE.md  
+https://github.com/ZwerOxotnik/zk-lib/blob/main/LICENCE  
 
 Mirrored repos (indirectly):  
 |https://github.com/must479/IPFSDEPLOY/blob/master/LICENSE.md (copy of `ipfs-shipyard/ipfs-deploy`?)  
