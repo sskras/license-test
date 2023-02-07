@@ -17,7 +17,7 @@ diff:
 	      '                                                                        \
 	    | sort -u                                                                  \
 	  )                                                                            \
-	  ../run-11/repos.txt                                                          \
+	  ./repos.txt                                                                  \
 	|| true
 
 htmlize:
