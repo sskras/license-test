@@ -3,6 +3,7 @@ all:
 
 run:
 	@sh github-api-query.sh | pv > github-api-query-response.json
+	@git diff
 
 count:
 	@cat repo-list-using-blueoak.md                                                \
