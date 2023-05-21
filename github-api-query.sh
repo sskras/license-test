@@ -21,5 +21,6 @@ query () {
 echo "Creating pipe: ${PIPE}"
 mkfifo ${PIPE}
 ls -Alh --color ${PIPE}
+
 query "${GH_QUERY}&per_page=1" | jq .total_count
 query "${GH_QUERY}&per_page=100"
