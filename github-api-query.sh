@@ -58,6 +58,8 @@ echo "Count of actual results: "${FINAL_COUNT}
 echo
 
 echo "Removing temporary storage:"
+echo
 rm -v ${BUFF}
 rm -v ${CONC}
+echo
 } >/dev/stderr
