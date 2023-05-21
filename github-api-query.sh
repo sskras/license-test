@@ -24,10 +24,6 @@ echo "Created buffer:"
 touch ${BUFF}
 ls -Alh --color ${BUFF}
 
-#query "${GH_QUERY}&per_page=1" | jq .total_count > ${BUFF}
-#read RESULT_COUNT < ${BUFF}
-#echo ${RESULT_COUNT}
-
 while
     PAGE=$((PAGE+1))
     echo "Processing page ${PAGE}"
@@ -35,6 +31,8 @@ while
     query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=${PAGE}" > ${BUFF}
     cat ${BUFF}
     ITEM_COUNT=`{ jq '.items | length' | sed s/\\r//; } < ${BUFF}`
+    RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${BUFF}`
+    echo "Results count so far: ${RESULT_COUNT}"
     sleep 2
 
     [ ${ITEM_COUNT} = ${GH_PER_PAGE} ]
