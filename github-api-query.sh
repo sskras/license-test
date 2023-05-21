@@ -4,7 +4,7 @@
 # https://docs.github.com/en/rest/search?apiVersion=2022-11-28#constructing-a-search-query
 
 PATH=$PATH:/mingw64/bin
-BUFF="`mktemp`.fifo"
+BUFF="`mktemp`.buffer"
 
 GH_QUERY='"https%3A%2F%2Fblueoakcouncil.org%2Flicense%2F1.0.0."'
 GH_PER_PAGE=100
