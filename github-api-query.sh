@@ -8,8 +8,8 @@ GH_PER_PAGE=100
 #TEXT_MATCH=".text-match"
 : ${GH_TOKEN:=`read -p "Enter the token (or just export via GH_TOKEN): "; echo $REPLY`}
 
-PATH=$PATH:/mingw64/bin
 BUFF="`mktemp`.buffer"
+PATH=$PATH:/mingw64/bin
 
 
 query () {
