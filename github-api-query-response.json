@@ -1,6 +1,4 @@
 {
-  "total_count": 299,
-  "incomplete_results": false,
   "items": [
     {
       "name": "log.go",
@@ -76,7 +74,7 @@
         "releases_url": "https://api.github.com/repos/decred/decrediton/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/decrediton/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "LICENSE.rst",
@@ -152,7 +150,7 @@
         "releases_url": "https://api.github.com/repos/davidism/flask-alembic/releases{/id}",
         "deployments_url": "https://api.github.com/repos/davidism/flask-alembic/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "paper.css",
@@ -228,7 +226,7 @@
         "releases_url": "https://api.github.com/repos/notinaboat/UnixIO.jl/releases{/id}",
         "deployments_url": "https://api.github.com/repos/notinaboat/UnixIO.jl/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "encrypt.go",
@@ -304,7 +302,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "util.py",
@@ -380,7 +378,7 @@
         "releases_url": "https://api.github.com/repos/urschrei/hexcover/releases{/id}",
         "deployments_url": "https://api.github.com/repos/urschrei/hexcover/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -456,7 +454,7 @@
         "releases_url": "https://api.github.com/repos/jrick/snapdl/releases{/id}",
         "deployments_url": "https://api.github.com/repos/jrick/snapdl/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wassemble.mjs",
@@ -532,7 +530,7 @@
         "releases_url": "https://api.github.com/repos/wingo/wassemble/releases{/id}",
         "deployments_url": "https://api.github.com/repos/wingo/wassemble/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "theme.css",
@@ -608,7 +606,7 @@
         "releases_url": "https://api.github.com/repos/notinaboat/ReadmeDocs.jl/releases{/id}",
         "deployments_url": "https://api.github.com/repos/notinaboat/ReadmeDocs.jl/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -684,7 +682,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "README.md",
@@ -760,7 +758,7 @@
         "releases_url": "https://api.github.com/repos/tyranron/mr-prober/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tyranron/mr-prober/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "2019-04-06-Stairway-to-Heaven.md",
@@ -836,7 +834,7 @@
         "releases_url": "https://api.github.com/repos/kemitchell/writing.kemitchell.com/releases{/id}",
         "deployments_url": "https://api.github.com/repos/kemitchell/writing.kemitchell.com/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -912,7 +910,7 @@
         "releases_url": "https://api.github.com/repos/jrick/dcrwallet-dbset/releases{/id}",
         "deployments_url": "https://api.github.com/repos/jrick/dcrwallet-dbset/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "btc.go",
@@ -988,7 +986,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "adapter.go",
@@ -1064,7 +1062,7 @@
         "releases_url": "https://api.github.com/repos/EXCCoin/exilibrium/releases{/id}",
         "deployments_url": "https://api.github.com/repos/EXCCoin/exilibrium/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "skylighting-paper-theme.css",
@@ -1140,7 +1138,7 @@
         "releases_url": "https://api.github.com/repos/notinaboat/UnixIO.jl/releases{/id}",
         "deployments_url": "https://api.github.com/repos/notinaboat/UnixIO.jl/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "encrypt.go",
@@ -1216,7 +1214,7 @@
         "releases_url": "https://api.github.com/repos/buck54321/eco/releases{/id}",
         "deployments_url": "https://api.github.com/repos/buck54321/eco/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "2020-12-27-War-on-License-Notices.md",
@@ -1292,7 +1290,7 @@
         "releases_url": "https://api.github.com/repos/kemitchell/writing.kemitchell.com/releases{/id}",
         "deployments_url": "https://api.github.com/repos/kemitchell/writing.kemitchell.com/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "cancel.go",
@@ -1368,7 +1366,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "paper.css",
@@ -1444,7 +1442,7 @@
         "releases_url": "https://api.github.com/repos/notinaboat/ReadmeDocs.jl/releases{/id}",
         "deployments_url": "https://api.github.com/repos/notinaboat/ReadmeDocs.jl/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "ss.go",
@@ -1520,7 +1518,7 @@
         "releases_url": "https://api.github.com/repos/jrick/ss/releases{/id}",
         "deployments_url": "https://api.github.com/repos/jrick/ss/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "encode.go",
@@ -1596,7 +1594,7 @@
         "releases_url": "https://api.github.com/repos/buck54321/eco/releases{/id}",
         "deployments_url": "https://api.github.com/repos/buck54321/eco/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "certs.go",
@@ -1672,7 +1670,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "types.go",
@@ -1748,7 +1746,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "params.go",
@@ -1824,7 +1822,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "server.go",
@@ -1900,7 +1898,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "loadbot.go",
@@ -1976,7 +1974,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "rpcserver_test.go",
@@ -2052,7 +2050,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "1.0.0.md",
@@ -2128,7 +2126,7 @@
         "releases_url": "https://api.github.com/repos/commonform/commonform.org/releases{/id}",
         "deployments_url": "https://api.github.com/repos/commonform/commonform.org/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -2204,7 +2202,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -2280,7 +2278,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "adapter.go",
@@ -2356,7 +2354,7 @@
         "releases_url": "https://api.github.com/repos/decred/decrediton/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/decrediton/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "cache.go",
@@ -2432,7 +2430,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "path.go",
@@ -2508,7 +2506,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "encode.go",
@@ -2584,7 +2582,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "network.go",
@@ -2660,7 +2658,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "settings.go",
@@ -2736,7 +2734,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "book_test.go",
@@ -2812,7 +2810,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "template.go",
@@ -2888,7 +2886,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -2964,7 +2962,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "serialize.go",
@@ -3040,7 +3038,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "shielded_rpc.go",
@@ -3116,7 +3114,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "ip.go",
@@ -3192,7 +3190,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "price_oracle.go",
@@ -3268,7 +3266,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "bookie.go",
@@ -3344,7 +3342,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "swap.go",
@@ -3420,7 +3418,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "erc20.go",
@@ -3496,7 +3494,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "registrar.go",
@@ -3572,7 +3570,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "epochs.go",
@@ -3648,7 +3646,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "market.go",
@@ -3724,7 +3722,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "contractor.go",
@@ -3800,7 +3798,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "rpcclient.go",
@@ -3876,7 +3874,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "txdata.go",
@@ -3952,7 +3950,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "handlers_test.go",
@@ -4028,7 +4026,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config.go",
@@ -4104,7 +4102,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wallet_methods.go",
@@ -4180,7 +4178,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -4256,7 +4254,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wallet.go",
@@ -4332,7 +4330,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "pg.go",
@@ -4408,7 +4406,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wslink.go",
@@ -4484,7 +4482,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "stream.go",
@@ -4560,7 +4558,7 @@
         "releases_url": "https://api.github.com/repos/jrick/ss/releases{/id}",
         "deployments_url": "https://api.github.com/repos/jrick/ss/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "meterer.go",
@@ -4636,7 +4634,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "helpers.go",
@@ -4712,7 +4710,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "api.go",
@@ -4788,7 +4786,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "tx.go",
@@ -4864,7 +4862,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "balancer.go",
@@ -4940,7 +4938,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "icons.go",
@@ -5016,7 +5014,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "theme.css",
@@ -5092,7 +5090,7 @@
         "releases_url": "https://api.github.com/repos/notinaboat/UnixIO.jl/releases{/id}",
         "deployments_url": "https://api.github.com/repos/notinaboat/UnixIO.jl/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "balancer_test.go",
@@ -5168,7 +5166,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "epoch.go",
@@ -5244,7 +5242,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "auth.go",
@@ -5320,7 +5318,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "electrum.go",
@@ -5396,7 +5394,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "interface.go",
@@ -5472,7 +5470,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "v5.db.gen.go",
@@ -5548,7 +5546,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "upgrades_test.go",
@@ -5624,7 +5622,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "version.go",
@@ -5700,7 +5698,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "importlgpl.go",
@@ -5776,7 +5774,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config_test.go",
@@ -5852,7 +5850,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "markets.go",
@@ -5928,7 +5926,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "ltc.go",
@@ -6004,7 +6002,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "fundingcoin_test.go",
@@ -6080,7 +6078,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "descriptors_test.go",
@@ -6156,7 +6154,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -6232,7 +6230,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "doge.go",
@@ -6308,7 +6306,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -6384,7 +6382,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "block.go",
@@ -6460,7 +6458,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "script.go",
@@ -6536,7 +6534,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wallet_types.go",
@@ -6612,7 +6610,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "middleware.go",
@@ -6688,7 +6686,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "upgrades.go",
@@ -6764,7 +6762,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "cache.go",
@@ -6840,7 +6838,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "jsonrpc.go",
@@ -6916,7 +6914,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config.go",
@@ -6992,7 +6990,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -7068,7 +7066,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "sniper.go",
@@ -7144,7 +7142,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "bip-id.go",
@@ -7220,7 +7218,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "driver.go",
@@ -7296,7 +7294,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -7372,7 +7370,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "queue.go",
@@ -7448,7 +7446,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "orders_test.go",
@@ -7524,7 +7522,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "marshal.go",
@@ -7600,14 +7598,8 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
-    }
-  ]
-}
-{
-  "total_count": 299,
-  "incomplete_results": false,
-  "items": [
+      "score": 1
+    },
     {
       "name": "log.go",
       "path": "modules/dex/libdexc/log.go",
@@ -7682,7 +7674,7 @@
         "releases_url": "https://api.github.com/repos/EXCCoin/exilibrium/releases{/id}",
         "deployments_url": "https://api.github.com/repos/EXCCoin/exilibrium/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "skylighting-paper-theme.css",
@@ -7758,7 +7750,7 @@
         "releases_url": "https://api.github.com/repos/notinaboat/ReadmeDocs.jl/releases{/id}",
         "deployments_url": "https://api.github.com/repos/notinaboat/ReadmeDocs.jl/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -7834,7 +7826,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "keyfile.go",
@@ -7910,7 +7902,7 @@
         "releases_url": "https://api.github.com/repos/jrick/ss/releases{/id}",
         "deployments_url": "https://api.github.com/repos/jrick/ss/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "doc.go",
@@ -7986,7 +7978,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "params.go",
@@ -8062,7 +8054,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main_notray.go",
@@ -8138,7 +8130,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "account.go",
@@ -8214,7 +8206,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "script.go",
@@ -8290,7 +8282,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "types.go",
@@ -8366,7 +8358,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main_tray.go",
@@ -8442,7 +8434,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "signal.go",
@@ -8518,7 +8510,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "multirpc.go",
@@ -8594,7 +8586,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "coiner.go",
@@ -8670,7 +8662,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config.go",
@@ -8746,7 +8738,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "common.go",
@@ -8822,7 +8814,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "icons_windows.go",
@@ -8898,7 +8890,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "coinlocker.go",
@@ -8974,7 +8966,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "spv.go",
@@ -9050,7 +9042,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "params.go",
@@ -9126,7 +9118,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "types.go",
@@ -9202,7 +9194,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "core.go",
@@ -9278,7 +9270,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "epump.go",
@@ -9354,7 +9346,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wallet.go",
@@ -9430,7 +9422,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "common.go",
@@ -9506,7 +9498,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -9582,7 +9574,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "match.go",
@@ -9658,7 +9650,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "dcr.go",
@@ -9734,7 +9726,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "driver.go",
@@ -9810,7 +9802,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "upgrades.go",
@@ -9886,7 +9878,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "asset.go",
@@ -9962,7 +9954,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "bch.go",
@@ -10038,7 +10030,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "errors.go",
@@ -10114,7 +10106,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "status.go",
@@ -10190,7 +10182,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "node.go",
@@ -10266,7 +10258,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "doc.go",
@@ -10342,7 +10334,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "coin_selection.go",
@@ -10418,7 +10410,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "rpcwallet.go",
@@ -10494,7 +10486,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "errors.go",
@@ -10570,7 +10562,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wallet.go",
@@ -10646,7 +10638,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "tables.go",
@@ -10722,7 +10714,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -10798,7 +10790,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "driver.go",
@@ -10874,7 +10866,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "cashaddr_test.go",
@@ -10950,7 +10942,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "interface_test.go",
@@ -11026,7 +11018,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "electrum_client_test.go",
@@ -11102,7 +11094,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "key_test.go",
@@ -11178,7 +11170,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "market_test.go",
@@ -11254,7 +11246,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "doc.go",
@@ -11330,7 +11322,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "doc.go",
@@ -11406,7 +11398,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "semver.go",
@@ -11482,7 +11474,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "Why-Wasnt-Everyone-Consulted.md",
@@ -11558,7 +11550,7 @@
         "releases_url": "https://api.github.com/repos/kemitchell/writing.kemitchell.com/releases{/id}",
         "deployments_url": "https://api.github.com/repos/kemitchell/writing.kemitchell.com/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "passbytes.go",
@@ -11634,7 +11626,7 @@
         "releases_url": "https://api.github.com/repos/buck54321/eco/releases{/id}",
         "deployments_url": "https://api.github.com/repos/buck54321/eco/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "version.go",
@@ -11710,7 +11702,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "options.go",
@@ -11786,7 +11778,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config.go",
@@ -11862,7 +11854,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "coin_selection.go",
@@ -11938,7 +11930,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "addresser.go",
@@ -12014,7 +12006,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "match.go",
@@ -12090,7 +12082,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "ltc.go",
@@ -12166,7 +12158,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "types.go",
@@ -12242,7 +12234,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "orderrouter.go",
@@ -12318,7 +12310,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "handlers.go",
@@ -12394,7 +12386,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "miners.go",
@@ -12470,7 +12462,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "link.go",
@@ -12546,7 +12538,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config.go",
@@ -12622,7 +12614,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "compound.go",
@@ -12698,7 +12690,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "status.go",
@@ -12774,7 +12766,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "zec.go",
@@ -12850,7 +12842,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "syncserver.go",
@@ -12926,7 +12918,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "mm.go",
@@ -13002,7 +12994,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "nodeclient.go",
@@ -13078,7 +13070,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -13154,7 +13146,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "firo.go",
@@ -13230,7 +13222,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "websocket.go",
@@ -13306,7 +13298,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "mantle.go",
@@ -13382,7 +13374,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "rpcclient.go",
@@ -13458,7 +13450,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "txdata.go",
@@ -13534,7 +13526,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "api.go",
@@ -13610,7 +13602,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "passbytes.go",
@@ -13686,7 +13678,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "accounts.go",
@@ -13762,7 +13754,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "externaltx.go",
@@ -13838,7 +13830,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "spv_wrapper.go",
@@ -13914,7 +13906,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "orderpq.go",
@@ -13990,7 +13982,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "dgb.go",
@@ -14066,7 +14058,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "book.go",
@@ -14142,7 +14134,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "server.go",
@@ -14218,7 +14210,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "interface.go",
@@ -14294,7 +14286,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "utxo.go",
@@ -14370,7 +14362,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "errors.go",
@@ -14446,7 +14438,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "descriptors.go",
@@ -14522,7 +14514,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -14598,7 +14590,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "orders.go",
@@ -14674,7 +14666,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "runner.go",
@@ -14750,7 +14742,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "httpclient.go",
@@ -14826,7 +14818,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "epochqueue.go",
@@ -14902,7 +14894,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "version.go",
@@ -14978,7 +14970,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "mt19937.go",
@@ -15054,7 +15046,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "logging.go",
@@ -15130,7 +15122,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "estimation.go",
@@ -15206,14 +15198,8 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
-    }
-  ]
-}
-{
-  "total_count": 299,
-  "incomplete_results": false,
-  "items": [
+      "score": 1
+    },
     {
       "name": "eth.go",
       "path": "client/asset/eth/eth.go",
@@ -15288,7 +15274,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "dcr.go",
@@ -15364,7 +15350,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "market.go",
@@ -15440,7 +15426,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "webserver.go",
@@ -15516,7 +15502,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "addresser.go",
@@ -15592,7 +15578,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "firo.go",
@@ -15668,7 +15654,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "kvdb.go",
@@ -15744,7 +15730,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "db.go",
@@ -15820,7 +15806,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "convert.go",
@@ -15896,7 +15882,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -15972,7 +15958,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -16048,7 +16034,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "spv.go",
@@ -16124,7 +16110,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "zec.go",
@@ -16200,7 +16186,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "mt19937_test.go",
@@ -16276,7 +16262,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "compat.go",
@@ -16352,7 +16338,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "network_example_test.go",
@@ -16428,7 +16414,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "auth_test.go",
@@ -16504,7 +16490,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "spv_test.go",
@@ -16580,7 +16566,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "marshal_test.go",
@@ -16656,7 +16642,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "upgrades_test.go",
@@ -16732,7 +16718,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "addresser_test.go",
@@ -16808,7 +16794,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "market_test.go",
@@ -16884,7 +16870,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "fees.go",
@@ -16960,7 +16946,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -17036,7 +17022,7 @@
         "releases_url": "https://api.github.com/repos/buck54321/eco/releases{/id}",
         "deployments_url": "https://api.github.com/repos/buck54321/eco/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config.go",
@@ -17112,7 +17098,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "clone.go",
@@ -17188,7 +17174,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "tx.go",
@@ -17264,7 +17250,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "errors.go",
@@ -17340,7 +17326,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wallettypes.go",
@@ -17416,7 +17402,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "http.go",
@@ -17492,7 +17478,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "prompt.go",
@@ -17568,7 +17554,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "dex.go",
@@ -17644,7 +17630,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "types.go",
@@ -17720,7 +17706,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "latest.go",
@@ -17796,7 +17782,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -17872,7 +17858,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "importlgpl.go",
@@ -17948,7 +17934,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "gen.go",
@@ -18024,7 +18010,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "trade.go",
@@ -18100,7 +18086,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -18176,7 +18162,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "rateindex.go",
@@ -18252,7 +18238,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "orders.go",
@@ -18328,7 +18314,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -18404,7 +18390,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "testing.go",
@@ -18480,7 +18466,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "key.go",
@@ -18556,7 +18542,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "order.go",
@@ -18632,7 +18618,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "meta.go",
@@ -18708,7 +18694,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "interface.go",
@@ -18784,7 +18770,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "electrum_client.go",
@@ -18860,7 +18846,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "tokener.go",
@@ -18936,7 +18922,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "fundingcoin.go",
@@ -19012,7 +18998,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config.go",
@@ -19088,7 +19074,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -19164,7 +19150,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "doge.go",
@@ -19240,7 +19226,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "exchangeratefetcher.go",
@@ -19316,7 +19302,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "tokens.go",
@@ -19392,7 +19378,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "eth.go",
@@ -19468,7 +19454,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "orderbook.go",
@@ -19544,7 +19530,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "rpcserver.go",
@@ -19620,7 +19606,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "sidestacker.go",
@@ -19696,7 +19682,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "rpcclient.go",
@@ -19772,7 +19758,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "pingpong.go",
@@ -19848,7 +19834,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "candles.go",
@@ -19924,7 +19910,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "apidata.go",
@@ -20000,7 +19986,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "btc.go",
@@ -20076,7 +20062,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "spv_peer_manager.go",
@@ -20152,7 +20138,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "log.go",
@@ -20228,7 +20214,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "notification.go",
@@ -20304,7 +20290,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "script.go",
@@ -20380,7 +20366,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config.go",
@@ -20456,7 +20442,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "bch.go",
@@ -20532,7 +20518,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "mm_basic.go",
@@ -20608,7 +20594,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "utxo.go",
@@ -20684,7 +20670,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "interface.go",
@@ -20760,7 +20746,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "spv.go",
@@ -20836,7 +20822,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "bookrouter.go",
@@ -20912,7 +20898,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "types.go",
@@ -20988,7 +20974,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "accounts.go",
@@ -21064,7 +21050,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "script.go",
@@ -21140,7 +21126,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "dgb.go",
@@ -21216,7 +21202,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "config.go",
@@ -21292,7 +21278,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wsconn.go",
@@ -21368,7 +21354,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "system.go",
@@ -21444,7 +21430,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "matches.go",
@@ -21520,7 +21506,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "bookside.go",
@@ -21596,7 +21582,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "middleware.go",
@@ -21672,7 +21658,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "main.go",
@@ -21748,7 +21734,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "encrypt_test.go",
@@ -21824,7 +21810,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "electrum_test.go",
@@ -21900,7 +21886,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "block_test.go",
@@ -21976,7 +21962,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "ip_test.go",
@@ -22052,7 +22038,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "dbtest.go",
@@ -22128,7 +22114,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "swap_test.go",
@@ -22204,7 +22190,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "candles_test.go",
@@ -22280,7 +22266,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "wslink_test.go",
@@ -22356,7 +22342,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "apidata_test.go",
@@ -22432,7 +22418,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "bip-id_test.go",
@@ -22508,7 +22494,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "params_test.go",
@@ -22584,7 +22570,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "types_test.go",
@@ -22660,7 +22646,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     },
     {
       "name": "server_test.go",
@@ -22736,7 +22722,7 @@
         "releases_url": "https://api.github.com/repos/decred/dcrdex/releases{/id}",
         "deployments_url": "https://api.github.com/repos/decred/dcrdex/deployments"
       },
-      "score": 1.0
+      "score": 1
     }
   ]
 }
