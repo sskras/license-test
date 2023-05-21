@@ -43,5 +43,5 @@ while
     [ ${ITEM_COUNT} != 0 ]
 do :; done
 
-#echo "Removing buffer:"
-#rm -v ${BUFF}
+echo "Removing buffer:"
+rm -v ${BUFF}
