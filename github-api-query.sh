@@ -33,6 +33,7 @@ while
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1" > ${BUFF}
 cat ${BUFF}
 cat ${BUFF} | jq length
+break
 sleep 2
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=2" > ${BUFF}
 cat ${BUFF}
