@@ -18,7 +18,7 @@ query () {
         "https://api.github.com/search/code?q=${query}"
 }
 
-echo "Creating pipe: ${PIPE}"
+echo "Creating pipe:"
 mkfifo ${PIPE}
 ls -Alh --color ${PIPE}
 
