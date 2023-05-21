@@ -24,9 +24,9 @@ echo "Created buffer:"
 touch ${BUFF}
 ls -Alh --color ${BUFF}
 
-query "${GH_QUERY}&per_page=1" | jq .total_count > ${BUFF}
-read RESULT_COUNT < ${BUFF}
-echo ${RESULT_COUNT}
+#query "${GH_QUERY}&per_page=1" | jq .total_count > ${BUFF}
+#read RESULT_COUNT < ${BUFF}
+#echo ${RESULT_COUNT}
 
 while
     PAGE=$((PAGE+1))
