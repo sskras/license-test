@@ -9,6 +9,7 @@ GH_PER_PAGE=100
 : ${GH_TOKEN:=`read -p "Enter the token (or just export via GH_TOKEN): "; echo $REPLY`}
 
 BUFF="`mktemp`.buffer"
+CONC="`mktemp`.concat"
 PATH=$PATH:/mingw64/bin
 
 
@@ -22,16 +23,18 @@ query () {
 }
 
 
-echo "Created buffer:"
+echo "Created temporary storage:"
 touch ${BUFF}
+touch ${CONC}
 ls -Alh --color ${BUFF}
+ls -Alh --color ${CONC}
 
 while
     PAGE=$((PAGE+1))
     echo "Processing page ${PAGE}"
 
     query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=${PAGE}" > ${BUFF}
-    cat ${BUFF}
+    cat ${BUFF} >> ${CONC}
     ITEM_COUNT=`{ jq '.items | length' | sed s/\\r//; } < ${BUFF}`
     echo -e "\n\nFetched items: ${ITEM_COUNT}\n\n" >/dev/stderr
     sleep 2
@@ -39,8 +42,9 @@ while
     [ ${ITEM_COUNT} = ${GH_PER_PAGE} ]
 do :; done
 
-RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${BUFF}`
+RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${CONC}`
 echo -e "\n\nResults count so far: ${RESULTS_COUNT}\n\n" >/dev/stderr
 
-echo "Removing buffer:"
+echo "Removing temporary storage:"
 rm -v ${BUFF}
+rm -v ${CONC}
