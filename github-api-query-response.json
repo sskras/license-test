@@ -1,8 +1,8 @@
 Created buffer:
--rw-r--r-- 1 saukrs None 0 May 21 22:13 /tmp/tmp.8W41Z18OiH.buffer
+-rw-r--r-- 1 saukrs None 0 May 21 23:25 /tmp/tmp.9iVpQbeCUL.buffer
 Processing page 1
 {
-  "total_count": 299,
+  "total_count": 294,
   "incomplete_results": false,
   "items": [
     {
@@ -7609,7 +7609,7 @@ Processing page 1
 }
 Processing page 2
 {
-  "total_count": 299,
+  "total_count": 294,
   "incomplete_results": false,
   "items": [
     {
@@ -22746,4 +22746,4 @@ Processing page 3
   ]
 }
 Removing buffer:
-removed '/tmp/tmp.8W41Z18OiH.buffer'
+removed '/tmp/tmp.9iVpQbeCUL.buffer'
