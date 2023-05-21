@@ -17,4 +17,4 @@ query () {
 }
 
 query "${GH_QUERY}&per_page=1"
-#query "${GH_QUERY}&per_page=100"
+query "${GH_QUERY}&per_page=100"
