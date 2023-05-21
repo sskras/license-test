@@ -29,6 +29,7 @@ read RESULT_COUNT < ${BUFF}
 echo ${RESULT_COUNT}
 
 while
+
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1" > ${BUFF}
 cat ${BUFF}
 cat ${BUFF} | jq length
