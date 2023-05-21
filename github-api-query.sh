@@ -38,7 +38,7 @@ while
     echo ${ITEM_COUNT}
     sleep 2
 
-    [ ${ITEM_COUNT} = 0 ]
+    [ ${ITEM_COUNT} != 0 ]
 do :; done
 
 #echo "Removing buffer:"
