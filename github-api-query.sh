@@ -49,7 +49,10 @@ cat ${BUFF}
 
 {
 RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${CONC}`
-echo -e "\n\nResults count in each query:\n${RESULTS_COUNT}\n\n"
+echo
+echo
+echo "Results count in each query: "${RESULTS_COUNT}
+echo
 
 echo "Removing temporary storage:"
 rm -v ${BUFF}
