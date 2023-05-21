@@ -40,7 +40,7 @@ while
    #echo ${ITEM_COUNT}
     sleep 2
 
-    [ ${ITEM_COUNT} != 0 ]
+    [ ${ITEM_COUNT} = ${GH_PER_PAGE} ]
 do :; done
 
 echo "Removing buffer:"
