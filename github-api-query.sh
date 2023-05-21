@@ -45,6 +45,7 @@ do :; done
 } >/dev/stderr
 
 cat ${CONC}
+
 {
 RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${CONC}`
 echo -e "\n\nResults count so far:\n${RESULTS_COUNT}\n\n"
