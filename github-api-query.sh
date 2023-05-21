@@ -8,11 +8,12 @@ GH_QUERY='"https%3A%2F%2Fblueoakcouncil.org%2Flicense%2F1.0.0."'
 : ${GH_TOKEN:=`read -p "Enter the token (or just export via GH_TOKEN): "; echo $REPLY`}
 
 query () {
+    query="$1"
     curl -L \
         -H "Accept: application/vnd.github${TEXT_MATCH}+json" \
         -H "Authorization: Bearer ${GH_TOKEN}" \
         -H "X-GitHub-Api-Version: 2022-11-28" \
-        "https://api.github.com/search/code?q=${GH_QUERY}&per_page=100"
+        "https://api.github.com/search/code?q=${query}&per_page=100"
 }
 
-query
+query "${GH_QUERY}"
