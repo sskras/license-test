@@ -30,11 +30,8 @@ echo ${RESULT_COUNT}
 
 while
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1"
-query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1" | jq .items
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=2"
-query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=2" | jq .items
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=3"
-query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=3" | jq .items
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4"
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4" | jq .items
     [ $RESP != '[]' ]
