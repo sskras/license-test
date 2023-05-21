@@ -33,6 +33,7 @@ query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1"
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=2"
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=3"
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4"
+query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4" | jq .items
     [ $RESP != '[]' ]
 do :; done
 
