@@ -33,12 +33,14 @@ while
     query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=${PAGE}" > ${BUFF}
     cat ${BUFF}
     ITEM_COUNT=`{ jq '.items | length' | sed s/\\r//; } < ${BUFF}`
-    RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${BUFF}`
-    echo -e "\n\nResults count so far: ${RESULTS_COUNT}\n\n" >/dev/stderr
+    echo -e "\n\nFetched items: ${ITEM_COUNT}\n\n" >/dev/stderr
     sleep 2
 
     [ ${ITEM_COUNT} = ${GH_PER_PAGE} ]
 do :; done
+
+RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${BUFF}`
+echo -e "\n\nResults count so far: ${RESULTS_COUNT}\n\n" >/dev/stderr
 
 echo "Removing buffer:"
 rm -v ${BUFF}
