@@ -5,7 +5,7 @@
 
 GH_QUERY="q=Q"
 #TEXT_MATCH=".text-match"
-: ${GH_TOKEN:=`read -p "Enter the token: "; echo $REPLY`}
+: ${GH_TOKEN:=`read -p "Enter the token (or just export via GH_TOKEN): "; echo $REPLY`}
 
 curl -L \
     -H "Accept: application/vnd.github${TEXT_MATCH}+json" \
