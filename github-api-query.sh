@@ -27,10 +27,14 @@ ls -Alh --color ${PIPE}
 query "${GH_QUERY}&per_page=1" | jq .total_count > ${PIPE} &
 read RESULT_COUNT < ${PIPE}
 echo ${RESULT_COUNT}
+
+while
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1"
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=2"
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=3"
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4"
+    [ $RESP != '[]' ]; do
+do :; done
 
 echo "Removing pipe:"
 rm -v ${PIPE}
