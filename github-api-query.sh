@@ -30,6 +30,7 @@ echo ${RESULT_COUNT}
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1"
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=2"
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=3"
+query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4"
 
 echo "Removing pipe:"
 rm -v ${PIPE}
