@@ -34,9 +34,9 @@ while
     echo "Processing page ${PAGE}"
 
     query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=${PAGE}" > ${BUFF}
-    cat ${BUFF} >> ${CONC}
     ITEM_COUNT=`{ jq '.items | length' | sed s/\\r//; } < ${BUFF}`
     echo -e "\n\nFetched items: ${ITEM_COUNT}\n\n" >/dev/stderr
+    cat ${BUFF} >> ${CONC}
     sleep 2
 
     [ ${ITEM_COUNT} = ${GH_PER_PAGE} ]
