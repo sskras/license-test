@@ -44,7 +44,7 @@ do :; done
 
 cat ${CONC}
 RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${CONC}`
-echo -e "\n\nResults count so far: ${RESULTS_COUNT}\n\n" >/dev/stderr
+echo -e "\n\nResults count so far:\n${RESULTS_COUNT}\n\n" >/dev/stderr
 
 echo "Removing temporary storage:"
 rm -v ${BUFF}
