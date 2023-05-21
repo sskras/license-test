@@ -29,10 +29,20 @@ echo ${RESULT_COUNT}
 
 while
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1" > ${BUFF}
+cat ${BUFF}
+sleep 2
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=2" > ${BUFF}
+cat ${BUFF}
+sleep 2
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=3" > ${BUFF}
+cat ${BUFF}
+sleep 2
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4" > ${BUFF}
+cat ${BUFF}
+sleep 2
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4" | jq .items
+cat ${BUFF}
+sleep 2
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4" | jq length
     [ $RESP != '[]' ]
 do :; done
