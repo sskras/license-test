@@ -44,11 +44,12 @@ while
 do :; done
 } >/dev/stderr
 
-cat ${CONC} | jq -n '{ items: [inputs.items] | add }' | sed s/\\r//
+cat ${CONC} | jq -n '{ items: [inputs.items] | add }' | sed s/\\r// > ${BUFF}
+cat ${BUFF}
 
 {
 RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${CONC}`
-echo -e "\n\nResults count so far:\n${RESULTS_COUNT}\n\n"
+echo -e "\n\nResults count in each query:\n${RESULTS_COUNT}\n\n"
 
 echo "Removing temporary storage:"
 rm -v ${BUFF}
