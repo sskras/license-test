@@ -32,7 +32,7 @@ ls -Alh --color ${CONC}
 
 while
     PAGE=$((PAGE+1))
-    echo "Processing page ${PAGE}"
+    echo "Processing page ${PAGE}:"
     echo
 
     query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=${PAGE}" > ${BUFF}
