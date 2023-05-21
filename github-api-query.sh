@@ -4,8 +4,8 @@
 # https://docs.github.com/en/rest/search?apiVersion=2022-11-28#constructing-a-search-query
 
 GH_QUERY="q=Q"
-: ${GH_TOKEN:=`read -p "Enter the token: "; echo $REPLY`}
 #TEXT_MATCH=".text-match"
+: ${GH_TOKEN:=`read -p "Enter the token: "; echo $REPLY`}
 
 curl -L \
     -H "Accept: application/vnd.github${TEXT_MATCH}+json" \
