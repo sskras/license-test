@@ -16,5 +16,5 @@ query () {
         "https://api.github.com/search/code?q=${query}"
 }
 
-query "${GH_QUERY}&per_page=1" | wc
+query "${GH_QUERY}&per_page=1" | /mingw64/bin/jq .total_count
 query "${GH_QUERY}&per_page=100"
