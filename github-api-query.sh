@@ -56,7 +56,6 @@ echo
 echo "Results count in each query: "${RESULTS_COUNT}
 echo "Count of actual results: "${FINAL_COUNT}
 echo
-
 echo "Removing temporary storage:"
 echo
 rm -v ${BUFF}
