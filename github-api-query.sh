@@ -33,6 +33,7 @@ ls -Alh --color ${CONC}
 while
     PAGE=$((PAGE+1))
     echo "Processing page ${PAGE}"
+    echo
 
     query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=${PAGE}" > ${BUFF}
     ITEM_COUNT=`{ jq '.items | length' | sed s/\\r//; } < ${BUFF}`
