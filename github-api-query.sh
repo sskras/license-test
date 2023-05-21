@@ -51,5 +51,5 @@ cat ${BUFF} | jq .items
     [ $RESP != '[]' ]
 do :; done
 
-echo "Removing buffer:"
-rm -v ${BUFF}
+#echo "Removing buffer:"
+#rm -v ${BUFF}
