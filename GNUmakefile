@@ -2,7 +2,7 @@ all:
 	@echo "TODO: merge Git repos with the parent dir (../fetch-Blue-Oak-model-license-from-GitHub.sh)"
 
 run:
-	@sh github-api-query.sh | pv > github-api-query-response.json
+	@sh github-api-query.sh > github-api-query-response.json
 	@git diff
 	@git commit -m 'github-api-query-response.json: Ordinary add.' github-api-query-response.json || true
 
