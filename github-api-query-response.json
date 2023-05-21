@@ -1,5 +1,4 @@
 Creating pipe:
-prw-rw-rw- 1 saukrs None 0 May 21 20:32 [0m[33m/tmp/tmp.eoqSqikhNj.fifo[0m
 299
 {
   "total_count": 299,
@@ -22744,9 +22743,13 @@ prw-rw-rw- 1 saukrs None 0 May 21 20:32 [0m[33m/tmp/tmp.eoqSqikhNj.fifo[0m
   ]
 }
 {
-  "message": "API rate limit exceeded for user ID 117377007.",
-  "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  "total_count": 299,
+  "incomplete_results": false,
+  "items": [
+
+  ]
 }
-null
+[]
+3
 Removing pipe:
-removed '/tmp/tmp.eoqSqikhNj.fifo'
+removed '/tmp/tmp.1rukgt4oLg.fifo'
