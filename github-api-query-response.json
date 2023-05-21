@@ -1,4 +1,5 @@
 Created buffer:
+-rw-r--r-- 1 saukrs None 0 May 21 21:01 /tmp/tmp.5cYBU8pL8I.buffer
 299
 {
   "total_count": 299,
@@ -7606,6 +7607,7 @@ Created buffer:
     }
   ]
 }
+3
 {
   "total_count": 299,
   "incomplete_results": false,
@@ -15212,6 +15214,7 @@ Created buffer:
     }
   ]
 }
+3
 {
   "total_count": 299,
   "incomplete_results": false,
@@ -22742,6 +22745,7 @@ Created buffer:
     }
   ]
 }
+3
 {
   "total_count": 299,
   "incomplete_results": false,
@@ -22749,7 +22753,7 @@ Created buffer:
 
   ]
 }
-[]
 3
+[]
 Removing buffer:
-removed '/tmp/tmp.aW05lOkNBC.buffer'
+removed '/tmp/tmp.5cYBU8pL8I.buffer'
