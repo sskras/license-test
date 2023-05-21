@@ -31,26 +31,25 @@ echo ${RESULT_COUNT}
 while
 
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1" > ${BUFF}
-cat ${BUFF}
+    cat ${BUFF}
     read ITEM_COUNT < <(jq '.items | length' < ${BUFF})
     echo ${ITEM_COUNT}
     sleep 2
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=2" > ${BUFF}
-cat ${BUFF}
+    cat ${BUFF}
     read ITEM_COUNT < <(jq '.items | length' < ${BUFF})
     echo ${ITEM_COUNT}
     sleep 2
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=3" > ${BUFF}
-cat ${BUFF}
+    cat ${BUFF}
     read ITEM_COUNT < <(jq '.items | length' < ${BUFF})
     echo ${ITEM_COUNT}
     sleep 2
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4" > ${BUFF}
-cat ${BUFF}
+    cat ${BUFF}
     read ITEM_COUNT < <(jq '.items | length' < ${BUFF})
     echo ${ITEM_COUNT}
     sleep 2
-cat ${BUFF} | jq .items
 
     [ $RESP != '[]' ]
 do :; done
