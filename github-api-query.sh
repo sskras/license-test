@@ -24,3 +24,6 @@ ls -Alh --color ${PIPE}
 
 query "${GH_QUERY}&per_page=1" | jq .total_count
 query "${GH_QUERY}&per_page=100"
+
+echo "Removing pipe:"
+rm -v ${PIPE}
