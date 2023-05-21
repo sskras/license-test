@@ -44,7 +44,7 @@ while
 do :; done
 } >/dev/stderr
 
-cat ${CONC}
+cat ${CONC} | jq -n '{ items: [inputs.items] | add }'
 
 {
 RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${CONC}`
