@@ -21,6 +21,7 @@ query () {
 }
 
 echo "Created buffer:"
+touch ${BUFF}
 ls -Alh --color ${BUFF}
 
 query "${GH_QUERY}&per_page=1" | jq .total_count > ${BUFF}
