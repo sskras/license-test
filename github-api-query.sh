@@ -16,4 +16,5 @@ query () {
         "https://api.github.com/search/code?q=${query}"
 }
 
-query "${GH_QUERY}&per_page=100"
+query "${GH_QUERY}"
+#query "${GH_QUERY}&per_page=100"
