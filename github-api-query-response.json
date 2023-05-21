@@ -1,5 +1,5 @@
 Created buffer:
--rw-r--r-- 1 saukrs None 0 May 21 22:11 /tmp/tmp.Wtmr41o6w6.buffer
+-rw-r--r-- 1 saukrs None 0 May 21 22:12 /tmp/tmp.X9vcjt0pNQ.buffer
 Processing page 1
 {
   "total_count": 299,
@@ -7607,7 +7607,6 @@ Processing page 1
     }
   ]
 }
-Results count so far: 
 Processing page 2
 {
   "total_count": 299,
@@ -15215,7 +15214,6 @@ Processing page 2
     }
   ]
 }
-Results count so far: 
 Processing page 3
 {
   "total_count": 299,
@@ -22747,6 +22745,5 @@ Processing page 3
     }
   ]
 }
-Results count so far: 
 Removing buffer:
-removed '/tmp/tmp.Wtmr41o6w6.buffer'
+removed '/tmp/tmp.X9vcjt0pNQ.buffer'
