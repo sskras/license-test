@@ -3,7 +3,7 @@
 # Sample of the query:
 # https://docs.github.com/en/rest/search?apiVersion=2022-11-28#constructing-a-search-query
 
-: ${GH_TOKEN:=`cat -`}
+: ${GH_TOKEN:=`echo -n "Enter the token: "; cat -`}
 #TEXT_MATCH=".text-match"
 
 curl -L \
