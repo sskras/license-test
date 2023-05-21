@@ -4,7 +4,7 @@ all:
 run:
 	@sh github-api-query.sh | pv > github-api-query-response.json
 	@git diff
-	@git commit -m 'github-api-query-response.json: Ordinary add.' github-api-query-response.json
+	@git commit -m 'github-api-query-response.json: Ordinary add.' github-api-query-response.json || true
 
 count:
 	@cat repo-list-using-blueoak.md                                                \
