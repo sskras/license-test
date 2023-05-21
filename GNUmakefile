@@ -1,6 +1,9 @@
 all:
 	@echo "TODO: merge Git repos with the parent dir (../fetch-Blue-Oak-model-license-from-GitHub.sh)"
 
+run:
+	@sh github-api-query.sh | pv > github-api-query-response.json
+
 count:
 	@cat repo-list-using-blueoak.md                                                \
 	  | grep -E '^[~|?]?https:' -c
