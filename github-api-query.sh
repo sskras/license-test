@@ -4,7 +4,7 @@
 # https://docs.github.com/en/rest/search?apiVersion=2022-11-28#constructing-a-search-query
 
 PATH=$PATH:/mingw64/bin
-PIPE="`mktemp`.fifo"
+BUFF="`mktemp`.fifo"
 
 GH_QUERY='"https%3A%2F%2Fblueoakcouncil.org%2Flicense%2F1.0.0."'
 GH_PER_PAGE=100
@@ -20,12 +20,11 @@ query () {
         "https://api.github.com/search/code?q=${query}"
 }
 
-echo "Creating pipe:"
-#mkfifo ${PIPE}
-ls -Alh --color ${PIPE}
+echo "Created buffer:"
+ls -Alh --color ${BUFF}
 
-query "${GH_QUERY}&per_page=1" | jq .total_count > ${PIPE}
-read RESULT_COUNT < ${PIPE}
+query "${GH_QUERY}&per_page=1" | jq .total_count > ${BUFF}
+read RESULT_COUNT < ${BUFF}
 echo ${RESULT_COUNT}
 
 while
@@ -38,5 +37,5 @@ query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4" | jq length
     [ $RESP != '[]' ]
 do :; done
 
-echo "Removing pipe:"
-rm -v ${PIPE}
+echo "Removing buffer:"
+rm -v ${BUFF}
