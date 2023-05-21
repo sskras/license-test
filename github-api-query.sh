@@ -36,7 +36,7 @@ while
 
     query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=${PAGE}" > ${BUFF}
     cat ${BUFF}
-    read ITEM_COUNT < <(jq '.items | length' | sed s/\r// < ${BUFF})
+    read ITEM_COUNT < <(jq '.items | length' | sed s/\\r// < ${BUFF})
     echo ${ITEM_COUNT}
     sleep 2
 
