@@ -41,7 +41,6 @@ query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=4" > ${BUFF}
 cat ${BUFF}
 sleep 2
 cat ${BUFF} | jq .items
-cat ${BUFF}
 sleep 2
 cat ${BUFF} | jq length
     [ $RESP != '[]' ]
