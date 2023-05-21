@@ -31,6 +31,8 @@ echo ${RESULT_COUNT}
 while
 
     PAGE=$((PAGE+1))
+    echo "Processing page ${PAGE}"
+
 query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=1" > ${BUFF}
     cat ${BUFF}
     read ITEM_COUNT < <(jq '.items | length' < ${BUFF})
