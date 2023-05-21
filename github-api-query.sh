@@ -21,10 +21,10 @@ query () {
 }
 
 echo "Creating pipe:"
-mkfifo ${PIPE}
+#mkfifo ${PIPE}
 ls -Alh --color ${PIPE}
 
-query "${GH_QUERY}&per_page=1" | jq .total_count > ${PIPE} &
+query "${GH_QUERY}&per_page=1" | jq .total_count > ${PIPE}
 read RESULT_COUNT < ${PIPE}
 echo ${RESULT_COUNT}
 
