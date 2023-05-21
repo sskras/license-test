@@ -49,7 +49,7 @@ cat ${BUFF}
 
 {
 RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${CONC}`
-FINAL_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${BUFF}`
+FINAL_COUNT=`{ jq '.items | length' | sed s/\\r//; } < ${BUFF}`
 echo
 echo
 echo "Results count in each query: "${RESULTS_COUNT}
