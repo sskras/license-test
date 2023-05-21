@@ -18,5 +18,6 @@ query () {
         "https://api.github.com/search/code?q=${query}"
 }
 
+echo "Creating pipe: ${PIPE}"
 query "${GH_QUERY}&per_page=1" | jq .total_count
 query "${GH_QUERY}&per_page=100"
