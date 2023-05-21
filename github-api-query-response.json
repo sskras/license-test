@@ -1,9 +1,3 @@
-Created temporary storage:
--rw-r--r-- 1 saukrs None 0 May 21 23:52 /tmp/tmp.mTIypykATk.buffer
--rw-r--r-- 1 saukrs None 0 May 21 23:52 /tmp/tmp.zBsdncLkO2.concat
-Processing page 1
-Processing page 2
-Processing page 3
 {
   "total_count": 299,
   "incomplete_results": false,
@@ -22746,6 +22740,3 @@ Processing page 3
     }
   ]
 }
-Removing temporary storage:
-removed '/tmp/tmp.mTIypykATk.buffer'
-removed '/tmp/tmp.zBsdncLkO2.concat'
