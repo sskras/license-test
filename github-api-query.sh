@@ -32,7 +32,7 @@ while
     cat ${BUFF}
     ITEM_COUNT=`{ jq '.items | length' | sed s/\\r//; } < ${BUFF}`
     RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${BUFF}`
-    echo "Results count so far: ${RESULT_COUNT}"
+    echo "Results count so far: ${RESULT_COUNT}" >/dev/stderr
     sleep 2
 
     [ ${ITEM_COUNT} = ${GH_PER_PAGE} ]
