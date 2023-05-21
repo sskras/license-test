@@ -35,7 +35,7 @@ while
 
     query "${GH_QUERY}&per_page=${GH_PER_PAGE}&page=${PAGE}" > ${BUFF}
     ITEM_COUNT=`{ jq '.items | length' | sed s/\\r//; } < ${BUFF}`
-    echo -e "\n\nFetched items: ${ITEM_COUNT}\n\n" >/dev/stderr
+    echo -e "\n\nFetched items: ${ITEM_COUNT}\n\n" >2
     cat ${BUFF} >> ${CONC}
     sleep 2
 
@@ -44,7 +44,7 @@ do :; done
 
 cat ${CONC}
 RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${CONC}`
-echo -e "\n\nResults count so far:\n${RESULTS_COUNT}\n\n" >/dev/stderr
+echo -e "\n\nResults count so far:\n${RESULTS_COUNT}\n\n" >2
 
 echo "Removing temporary storage:"
 rm -v ${BUFF}
