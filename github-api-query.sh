@@ -28,6 +28,8 @@ query "${GH_QUERY}&per_page=1" | jq .total_count > ${BUFF}
 read RESULT_COUNT < ${BUFF}
 echo ${RESULT_COUNT}
 
+set -x
+
 while
     PAGE=$((PAGE+1))
     echo "Processing page ${PAGE}"
