@@ -1,8 +1,8 @@
 Created buffer:
--rw-r--r-- 1 saukrs None 0 May 21 21:04 /tmp/tmp.eqnwBIfB4a.buffer
-299
+-rw-r--r-- 1 saukrs None 0 May 21 21:07 /tmp/tmp.MAnlr5P3ei.buffer
+294
 {
-  "total_count": 299,
+  "total_count": 294,
   "incomplete_results": false,
   "items": [
     {
@@ -7607,4 +7607,4 @@ Created buffer:
     }
   ]
 }
-3
+100
