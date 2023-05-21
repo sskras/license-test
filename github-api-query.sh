@@ -13,7 +13,7 @@ query () {
         -H "Accept: application/vnd.github${TEXT_MATCH}+json" \
         -H "Authorization: Bearer ${GH_TOKEN}" \
         -H "X-GitHub-Api-Version: 2022-11-28" \
-        "https://api.github.com/search/code?q=${query}&per_page=100"
+        "https://api.github.com/search/code?q=${query}"
 }
 
-query "${GH_QUERY}"
+query "${GH_QUERY}&per_page=100"
