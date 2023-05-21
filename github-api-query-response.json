@@ -1,4 +1,4 @@
-Creating pipe:
+Created buffer:
 299
 {
   "total_count": 299,
@@ -22751,5 +22751,5 @@ Creating pipe:
 }
 []
 3
-Removing pipe:
-removed '/tmp/tmp.1rukgt4oLg.fifo'
+Removing buffer:
+removed '/tmp/tmp.W7Gf4I4hP5.fifo'
