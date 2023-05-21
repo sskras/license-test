@@ -1,5 +1,5 @@
 Creating pipe:
-prw-rw-rw- 1 saukrs None 0 May 21 20:08 [0m[33m/tmp/tmp.Fq3fZGp5cP.fifo[0m
+prw-rw-rw- 1 saukrs None 0 May 21 20:26 [0m[33m/tmp/tmp.IGFDtfj435.fifo[0m
 299
 {
   "total_count": 299,
@@ -22751,4 +22751,4 @@ prw-rw-rw- 1 saukrs None 0 May 21 20:08 [0m[33m/tmp/tmp.Fq3fZGp5cP.fifo[0m
   ]
 }
 Removing pipe:
-removed '/tmp/tmp.Fq3fZGp5cP.fifo'
+removed '/tmp/tmp.IGFDtfj435.fifo'
