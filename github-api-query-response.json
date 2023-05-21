@@ -1,8 +1,8 @@
 Creating pipe:
-prw-rw-rw- 1 saukrs None 0 May 21 20:07 [0m[33m/tmp/tmp.aOTapr4d0T.fifo[0m
-294
+prw-rw-rw- 1 saukrs None 0 May 21 20:08 [0m[33m/tmp/tmp.Fq3fZGp5cP.fifo[0m
+299
 {
-  "total_count": 294,
+  "total_count": 299,
   "incomplete_results": false,
   "items": [
     {
@@ -7608,7 +7608,7 @@ prw-rw-rw- 1 saukrs None 0 May 21 20:07 [0m[33m/tmp/tmp.aOTapr4d0T.fifo[0m
   ]
 }
 {
-  "total_count": 294,
+  "total_count": 299,
   "incomplete_results": false,
   "items": [
     {
@@ -22743,5 +22743,12 @@ prw-rw-rw- 1 saukrs None 0 May 21 20:07 [0m[33m/tmp/tmp.aOTapr4d0T.fifo[0m
     }
   ]
 }
+{
+  "total_count": 299,
+  "incomplete_results": false,
+  "items": [
+
+  ]
+}
 Removing pipe:
-removed '/tmp/tmp.aOTapr4d0T.fifo'
+removed '/tmp/tmp.Fq3fZGp5cP.fifo'
