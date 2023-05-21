@@ -22,7 +22,7 @@ echo "Creating pipe:"
 mkfifo ${PIPE}
 ls -Alh --color ${PIPE}
 
-query "${GH_QUERY}&per_page=1" | jq .total_count > ${PIPE}
+query "${GH_QUERY}&per_page=1" | jq .total_count > ${PIPE} &
 cat ${PIPE}
 query "${GH_QUERY}&per_page=100"
 
