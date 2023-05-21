@@ -42,6 +42,7 @@ while
     [ ${ITEM_COUNT} = ${GH_PER_PAGE} ]
 do :; done
 
+cat ${CONC}
 RESULTS_COUNT=`{ jq '.total_count' | sed s/\\r//; } < ${CONC}`
 echo -e "\n\nResults count so far: ${RESULTS_COUNT}\n\n" >/dev/stderr
 
